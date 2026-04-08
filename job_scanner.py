@@ -537,7 +537,17 @@ def scrape_linkedin_playwright() -> list:
                     page.wait_for_timeout(500)
 
                 page.wait_for_timeout(2000)
-                log.info(f"LinkedIn page URL after scroll: {page.url}")
+                current_url = page.url
+                log.info(f"  Page URL after scroll: {current_url}")
+
+                all_hrefs = page.eval_on_selector_all(
+                    "a[href]",
+                    "els => els.map(e => e.href).filter(h => h)"
+                )
+                jobs_view_count = sum(1 for h in all_hrefs if '/jobs/view/' in h)
+                log.info(
+                    f"  Total hrefs on page: {len(all_hrefs)}, containing /jobs/view/: {jobs_view_count}"
+                )
 
                 raw_links = page.eval_on_selector_all(
                     "a[href]",
