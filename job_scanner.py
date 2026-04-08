@@ -21,19 +21,22 @@ Google Sheets expected structure:
 """
 
 import os
+import re
 import sys
 import json
 import time
 import logging
 import datetime
 from pathlib import Path
-from urllib.parse import urlencode, urljoin
+import random
+from urllib.parse import urlencode, urljoin, quote_plus
 
 from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent / ".env")
 
 import yaml
 import feedparser
+from playwright.sync_api import sync_playwright
 import requests
 from bs4 import BeautifulSoup
 import anthropic
@@ -60,8 +63,9 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 GOOGLE_SHEET_ID = os.environ["GOOGLE_SHEET_ID"]
 GOOGLE_SA_JSON = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+LINKEDIN_LI_AT = os.getenv("LINKEDIN_LI_AT", "")
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive.readonly",
@@ -156,6 +160,30 @@ ENGINEERING_KEYWORDS = [
     "devops engineer", "frontend engineer", "full stack engineer",
     "junior", "graduate", "intern", "apprentice",
 ]
+
+
+# Fix 1 — job-title signal gate: anchor text must contain at least one of these
+# to be considered a real job posting (blocks nav/CTA/region links).
+ROLE_TEXT_SIGNALS = [
+    "consultant", "manager", "lead", "director", "analyst",
+    "strategist", "engineer", "specialist", "head of", "officer",
+    "advisor", "associate",
+]
+
+SCORING_TITLE_KEYWORDS = [
+    "transformation", "strategy", "ai", "digital", "consultant",
+    "enablement", "governance", "advisory", "intelligence",
+]
+
+
+def has_scoring_keyword(text: str) -> bool:
+    t = text.lower()
+    return any(kw in t for kw in SCORING_TITLE_KEYWORDS)
+
+
+def has_role_signal(text: str) -> bool:
+    t = text.lower()
+    return any(re.search(r"\b" + re.escape(sig) + r"\b", t) for sig in ROLE_TEXT_SIGNALS)
 
 
 def is_engineering_role(title: str) -> bool:
@@ -290,8 +318,21 @@ def fetch_page_text(url: str, cap: int = 8000) -> str:
         return ""
 
 
+# Fix 2 — companies that render via JS and need Playwright
+PLAYWRIGHT_COMPANIES = {"Sia Partners", "ServiceNow", "Roche", "Novartis"}
+
+# Href patterns that indicate an actual job posting page
+JOB_HREF_PATTERNS = ["/job/", "/jobs/", "/careers/", "/position/", "/vacancy/",
+                     "/opening/", "/requisition/", "/apply/"]
+
+
+def _is_job_href(href: str) -> bool:
+    h = href.lower()
+    return any(p in h for p in JOB_HREF_PATTERNS)
+
+
 def scrape_company_page(company: dict) -> list:
-    """Extract job-link candidates from a company careers page."""
+    """Extract job-link candidates from a company careers page (static HTTP)."""
     name, url = company["name"], company["url"]
     log.info(f"Scraping: {name}")
     try:
@@ -314,35 +355,237 @@ def scrape_company_page(company: dict) -> list:
                 continue
             if href in seen_urls:
                 continue
-            # Heuristic: URL or link text looks like a job posting
-            href_l = href.lower()
-            text_l = text.lower()
-            is_job = (
-                any(kw in href_l for kw in [
-                    "job", "career", "position", "role", "opening",
-                    "vacancy", "apply", "requisition", "hiring",
-                ]) or
-                any(kw in text_l for kw in [
-                    "consultant", "manager", "lead", "head of", "director",
-                    "strategist", "advisor", "analyst", "officer", "specialist",
-                    "transformation", "strategy", "ai ", "digital",
-                ])
-            )
-            if is_job:
-                seen_urls.add(href)
-                jobs.append({
-                    "job_title":   text,
-                    "url":         href,
-                    "company":     name,
-                    "description": "",
-                    "date_posted": "",
-                    "source":      f"Company: {name}",
-                })
+            # Fix 1: anchor text must contain a role signal keyword
+            if not has_role_signal(text):
+                continue
+            seen_urls.add(href)
+            jobs.append({
+                "job_title":   text,
+                "url":         href,
+                "company":     name,
+                "description": "",
+                "date_posted": "",
+                "source":      f"Company: {name}",
+            })
         log.info(f"   {min(len(jobs), 25)} links from {name}")
         return jobs[:25]
     except Exception as exc:
         log.warning(f"Scrape failed ({name}): {exc}")
         return []
+
+
+def scrape_company_page_playwright(company: dict) -> list:
+    """
+    Render a JS-heavy careers page with headless Chromium (same pattern as
+    alza-local/local.js): stealth header patch, scroll 8×, extract links
+    that match job-href patterns AND pass the role-signal text filter.
+    """
+    name, url = company["name"], company["url"]
+    log.info(f"Playwright scrape: {name}")
+    jobs = []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                ),
+                viewport={"width": 1280, "height": 800},
+                locale="en-US",
+            )
+            # Stealth: mask navigator.webdriver
+            ctx.add_init_script(
+                "Object.defineProperty(navigator,'webdriver',{get:()=>undefined});"
+            )
+            page = ctx.new_page()
+            page.set_extra_http_headers({
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            })
+            page.goto(url, wait_until="domcontentloaded", timeout=45_000)
+            page.wait_for_timeout(2500)   # let SPA hydrate
+
+            # Scroll 8× like alza-local/local.js
+            for _ in range(8):
+                page.mouse.wheel(0, 900)
+                page.wait_for_timeout(400)
+
+            # Extract all anchors
+            raw_links = page.eval_on_selector_all(
+                "a[href]",
+                "els => els.map(e => ({text: e.innerText.trim(), href: e.getAttribute('href')}))"
+            )
+            browser.close()
+
+        seen_urls: set = set()
+        for link in raw_links:
+            text = (link.get("text") or "").strip()
+            href = (link.get("href") or "").strip()
+            if not text or not href or not (8 <= len(text) <= 200):
+                continue
+            if href.startswith("/"):
+                href = urljoin(url, href)
+            elif not href.startswith("http"):
+                continue
+            if href in seen_urls:
+                continue
+            # Fix 2: href must look like a job page AND text must pass role signal
+            if not _is_job_href(href) or not has_role_signal(text):
+                continue
+            seen_urls.add(href)
+            jobs.append({
+                "job_title":   text,
+                "url":         href,
+                "company":     name,
+                "description": "",
+                "date_posted": "",
+                "source":      f"Company/PW: {name}",
+            })
+
+        log.info(f"   {len(jobs)} job links from {name} (Playwright)")
+        return jobs[:30]
+    except Exception as exc:
+        log.warning(f"Playwright scrape failed ({name}): {exc}")
+        return []
+
+
+# Fix 3 — LinkedIn Playwright scraper with li_at cookie injection
+LINKEDIN_QUERIES = [
+    ("AI transformation consultant", "Europe"),
+    ("digital transformation consultant", "Europe"),
+    ("AI strategy consultant", "Europe"),
+    ("AI enablement lead", "Europe"),
+    ("head of AI transformation", "Europe"),
+    ("technology strategy consultant", "Lisbon"),
+    ("digital transformation consultant", "Prague"),
+    ("senior product manager AI", "Europe"),
+]
+
+# Matches authenticated LinkedIn job-view URLs only
+LINKEDIN_JOB_URL_RE = re.compile(r"linkedin\.com/jobs/view/\d+")
+
+
+def scrape_linkedin_playwright() -> list:
+    """
+    Scrape LinkedIn job search results using li_at session cookie.
+    - maxConcurrency: 1 (sequential queries, same as alza-local pattern)
+    - Scroll 8× per page
+    - 2–3 s jitter between queries
+    - Extracts only /jobs/view/<id> URLs
+    - Applies role-signal text filter on job card titles
+    """
+    if not LINKEDIN_LI_AT:
+        log.info("LINKEDIN_LI_AT not set — skipping LinkedIn Playwright scraper")
+        return []
+
+    all_jobs: list[dict] = []
+    log.info(f"LinkedIn Playwright: {len(LINKEDIN_QUERIES)} queries")
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        ctx = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/122.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1440, "height": 900},
+            locale="en-US",
+        )
+        # Stealth patch
+        ctx.add_init_script(
+            "Object.defineProperty(navigator,'webdriver',{get:()=>undefined});"
+        )
+        # Inject li_at session cookie — authenticates the session
+        ctx.add_cookies([{
+            "name":   "li_at",
+            "value":  LINKEDIN_LI_AT,
+            "domain": "www.linkedin.com",
+            "path":   "/",
+            "secure": True,
+            "httpOnly": True,
+        }])
+
+        page = ctx.new_page()
+        page.set_extra_http_headers({
+            "Accept-Language": "en-US,en;q=0.9",
+        })
+
+        # Warm up session: land on feed first so the li_at cookie is honoured
+        # before navigating to search (avoids ERR_TOO_MANY_REDIRECTS)
+        try:
+            page.goto("https://linkedin.com/feed/", wait_until="domcontentloaded", timeout=20_000)
+            page.wait_for_timeout(2000)
+        except Exception as exc:
+            log.warning(f"LinkedIn feed warm-up failed: {exc}")
+
+        for keywords, location in LINKEDIN_QUERIES:
+            search_url = (
+                "https://www.linkedin.com/jobs/search/?"
+                + urlencode({"keywords": keywords, "location": location, "f_WT": "2"})
+            )
+            log.info(f"  LinkedIn ← {keywords} / {location}")
+            try:
+                page.goto(search_url, wait_until="domcontentloaded", timeout=30_000)
+                page.wait_for_timeout(3000)   # SPA render buffer
+
+                # Scroll 8× to load lazy job cards (mirrors alza-local scroll loop)
+                for _ in range(8):
+                    page.mouse.wheel(0, 900)
+                    page.wait_for_timeout(500)
+
+                page.wait_for_timeout(2000)
+                log.info(f"LinkedIn page URL after scroll: {page.url}")
+
+                raw_links = page.eval_on_selector_all(
+                    "a[href]",
+                    """els => els.map(e => ({
+                        href: e.href,
+                        text: (e.innerText || e.getAttribute('aria-label') || '').trim()
+                    }))"""
+                )
+                jobs_view_count = sum(
+                    1 for link in raw_links
+                    if link.get("href") and "/jobs/view/" in link.get("href")
+                )
+                log.info(f"LinkedIn raw href links: {len(raw_links)}, jobs/view count: {jobs_view_count}")
+
+                found = 0
+                for link in raw_links:
+                    href = (link.get("href") or "").strip()
+                    text = (link.get("text") or "").strip()
+                    if not href or not LINKEDIN_JOB_URL_RE.search(href):
+                        continue
+                    # Normalise to canonical job URL (strip tracking params)
+                    match = LINKEDIN_JOB_URL_RE.search(href)
+                    clean_url = "https://www." + match.group(0) + "/"
+                    # Apply role-signal filter (Fix 1)
+                    if text and not has_role_signal(text):
+                        continue
+                    all_jobs.append({
+                        "job_title":   text or "LinkedIn job",
+                        "url":         clean_url,
+                        "company":     "",
+                        "description": "",
+                        "date_posted": "",
+                        "source":      f"LinkedIn/PW: {keywords}",
+                    })
+                    found += 1
+
+                log.info(f"     {found} job cards extracted")
+
+            except Exception as exc:
+                log.warning(f"  LinkedIn query failed ({keywords}): {exc}")
+
+            # 2–3 s jitter between queries (maxConcurrency: 1)
+            time.sleep(random.uniform(2.0, 3.0))
+
+        browser.close()
+
+    log.info(f"LinkedIn Playwright total: {len(all_jobs)} job cards")
+    return all_jobs
 
 
 # ─── CLAUDE SCORING ─────────────────────────────────────────────────────────────
@@ -396,7 +639,7 @@ def score_job(client: anthropic.Anthropic, job: dict) -> dict | None:
     try:
         resp = client.messages.create(
             model=CLAUDE_MODEL,
-            max_tokens=400,
+            max_tokens=300,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": user_msg}],
         )
@@ -645,12 +888,23 @@ def main():
         sources_scanned += 1
         time.sleep(1)
 
+    # LinkedIn authenticated scraper (Fix 3)
+    linkedin_jobs = scrape_linkedin_playwright()
+    all_jobs.extend(linkedin_jobs)
+    if linkedin_jobs:
+        sources_scanned += 1
+
     # Company career pages (very-high and high fit only)
+    # Fix 2: Sia Partners / ServiceNow / Roche / Novartis use Playwright renderer
     for company in portals.get("tracked_companies", []):
-        if company.get("fit") in ("very-high", "high"):
+        if company.get("fit") not in ("very-high", "high"):
+            continue
+        if company["name"] in PLAYWRIGHT_COMPANIES:
+            all_jobs.extend(scrape_company_page_playwright(company))
+        else:
             all_jobs.extend(scrape_company_page(company))
-            sources_scanned += 1
-            time.sleep(2)
+        sources_scanned += 1
+        time.sleep(2)
 
     total_fetched = len(all_jobs)
     log.info(f"Total fetched: {total_fetched} from {sources_scanned} sources")
@@ -665,17 +919,32 @@ def main():
             deduped.append(job)
     log.info(f"New (after dedup): {len(deduped)}")
 
-    # ── Step 3: Pre-filter engineering roles ────────────────────────────────────
+    # ── Step 3: Pre-filter — nav links + engineering roles ──────────────────────
     to_score: list[dict] = []
     auto_skipped = 0
     for job in deduped:
-        if is_engineering_role(job.get("job_title", "")):
-            log.info(f"Auto-skip (engineering): {job['job_title'][:60]}")
+        title = job.get("job_title", "")
+        # Fix 1: discard items with no role signal in the title (nav/CTA noise)
+        if not has_role_signal(title):
+            log.debug(f"Auto-skip (no role signal): {title[:60]}")
+            auto_skipped += 1
+            continue
+
+        # Pre-filter by high-level focus keywords before calling Claude
+        if not has_scoring_keyword(title):
+            log.info(f"Auto-skip (title focus): {title[:60]}")
+            mark_tracked(sheet, job, today)
+            auto_skipped += 1
+            continue
+
+        # Discard pure engineering roles before calling Claude (save tokens)
+        if is_engineering_role(title):
+            log.info(f"Auto-skip (engineering): {title[:60]}")
             mark_tracked(sheet, job, today)
             auto_skipped += 1
         else:
             to_score.append(job)
-    log.info(f"To score: {len(to_score)} ({auto_skipped} engineering auto-skipped)")
+    log.info(f"To score: {len(to_score)} ({auto_skipped} auto-skipped)")
 
     # ── Step 4: Score with Claude API ───────────────────────────────────────────
     pipeline_jobs:  list[dict] = []   # score >= 4.0 → "pipeline" tab

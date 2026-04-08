@@ -191,7 +191,7 @@ tracked_companies:
     notes: "Management consulting, AI practice, European. Strong match."
 
   - name: "Wavestone"
-    url: "https://www.wavestone.com/en/join-us/"
+    url: "https://www.wavestone.com/en/careers/"
     fit: very-high
     notes: "Digital transformation boutique. European. Consulting DNA."
 
@@ -218,7 +218,7 @@ tracked_companies:
 
   # High fit — Lisbon cluster
   - name: "Deloitte Portugal"
-    url: "https://www2.deloitte.com/pt/en/pages/careers"
+    url: "https://www.deloitte.com/pt/en/careers.html"
     fit: high
     notes: "Lisbon office. Consulting practice. Target relocation."
 
