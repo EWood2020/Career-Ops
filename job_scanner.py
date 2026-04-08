@@ -29,6 +29,12 @@ import logging
 import datetime
 from pathlib import Path
 import random
+import smtplib
+import ssl
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
 from urllib.parse import urlencode, urljoin, quote_plus
 
 from dotenv import load_dotenv
@@ -870,6 +876,86 @@ def generate_pdf(
     log.info(f"PDF saved: {output_path}")
 
 
+# ─── EMAIL NOTIFICATIONS ──────────────────────────────────────────────────────
+
+def send_email_briefing(
+    pipeline_jobs: list,
+    partial_fits: list,
+    stats: dict,
+    today: str,
+    pdf_path: Path,
+):
+    """Send Daily briefing via Gmail with PDF attachment."""
+    gmail_address = os.getenv("GMAIL_ADDRESS", "")
+    gmail_password = os.getenv("GMAIL_APP_PASSWORD", "")
+    
+    if not gmail_address or not gmail_password:
+        log.warning("GMAIL_ADDRESS or GMAIL_APP_PASSWORD not set — skipping email notification")
+        return
+    
+    try:
+        # Build plain text body
+        body = f"Career-Ops Daily Briefing — {today}\n"
+        body += "=" * 60 + "\n\n"
+        
+        body += "📊 STATS\n"
+        body += f"Sources: {stats.get('sources_scanned', 0)}\n"
+        body += f"Fetched: {stats.get('total_fetched', 0)}\n"
+        body += f"Scored: {stats.get('scored', 0)}\n\n"
+        
+        # Pipeline section
+        if pipeline_jobs:
+            body += f"✅ PIPELINE — Apply Now ({len(pipeline_jobs)} role{'s' if len(pipeline_jobs) != 1 else ''})\n"
+            body += "-" * 60 + "\n"
+            for item in pipeline_jobs:
+                job = item["job"]
+                result = item["result"]
+                body += f"\n{job.get('job_title', 'Untitled')} — {job.get('company', '?')}\n"
+                body += f"Score: {result.get('score', '?')} | Fit: {result.get('fit_pct', '?')}% | {result.get('salary_ask', 'Not stated')}\n"
+                body += f"{result.get('why', '')}\n"
+                body += f"URL: {job.get('url', '')}\n"
+            body += "\n"
+        else:
+            body += "✅ PIPELINE\nNo roles scored ≥ 4.0 today.\n\n"
+        
+        # Partial fits section
+        if partial_fits:
+            body += f"🟡 PARTIAL FITS ({len(partial_fits)} role{'s' if len(partial_fits) != 1 else ''})\n"
+            body += "-" * 60 + "\n"
+            for item in partial_fits:
+                job = item["job"]
+                result = item["result"]
+                body += f"\n{job.get('job_title', 'Untitled')} — {job.get('company', '?')} (score: {result.get('score', '?')})\n"
+        
+        # Create email
+        subject = f"Career-Ops Daily Briefing {today} — {len(pipeline_jobs)} pipeline roles"
+        message = MIMEMultipart()
+        message["From"] = gmail_address
+        message["To"] = gmail_address
+        message["Subject"] = subject
+        
+        message.attach(MIMEText(body, "plain"))
+        
+        # Attach PDF
+        if pdf_path.exists():
+            with open(pdf_path, "rb") as attachment:
+                part = MIMEBase("application", "octet-stream")
+                part.set_payload(attachment.read())
+            encoders.encode_base64(part)
+            part.add_header("Content-Disposition", f"attachment; filename= {pdf_path.name}")
+            message.attach(part)
+        
+        # Send via Gmail
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+            server.login(gmail_address, gmail_password)
+            server.sendmail(gmail_address, gmail_address, message.as_string())
+        
+        log.info(f"Email briefing sent to {gmail_address}")
+    except Exception as exc:
+        log.warning(f"Email notification error: {exc}")
+
+
 # ─── MAIN ───────────────────────────────────────────────────────────────────────
 
 def main():
@@ -1023,6 +1109,9 @@ def main():
     }
     pdf_path = OUTPUT_DIR / f"job_briefing_{today}.pdf"
     generate_pdf(pipeline_jobs, partial_fits, pdf_path, today, stats)
+
+    # ── Step 6: Send email briefing ─────────────────────────────────────────────
+    send_email_briefing(pipeline_jobs, partial_fits, stats, today, pdf_path)
 
     # ── Summary ─────────────────────────────────────────────────────────────────
     print(f"\n{'='*60}")
