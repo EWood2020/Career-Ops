@@ -1,0 +1,217 @@
+# Career-Ops Profile — Enrique Wood Rivero
+# This is the source of truth for how the system evaluates fit and tailors CVs.
+
+candidate:
+  name: Enrique Wood Rivero
+  email: enriquewori@gmail.com
+  phone: "+34618253083"
+  location: Prague, Czech Republic
+  linkedin: linkedin.com/in/enriquewood
+  website: enriquewood.tech
+  nationality: EU citizen
+  languages:
+    - Spanish (native)
+    - English (proficient)
+    - Portuguese (advanced)
+
+# ─── POSITIONING ────────────────────────────────────────────────────────────
+# This is how you want to be read. The agent uses this for the "fit" narrative.
+
+positioning:
+  primary: "AI Transformation & Digital Strategy — business-side"
+  secondary: "Senior Product Manager / Market Business Technologist"
+  tertiary: "AI Automation Consultant (independent)"
+
+  one_liner: >
+    I sit at the intersection of organizational change and AI implementation.
+    I know what broken processes look like from the inside — and I build the
+    foundation that makes AI actually work.
+
+  core_thesis: >
+    AI transformation is an organizational challenge first, a tooling challenge
+    second. Readiness and process integrity matter more than the technology itself.
+    Applying AI to broken processes compounds the problems instead of solving them.
+
+  differentiator: >
+    Unlike most AI consultants who either advise without building or build without
+    understanding the business — I do both. I can walk into a C-suite conversation
+    about transformation strategy AND set up the agent system that executes it.
+    That dual capability is rare and increasingly what the market pays a premium for.
+
+# ─── TARGET ROLES ───────────────────────────────────────────────────────────
+# These are the roles Career-Ops should evaluate fit against and search for.
+# Ordered by priority.
+
+target_roles:
+  - "AI Transformation Lead"
+  - "Digital Transformation Consultant (Senior)"
+  - "AI Strategy Consultant"
+  - "AI Enablement Lead"
+  - "Decision Intelligence Consultant"
+  - "Head of AI / AI Program Lead"
+  - "Senior Product Manager (AI/Platform)"
+  - "Market Business Technologist"
+  - "Technology Strategy Consultant"
+  - "AI Governance & Operations Lead"
+
+# Roles to AVOID — wrong fit or wrong competition ground
+avoid_roles:
+  - "Generative AI Engineer"
+  - "ML Engineer"
+  - "Data Scientist"
+  - "Python Developer"
+  - "RAG/LLM Engineer"
+  - "Prompt Engineer (pure technical)"
+
+# ─── WHAT GOOD FIT LOOKS LIKE ───────────────────────────────────────────────
+# The agent should score high when a role has these signals.
+
+fit_signals_positive:
+  - Role is on the business side of AI, not purely engineering
+  - Requires translating complex tech to non-technical stakeholders
+  - Involves organizational change, adoption, or transformation
+  - Mentions LEAN, ITIL, governance, operating model, or process
+  - Consulting or advisory context — internal or external
+  - Cross-functional alignment or stakeholder management required
+  - Strategic + hands-on execution combination valued
+  - Multinational or regulated environment (pharma, energy, enterprise)
+  - Based in Prague OR remote-friendly in Europe OR Lisbon/Portugal area
+
+fit_signals_negative:
+  - Requires deep Python / ML framework expertise (PyTorch, TensorFlow, etc.)
+  - Primarily a coding / engineering build role
+  - No business stakeholder interaction
+  - Pure data science or statistical modeling
+  - Requires STEM degree as hard filter with no exceptions
+
+# ─── COMPENSATION ────────────────────────────────────────────────────────────
+
+compensation:
+  minimum_annual_gross: 65000  # EUR, approximate
+  target_annual_gross: 85000
+  open_to_negotiation: true
+  note: >
+    Currently also running independent consulting. A strong employed role
+    should ideally allow continued side work or have high enough comp to offset.
+
+# ─── LOCATION PREFERENCES ───────────────────────────────────────────────────
+
+location:
+  current: Prague, Czech Republic
+  open_to_relocate: true
+  preferred_relocation: Lisbon, Portugal
+  also_open_to: Remote (Europe-based), hybrid Prague roles
+  not_open_to: Full relocation outside Europe
+
+# ─── PROOF POINTS (for CV tailoring) ────────────────────────────────────────
+# These are real stories the agent can use to tailor applications.
+# Keep them crisp — the agent will expand or compress as needed.
+
+proof_points:
+  - id: obeya
+    title: "Obeya methodology for cross-team alignment"
+    story: >
+      At MSD, introduced Obeya (Lean visual management) sessions between DevOps
+      and API engineering teams — two groups with distinct technical cultures and
+      communication styles. Used structured visual management to surface blockers,
+      accelerate decisions, and reduce time-to-decision on roadmap items.
+      Real-world analogue to structured decision frameworks like AHP.
+    relevant_for:
+      - Change management roles
+      - Cross-functional alignment
+      - LEAN / process roles
+      - Consulting roles requiring facilitation
+
+  - id: 25_projects
+    title: "25 transformation projects from pilot to steady state"
+    story: >
+      At Quint Group (energy sector), owned the cross-functional work streams that
+      ensured 25 transformation projects scaled from pilot to operational steady
+      state at one industrial site — keeping Ops, IT, and Finance aligned while
+      clearing dependencies and tracking value realization with data-driven KPIs.
+    relevant_for:
+      - Digital transformation
+      - Program management
+      - Regulated industry roles
+      - Consulting
+
+  - id: ai_feedback_pipeline
+    title: "AI-powered feedback pipeline for product decisions"
+    story: >
+      Built an AI-powered pipeline at MSD that processed user feedback at scale
+      and surfaced prioritized insights for product and delivery teams — improving
+      responsiveness and closing the loop between users and roadmap decisions.
+    relevant_for:
+      - AI product management
+      - AI strategy
+      - Product analytics
+
+  - id: agent_systems
+    title: "Production AI agent systems (enriquewood.tech)"
+    story: >
+      Building and running production AI agent systems for clients: competitor
+      intelligence, social content automation, market research, and morning brief
+      agents — all deployed in code (not no-code), running 24/7 on real data.
+      This is the same stack I use on my own operations — I eat my own cooking.
+    relevant_for:
+      - AI transformation roles
+      - Hands-on AI credibility
+      - Advisory + build combination
+
+  - id: adoption_global
+    title: "Global adoption roadmap across multiple markets"
+    story: >
+      At MSD, owned the global adoption roadmap for commercial digital platforms
+      across multiple markets. Turned strategy into measurable adoption milestones,
+      built KPIs, ran reviews with market leads, and shipped iterative releases
+      that increased market activation and accelerated time-to-market.
+    relevant_for:
+      - Product management
+      - GTM and adoption roles
+      - Multi-market enterprise roles
+
+  - id: it_governance
+    title: "IT Governance proposals in regulated energy sector"
+    story: >
+      At Quint Group, authored IT Governance and sustainability proposals for an
+      energy-sector client. Also stood up a trends and innovation observatory to
+      feed the transformation roadmap with validated opportunities.
+    relevant_for:
+      - IT governance roles
+      - Consulting
+      - Regulated industry
+
+# ─── NARRATIVE / CAREER STORY ───────────────────────────────────────────────
+# Use this for cover letters, LinkedIn outreach, and application motivation sections.
+
+narrative:
+  short: >
+    I've spent 6+ years at the intersection of enterprise process and technology —
+    from LEAN IT governance in regulated industries to AI adoption roadmaps at a
+    global pharma company. My edge is being able to operate on both sides: advising
+    strategically and validating solutions hands-on. That's what makes the difference
+    between AI transformation that lands and AI transformation that gets shelved.
+
+  motivation: >
+    I'm at a point where I want to work on bigger problems with more organizational
+    weight behind them. My consulting work gives me breadth; the right employed role
+    gives me depth and impact at scale. I'm looking for environments where the AI
+    transformation conversation is serious — not just a slide deck exercise.
+
+  relocation_note: >
+    I'm based in Prague and open to roles in Lisbon (Portugal) as a priority
+    relocation destination, as well as strong remote-first European roles.
+
+# ─── ARCHETYPES ─────────────────────────────────────────────────────────────
+# Used by Career-Ops to categorize and score offers.
+
+archetypes:
+  primary: "AI Transformation Strategist"
+  secondary: "Senior Product Manager (AI/Platform)"
+  tertiary: "Independent AI Automation Consultant"
+
+  description: >
+    Roles that sit at the strategic layer of AI adoption — not building the model,
+    but ensuring the organization is ready, the processes are clean, and the
+    implementation actually lands. Includes consulting firms, scale-ups with AI
+    programs, and enterprise internal roles with transformation mandates.

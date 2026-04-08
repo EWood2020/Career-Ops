@@ -1,0 +1,279 @@
+# portals.yml — Enrique Wood Rivero
+# Career-Ops portal scanner configuration
+# Focus: AI Transformation, Digital Strategy, Senior PM (AI/Platform), Consulting
+# Geography: Prague primary | Lisbon/Portugal secondary | Remote Europe
+
+# ─── TITLE FILTERS ──────────────────────────────────────────────────────────
+
+title_filter:
+  positive:
+    - "AI Transformation"
+    - "AI Strategy"
+    - "AI Enablement"
+    - "AI Governance"
+    - "AI Program"
+    - "Head of AI"
+    - "AI Lead"
+    - "Decision Intelligence"
+    - "Applied AI"
+    - "Digital Transformation"
+    - "Digital Strategy"
+    - "Technology Strategy"
+    - "Operating Model"
+    - "Strategy Consultant"
+    - "Technology Consultant"
+    - "Management Consultant"
+    - "Transformation Consultant"
+    - "Product Strategy"
+    - "Senior Product Manager"
+    - "Market Business Technologist"
+    - "Business Technologist"
+    - "AI Consultant"
+    - "Automation Consultant"
+
+  negative:
+    - "ML Engineer"
+    - "Machine Learning Engineer"
+    - "Data Scientist"
+    - "Python Developer"
+    - "Backend Engineer"
+    - "Software Engineer"
+    - "RAG"
+    - "LLM Engineer"
+    - "Prompt Engineer"
+    - "Data Engineer"
+    - "Analytics Engineer"
+    - "Junior"
+    - "Graduate"
+    - "Intern"
+
+# ─── JOB BOARDS ─────────────────────────────────────────────────────────────
+
+job_boards:
+
+  # ── Tier 1: Highest signal ────────────────────────────────────────────────
+
+  - name: "LinkedIn Jobs"
+    url: "https://www.linkedin.com/jobs/search/?keywords=AI+transformation+consultant&location=Europe&f_WT=2"
+    notes: >
+      8K results for AI + Europe. Best volume. Use with tight title filters.
+      Remote filter (f_WT=2) reduces noise significantly.
+    priority: critical
+
+  - name: "Wellfound (AngelList)"
+    url: "https://wellfound.com/jobs"
+    notes: "Best for AI-native scale-ups in Europe. Filter to Business/Strategy, not engineering."
+    priority: high
+
+  - name: "Workable"
+    url: "https://jobs.workable.com"
+    notes: "Strong in Czech Republic and Portugal. Many consulting and strategy roles."
+    priority: high
+
+  - name: "Jobs.cz"
+    url: "https://www.jobs.cz"
+    notes: "Primary Czech board. Prague roles. Filter English-language positions."
+    priority: high
+
+  - name: "Jobgether"
+    url: "https://www.jobgether.com"
+    notes: "Hybrid and remote. Strong EU coverage including Portugal. Good Lisbon pipeline."
+    priority: high
+
+  # ── Tier 2: Remote-first ──────────────────────────────────────────────────
+
+  - name: "Remote.com"
+    url: "https://remote.com/jobs"
+    notes: "Global remote. Filter to Europe timezone. Strategy and consulting roles exist."
+    priority: medium-high
+
+  - name: "Remotive"
+    url: "https://remotive.io"
+    notes: "Curated remote. Check Business/Management category specifically."
+    priority: medium-high
+
+  - name: "We Work Remotely"
+    url: "https://weworkremotely.com"
+    notes: "Long-standing remote board. Management and strategy section."
+    priority: medium-high
+
+  - name: "Europe Remotely"
+    url: "https://europeremotely.com"
+    notes: "EU remote roles specifically. Good for Lisbon-compatible remote positions."
+    priority: medium-high
+
+  - name: "Working Nomads"
+    url: "https://www.workingnomads.com"
+    notes: "Remote jobs, good European coverage. Management and consulting."
+    priority: medium
+
+  - name: "NoDesk"
+    url: "https://nodesk.co"
+    notes: "Curated remote. Lower volume, higher quality. Weekly scan."
+    priority: medium
+
+  - name: "Arc.dev"
+    url: "https://arc.dev"
+    notes: "Remote jobs European presence. Tech-adjacent strategy roles."
+    priority: medium
+
+  # ── Tier 3: Czech Republic and Central Europe ─────────────────────────────
+
+  - name: "StartupJobs.cz"
+    url: "https://www.startupjobs.cz/en"
+    notes: "Czech startup and scale-up jobs. English filter. Faster hiring cycles."
+    priority: medium
+
+  - name: "Grafton CZ"
+    url: "https://www.grafton.cz/en"
+    notes: "Recruiter-listed roles in Czech Republic. Enterprise and consulting."
+    priority: medium-low
+
+  - name: "People Place"
+    url: "https://www.peopleplace.eu"
+    notes: "EU-focused staffing. Technology and consulting roles."
+    priority: medium-low
+
+  - name: "Monster Lounge"
+    url: "https://www.monsterlounge.cz"
+    notes: "English-language jobs in Czech Republic. Local supplement."
+    priority: medium-low
+
+  # ── Tier 4: Niche / worth checking ───────────────────────────────────────
+
+  - name: "Escape the City"
+    url: "https://www.escapethecity.org"
+    notes: "Purpose-driven roles. Transformation/advisory at mission-driven companies."
+    priority: low-medium
+
+  - name: "Glassdoor"
+    url: "https://www.glassdoor.com/Job/jobs.htm"
+    notes: "Use for company research and salary benchmarking. Not primary search."
+    priority: research-only
+
+# ─── SEARCH QUERIES ─────────────────────────────────────────────────────────
+
+search_queries:
+
+  linkedin:
+    - "AI transformation consultant Europe remote"
+    - "digital transformation consultant Prague"
+    - "AI strategy consultant Europe"
+    - "AI enablement lead Europe"
+    - "technology strategy consultant Lisbon"
+    - "head of AI transformation"
+    - "senior product manager AI Prague"
+    - "decision intelligence consultant Europe"
+    - "business technologist AI Europe"
+    - "AI governance consultant remote"
+
+  general:
+    - "AI transformation consultant Europe"
+    - "digital transformation senior consultant remote"
+    - "AI strategy consultant Prague"
+    - "AI enablement consultant"
+    - "technology consulting AI remote Europe"
+    - "operating model AI transformation"
+
+# ─── TRACKED COMPANIES ──────────────────────────────────────────────────────
+
+tracked_companies:
+
+  # Very high fit
+  - name: "RF Strategy / THINK25"
+    url: "https://rfstrategy.com/careers"
+    fit: very-high
+    notes: "Already applied. Keep watching. Lisbon. Direct fit."
+
+  - name: "Sia Partners"
+    url: "https://www.sia-partners.com/en/careers"
+    fit: very-high
+    notes: "Management consulting, AI practice, European. Strong match."
+
+  - name: "Wavestone"
+    url: "https://www.wavestone.com/en/join-us/"
+    fit: very-high
+    notes: "Digital transformation boutique. European. Consulting DNA."
+
+  - name: "Kearney"
+    url: "https://www.kearney.com/careers"
+    fit: high
+    notes: "Operations + digital. LEAN background is a fit signal."
+
+  - name: "ServiceNow"
+    url: "https://careers.servicenow.com"
+    fit: high
+    notes: "Platform adoption, value realization advisory. MSD work maps directly."
+
+  # High fit — regulated industry
+  - name: "Roche"
+    url: "https://careers.roche.com"
+    fit: high
+    notes: "Pharma digital transformation. MSD background = direct credibility."
+
+  - name: "Novartis"
+    url: "https://www.novartis.com/careers"
+    fit: high
+    notes: "AI and digital transformation in regulated pharma."
+
+  # High fit — Lisbon cluster
+  - name: "Deloitte Portugal"
+    url: "https://www2.deloitte.com/pt/en/pages/careers"
+    fit: high
+    notes: "Lisbon office. Consulting practice. Target relocation."
+
+  - name: "Accenture Portugal"
+    url: "https://www.accenture.com/pt-en/careers"
+    fit: medium-high
+    notes: "Large Lisbon presence. Digital and AI transformation."
+
+  - name: "Feedzai"
+    url: "https://feedzai.com/about/careers/"
+    fit: medium
+    notes: "AI company in Lisbon. Business-side strategy roles."
+
+  # Medium-high — Prague
+  - name: "Accenture Prague"
+    url: "https://www.accenture.com/cz-en/careers"
+    fit: medium-high
+    notes: "AI/digital practice. Prague hub."
+
+  - name: "Capgemini CZ"
+    url: "https://www.capgemini.com/cz-en/careers/"
+    fit: medium-high
+    notes: "Tech consulting. Prague. AI transformation practice growing."
+
+  - name: "Microsoft Prague"
+    url: "https://careers.microsoft.com"
+    fit: medium-high
+    notes: "Copilot adoption, Azure AI advisory, customer-facing strategy."
+
+# ─── SCORING WEIGHTS ────────────────────────────────────────────────────────
+
+scoring_weights:
+  role_fit: 0.25
+  company_fit: 0.15
+  location: 0.15
+  compensation: 0.15
+  growth_potential: 0.15
+  autonomy: 0.10
+  side_work_compatible: 0.05
+
+# ─── AGENT NOTES ────────────────────────────────────────────────────────────
+
+agent_notes: >
+  DO NOT evaluate or generate CVs for engineering roles (Python, ML, RAG, etc.).
+  Score below 3.0 and skip.
+
+  Business-side AI transformation is the target. Ask of every role: "Is the
+  primary job organizational change + AI strategy, or building the model?"
+  If building the model — reject it.
+
+  LinkedIn is the highest volume channel — 8K+ results for AI + Europe.
+  Use tight title filters. Prioritize roles posted in last 7 days.
+
+  Lisbon/Portugal roles get a +0.5 location bonus.
+  Roles prohibiting independent consulting: flag prominently, do not auto-reject.
+
+  Regulated industries (pharma, energy, finance) = credibility advantage.
+  Lead with MSD + Quint Group when tailoring for these sectors.
