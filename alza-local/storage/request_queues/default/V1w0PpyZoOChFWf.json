@@ -1,0 +1,9 @@
+{
+	"id": "V1w0PpyZoOChFWf",
+	"json": "{\"id\":\"V1w0PpyZoOChFWf\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-neon-blue-neon-red-d6591344.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-oled-model-neon-blue-neon-red-d6591344.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-neon-blue-neon-red-d6591344.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:04:47.910Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-oled-model-neon-blue-neon-red-d6591344.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-oled-model-neon-blue-neon-red-d6591344.htm"
+}

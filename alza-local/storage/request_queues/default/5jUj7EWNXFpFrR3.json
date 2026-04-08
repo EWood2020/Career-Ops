@@ -1,0 +1,9 @@
+{
+	"id": "5jUj7EWNXFpFrR3",
+	"json": "{\"id\":\"5jUj7EWNXFpFrR3\",\"url\":\"https://www.alza.cz/EN/kids-headphones/18864542.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/kids-headphones/18864542.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/kids-headphones/18864542.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:59:08.246Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/kids-headphones/18864542.htm",
+	"url": "https://www.alza.cz/EN/kids-headphones/18864542.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qEV5bHPK4JZHwFP",
+	"json": "{\"id\":\"qEV5bHPK4JZHwFP\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-lite-turquoise-d5638737.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-lite-turquoise-d5638737.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-lite-turquoise-d5638737.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:04.579Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-lite-turquoise-d5638737.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-lite-turquoise-d5638737.htm"
+}

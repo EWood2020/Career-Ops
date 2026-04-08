@@ -1,0 +1,9 @@
+{
+	"id": "vm1UMO9g83bZRhm",
+	"json": "{\"id\":\"vm1UMO9g83bZRhm\",\"url\":\"https://www.alza.cz/EN/siguro-rv-r800b-turbovac-navigator-pro-ai-d12424432.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/siguro-rv-r800b-turbovac-navigator-pro-ai-d12424432.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/siguro-rv-r800b-turbovac-navigator-pro-ai-d12424432.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:39:46.943Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/siguro-rv-r800b-turbovac-navigator-pro-ai-d12424432.htm",
+	"url": "https://www.alza.cz/EN/siguro-rv-r800b-turbovac-navigator-pro-ai-d12424432.htm"
+}

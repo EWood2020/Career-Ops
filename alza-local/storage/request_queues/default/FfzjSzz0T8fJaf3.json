@@ -1,0 +1,9 @@
+{
+	"id": "FfzjSzz0T8fJaf3",
+	"json": "{\"id\":\"FfzjSzz0T8fJaf3\",\"url\":\"https://www.alza.cz/roborock-qr-798-white-d13058597.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/roborock-qr-798-white-d13058597.htm\",\"uniqueKey\":\"https://www.alza.cz/roborock-qr-798-white-d13058597.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:24.824Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/roborock-qr-798-white-d13058597.htm",
+	"url": "https://www.alza.cz/roborock-qr-798-white-d13058597.htm"
+}

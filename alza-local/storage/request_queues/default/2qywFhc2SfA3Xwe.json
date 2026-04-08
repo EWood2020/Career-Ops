@@ -1,0 +1,9 @@
+{
+	"id": "2qywFhc2SfA3Xwe",
+	"json": "{\"id\":\"2qywFhc2SfA3Xwe\",\"url\":\"https://www.alza.cz/EN/gaming-monitors/18853364.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming-monitors/18853364.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming-monitors/18853364.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:50.807Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming-monitors/18853364.htm",
+	"url": "https://www.alza.cz/EN/gaming-monitors/18853364.htm"
+}

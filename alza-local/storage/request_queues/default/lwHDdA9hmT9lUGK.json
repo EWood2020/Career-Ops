@@ -1,0 +1,9 @@
+{
+	"id": "lwHDdA9hmT9lUGK",
+	"json": "{\"id\":\"lwHDdA9hmT9lUGK\",\"url\":\"https://www.alza.cz/EN/pocitace/18852653.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/computers/18852653.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/pocitace/18852653.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:17.679Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/pocitace/18852653.htm",
+	"url": "https://www.alza.cz/EN/pocitace/18852653.htm"
+}

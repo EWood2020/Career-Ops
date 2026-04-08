@@ -1,0 +1,9 @@
+{
+	"id": "COWo2hp6y8o9Shs",
+	"json": "{\"id\":\"COWo2hp6y8o9Shs\",\"url\":\"https://www.alza.cz/EN/copilot-plus-pc/18911035.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/copilot-plus-pc/18911035.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/copilot-plus-pc/18911035.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:18.256Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/copilot-plus-pc/18911035.htm",
+	"url": "https://www.alza.cz/EN/copilot-plus-pc/18911035.htm"
+}

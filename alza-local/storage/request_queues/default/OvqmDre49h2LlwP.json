@@ -1,0 +1,9 @@
+{
+	"id": "OvqmDre49h2LlwP",
+	"json": "{\"id\":\"OvqmDre49h2LlwP\",\"url\":\"https://www.alza.cz/ecovacs-deebot-t30c-omni-black-d13117916.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/ecovacs-deebot-t30c-omni-black-d13117916.htm\",\"uniqueKey\":\"https://www.alza.cz/ecovacs-deebot-t30c-omni-black-d13117916.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:33.779Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/ecovacs-deebot-t30c-omni-black-d13117916.htm",
+	"url": "https://www.alza.cz/ecovacs-deebot-t30c-omni-black-d13117916.htm"
+}

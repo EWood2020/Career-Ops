@@ -1,0 +1,9 @@
+{
+	"id": "H2F7Aidgl0AmLDU",
+	"json": "{\"id\":\"H2F7Aidgl0AmLDU\",\"url\":\"https://www.alza.cz/sonos-ace-black-d12360245.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sonos-ace-black-d12360245.htm\",\"uniqueKey\":\"https://www.alza.cz/sonos-ace-black-d12360245.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:59:56.133Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/sonos-ace-black-d12360245.htm",
+	"url": "https://www.alza.cz/sonos-ace-black-d12360245.htm"
+}

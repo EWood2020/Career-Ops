@@ -1,0 +1,9 @@
+{
+	"id": "u7EeY6UYMHM8Xik",
+	"json": "{\"id\":\"u7EeY6UYMHM8Xik\",\"url\":\"https://www.alza.cz/EN/best-sellers-best-laptops/18842920.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/best-sellers-best-laptops/18842920.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/best-sellers-best-laptops/18842920.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:36.975Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/best-sellers-best-laptops/18842920.htm",
+	"url": "https://www.alza.cz/EN/best-sellers-best-laptops/18842920.htm"
+}

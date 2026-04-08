@@ -1,0 +1,43 @@
+# jobs.yml — Enrique Wood Rivero
+# Tracked job applications and verdicts
+# Scored against profile.yml criteria
+
+jobs:
+
+  - id: job_001
+    job_id_linkedin: "4377155353"
+    url: "https://www.linkedin.com/jobs/view/4377155353/"
+    search_source: "Direct view link"
+    keywords: ~
+    location_filter: ~
+    verdict: apply
+    score: ~
+    notes: >
+      Direct job view — pulled from LinkedIn search. Specific role to evaluate
+      for fit before applying. Pull full JD to confirm title and requirements.
+
+  - id: job_002
+    job_id_linkedin: "4389202968"
+    url: "https://www.linkedin.com/jobs/search/?currentJobId=4389202968&f_WT=3%2C2&keywords=AI%20transformation%20consultant&origin=JOB_SEARCH_PAGE_JOB_FILTER"
+    search_source: "LinkedIn — AI transformation consultant, hybrid+remote filter"
+    keywords: "AI transformation consultant"
+    location_filter: "f_WT=3,2 (on-site+remote)"
+    verdict: apply
+    score: ~
+    notes: >
+      Sourced from highest-priority search query. Remote/hybrid filter active.
+      AI transformation consultant keywords = direct title match to target roles.
+      Pull JD for full scoring.
+
+  - id: job_003
+    job_id_linkedin: "4392867288"
+    url: "https://www.linkedin.com/jobs/search/?currentJobId=4392867288&f_WT=3%2C2&keywords=AI%20transformation%20consultant&origin=JOB_SEARCH_PAGE_JOB_FILTER"
+    search_source: "LinkedIn — AI transformation consultant, hybrid+remote filter"
+    keywords: "AI transformation consultant"
+    location_filter: "f_WT=3,2 (on-site+remote)"
+    verdict: apply
+    score: ~
+    notes: >
+      Same high-signal search queue as job_002. Different role ID — evaluate
+      independently. Pull JD and score against profile.yml fit_signals_positive
+      before committing application effort.

@@ -1,0 +1,9 @@
+{
+	"id": "gK3mki77T3bx8Wh",
+	"json": "{\"id\":\"gK3mki77T3bx8Wh\",\"url\":\"https://www.alza.cz/EN/macbook-pro-14-m4-pro-cz-2024-space-black-d12663006.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/macbook-pro-14-m4-pro-cz-2024-space-black-d12663006.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/macbook-pro-14-m4-pro-cz-2024-space-black-d12663006.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:45.915Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/macbook-pro-14-m4-pro-cz-2024-space-black-d12663006.htm",
+	"url": "https://www.alza.cz/EN/macbook-pro-14-m4-pro-cz-2024-space-black-d12663006.htm"
+}

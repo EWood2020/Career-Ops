@@ -1,0 +1,9 @@
+{
+	"id": "IeyJznoIuDZIttr",
+	"json": "{\"id\":\"IeyJznoIuDZIttr\",\"url\":\"https://www.alza.cz/asus-rog-pelta-moonlight-white-d13152123.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-rog-pelta-moonlight-white-d13152123.htm\",\"uniqueKey\":\"https://www.alza.cz/asus-rog-pelta-moonlight-white-d13152123.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:32.526Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/asus-rog-pelta-moonlight-white-d13152123.htm",
+	"url": "https://www.alza.cz/asus-rog-pelta-moonlight-white-d13152123.htm"
+}

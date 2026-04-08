@@ -1,0 +1,9 @@
+{
+	"id": "3AKqdj91cIQtJbi",
+	"json": "{\"id\":\"3AKqdj91cIQtJbi\",\"url\":\"https://www.alza.cz/EN/hracky/lego-batman/18860825.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/the-lego-batman-movie/18860825.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-batman/18860825.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:31.086Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-batman/18860825.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-batman/18860825.htm"
+}

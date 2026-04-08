@@ -1,0 +1,9 @@
+{
+	"id": "yExz7Y7XEHAKKxp",
+	"json": "{\"id\":\"yExz7Y7XEHAKKxp\",\"url\":\"https://www.alza.cz/samsung-the-freestyle-sp-lff3c-d7871205.htm\",\"loadedUrl\":\"https://www.alza.cz/samsung-the-freestyle-sp-lff3c-d7871205.htm\",\"uniqueKey\":\"https://www.alza.cz/samsung-the-freestyle-sp-lff3c-d7871205.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:38.224Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/samsung-the-freestyle-sp-lff3c-d7871205.htm",
+	"url": "https://www.alza.cz/samsung-the-freestyle-sp-lff3c-d7871205.htm"
+}

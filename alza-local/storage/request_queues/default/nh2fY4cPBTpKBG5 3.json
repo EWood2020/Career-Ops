@@ -1,0 +1,9 @@
+{
+	"id": "nh2fY4cPBTpKBG5",
+	"json": "{\"id\":\"nh2fY4cPBTpKBG5\",\"url\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-puppy-healthy-growth-2-5-kg-d5615927.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-puppy-healthy-growth-2-5-kg-d5615927.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-puppy-healthy-growth-2-5-kg-d5615927.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:17.705Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-chicken-with-potato-puppy-healthy-growth-2-5-kg-d5615927.htm",
+	"url": "https://www.alza.cz/pet/brit-fresh-chicken-with-potato-puppy-healthy-growth-2-5-kg-d5615927.htm"
+}

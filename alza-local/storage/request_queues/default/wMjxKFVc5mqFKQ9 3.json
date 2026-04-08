@@ -1,0 +1,9 @@
+{
+	"id": "wMjxKFVc5mqFKQ9",
+	"json": "{\"id\":\"wMjxKFVc5mqFKQ9\",\"url\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm5-silver-d7151066.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sony-noise-cancelling-wh-1000xm5-silver-d7151066.htm\",\"uniqueKey\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm5-silver-d7151066.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:28:24.917Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm5-silver-d7151066.htm",
+	"url": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm5-silver-d7151066.htm"
+}

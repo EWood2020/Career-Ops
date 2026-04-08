@@ -1,0 +1,9 @@
+{
+	"id": "rSuBAlEzSQ7uRYi",
+	"json": "{\"id\":\"rSuBAlEzSQ7uRYi\",\"url\":\"https://www.alza.cz/wanbo-x5-pro-new-edition-d13056950.htm\",\"loadedUrl\":\"https://www.alza.cz/wanbo-x5-pro-new-edition-d13056950.htm\",\"uniqueKey\":\"https://www.alza.cz/wanbo-x5-pro-new-edition-d13056950.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:53:52.264Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/wanbo-x5-pro-new-edition-d13056950.htm",
+	"url": "https://www.alza.cz/wanbo-x5-pro-new-edition-d13056950.htm"
+}

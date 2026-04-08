@@ -1,0 +1,9 @@
+{
+	"id": "9u28Jetplis4GKp",
+	"json": "{\"id\":\"9u28Jetplis4GKp\",\"url\":\"https://www.alza.cz/EN/hracky/lego-ja-padouch-4/18911434.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-minions-the-rise-of-gru/18911434.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-ja-padouch-4/18911434.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:27.585Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-ja-padouch-4/18911434.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-ja-padouch-4/18911434.htm"
+}

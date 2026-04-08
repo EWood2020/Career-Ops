@@ -1,0 +1,9 @@
+{
+	"id": "DpHY9ERMSkCdFmA",
+	"json": "{\"id\":\"DpHY9ERMSkCdFmA\",\"url\":\"https://www.alza.cz/steelseries-arctis-nova-5-white-d12551010.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/steelseries-arctis-nova-5-white-d12551010.htm\",\"uniqueKey\":\"https://www.alza.cz/steelseries-arctis-nova-5-white-d12551010.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:25.388Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/steelseries-arctis-nova-5-white-d12551010.htm",
+	"url": "https://www.alza.cz/steelseries-arctis-nova-5-white-d12551010.htm"
+}

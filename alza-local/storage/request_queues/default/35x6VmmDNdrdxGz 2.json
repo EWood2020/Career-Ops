@@ -1,0 +1,9 @@
+{
+	"id": "35x6VmmDNdrdxGz",
+	"json": "{\"id\":\"35x6VmmDNdrdxGz\",\"url\":\"https://www.alza.cz/razer-kraken-kitty-v3-pro-black-d13101157.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/razer-kraken-kitty-v3-pro-black-d13101157.htm\",\"uniqueKey\":\"https://www.alza.cz/razer-kraken-kitty-v3-pro-black-d13101157.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:04.485Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/razer-kraken-kitty-v3-pro-black-d13101157.htm",
+	"url": "https://www.alza.cz/razer-kraken-kitty-v3-pro-black-d13101157.htm"
+}

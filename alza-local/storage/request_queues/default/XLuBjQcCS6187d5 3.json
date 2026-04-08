@@ -1,0 +1,9 @@
+{
+	"id": "XLuBjQcCS6187d5",
+	"json": "{\"id\":\"XLuBjQcCS6187d5\",\"url\":\"https://www.alza.cz/gaming/xbox-wireless-controller-pulse-red-d6297743.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-wireless-controller-pulse-red-d6297743.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/xbox-wireless-controller-pulse-red-d6297743.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:34:39.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/xbox-wireless-controller-pulse-red-d6297743.htm",
+	"url": "https://www.alza.cz/gaming/xbox-wireless-controller-pulse-red-d6297743.htm"
+}

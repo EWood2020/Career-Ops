@@ -1,0 +1,9 @@
+{
+	"id": "b30UZpJmPx5wwN8",
+	"json": "{\"id\":\"b30UZpJmPx5wwN8\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-zelda-tears-of-the-kingdom-edition-d7708108.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-oled-model-zelda-tears-of-the-kingdom-edition-d7708108.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-zelda-tears-of-the-kingdom-edition-d7708108.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:04:51.558Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-oled-model-zelda-tears-of-the-kingdom-edition-d7708108.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-oled-model-zelda-tears-of-the-kingdom-edition-d7708108.htm"
+}

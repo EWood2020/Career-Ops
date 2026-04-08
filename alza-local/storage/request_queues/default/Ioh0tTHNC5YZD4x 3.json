@@ -1,0 +1,9 @@
+{
+	"id": "Ioh0tTHNC5YZD4x",
+	"json": "{\"id\":\"Ioh0tTHNC5YZD4x\",\"url\":\"https://www.alza.cz/EN/gaming/best-sellers-best-playstation/18915789.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/best-sellers-best-playstation/18915789.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/best-sellers-best-playstation/18915789.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:29:11.913Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/best-sellers-best-playstation/18915789.htm",
+	"url": "https://www.alza.cz/EN/gaming/best-sellers-best-playstation/18915789.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kcrVBTGsERCy0wz",
+	"json": "{\"id\":\"kcrVBTGsERCy0wz\",\"url\":\"https://www.alza.cz/xgimi-horizon-20-d13104031.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xgimi-horizon-20-d13104031.htm\",\"uniqueKey\":\"https://www.alza.cz/xgimi-horizon-20-d13104031.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:26.603Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/xgimi-horizon-20-d13104031.htm",
+	"url": "https://www.alza.cz/xgimi-horizon-20-d13104031.htm"
+}

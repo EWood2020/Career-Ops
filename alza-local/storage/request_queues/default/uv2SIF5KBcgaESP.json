@@ -1,0 +1,9 @@
+{
+	"id": "uv2SIF5KBcgaESP",
+	"json": "{\"id\":\"uv2SIF5KBcgaESP\",\"url\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-midnight-black-d6485139.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-dualsense-wireless-controller-midnight-black-d6485139.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-midnight-black-d6485139.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:22.805Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-midnight-black-d6485139.htm",
+	"url": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-midnight-black-d6485139.htm"
+}

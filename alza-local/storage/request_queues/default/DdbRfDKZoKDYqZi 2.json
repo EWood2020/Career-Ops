@@ -1,0 +1,9 @@
+{
+	"id": "DdbRfDKZoKDYqZi",
+	"json": "{\"id\":\"DdbRfDKZoKDYqZi\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-true-d12879522.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-2-joy-con-2-true-d12879522.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-true-d12879522.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:36:58.644Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-true-d12879522.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-true-d12879522.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YTe8Y6FGB8NJXx4",
+	"json": "{\"id\":\"YTe8Y6FGB8NJXx4\",\"url\":\"https://www.alza.cz/EN/dreame-aqua-10-ultra-roller-complete-white-d12995255.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dreame-aqua-10-ultra-roller-complete-white-d12995255.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dreame-aqua-10-ultra-roller-complete-white-d12995255.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:08.086Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/dreame-aqua-10-ultra-roller-complete-white-d12995255.htm",
+	"url": "https://www.alza.cz/EN/dreame-aqua-10-ultra-roller-complete-white-d12995255.htm"
+}

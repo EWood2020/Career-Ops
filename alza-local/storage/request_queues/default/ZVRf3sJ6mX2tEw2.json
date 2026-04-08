@@ -1,0 +1,9 @@
+{
+	"id": "ZVRf3sJ6mX2tEw2",
+	"json": "{\"id\":\"ZVRf3sJ6mX2tEw2\",\"url\":\"https://www.alza.cz/helmer-sp-600-full-hd-d12940879.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/helmer-sp-600-d12940879.htm\",\"uniqueKey\":\"https://www.alza.cz/helmer-sp-600-full-hd-d12940879.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:53:47.829Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/helmer-sp-600-full-hd-d12940879.htm",
+	"url": "https://www.alza.cz/helmer-sp-600-full-hd-d12940879.htm"
+}

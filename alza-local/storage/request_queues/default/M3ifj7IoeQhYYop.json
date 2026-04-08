@@ -1,0 +1,9 @@
+{
+	"id": "M3ifj7IoeQhYYop",
+	"json": "{\"id\":\"M3ifj7IoeQhYYop\",\"url\":\"https://www.alza.cz/EN/hracky/lego-art-pro-dospele/18882387.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/interior-design-art-lego-sets-for-adults/18882351.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-art-pro-dospele/18882387.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:29.497Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-art-pro-dospele/18882387.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-art-pro-dospele/18882387.htm"
+}

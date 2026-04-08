@@ -1,0 +1,9 @@
+{
+	"id": "8v1Q1h5xCrRPWb4",
+	"json": "{\"id\":\"8v1Q1h5xCrRPWb4\",\"url\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-modra-d12883228.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sony-noise-cancelling-wh-1000xm6-blue-d12883228.htm\",\"uniqueKey\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-modra-d12883228.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:10.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-modra-d12883228.htm",
+	"url": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-modra-d12883228.htm"
+}

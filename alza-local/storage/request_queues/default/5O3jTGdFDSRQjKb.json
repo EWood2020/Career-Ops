@@ -1,0 +1,9 @@
+{
+	"id": "5O3jTGdFDSRQjKb",
+	"json": "{\"id\":\"5O3jTGdFDSRQjKb\",\"url\":\"https://www.alza.cz/EN/toys/lego-sets-for-adults/18869540.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-sets-for-adults/18869540.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/lego-sets-for-adults/18869540.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:33.115Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/toys/lego-sets-for-adults/18869540.htm",
+	"url": "https://www.alza.cz/EN/toys/lego-sets-for-adults/18869540.htm"
+}

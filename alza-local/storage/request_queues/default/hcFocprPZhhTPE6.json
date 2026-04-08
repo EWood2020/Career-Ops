@@ -1,0 +1,9 @@
+{
+	"id": "hcFocprPZhhTPE6",
+	"json": "{\"id\":\"hcFocprPZhhTPE6\",\"url\":\"https://www.alza.cz/EN/monitory-25-26-a-27/18859834.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitors-25-26-and-27/18859834.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitory-25-26-a-27/18859834.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:49:03.890Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/monitory-25-26-a-27/18859834.htm",
+	"url": "https://www.alza.cz/EN/monitory-25-26-a-27/18859834.htm"
+}

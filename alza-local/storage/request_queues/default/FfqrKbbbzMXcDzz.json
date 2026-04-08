@@ -1,0 +1,9 @@
+{
+	"id": "FfqrKbbbzMXcDzz",
+	"json": "{\"id\":\"FfqrKbbbzMXcDzz\",\"url\":\"https://www.alza.cz/pet/knihy-o-kockach/18863586.htm\",\"loadedUrl\":\"https://www.alza.cz/media/knihy-o-kockach/18863586.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/knihy-o-kockach/18863586.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:23.565Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/knihy-o-kockach/18863586.htm",
+	"url": "https://www.alza.cz/pet/knihy-o-kockach/18863586.htm"
+}

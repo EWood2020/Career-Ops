@@ -1,0 +1,9 @@
+{
+	"id": "5lIZNqhFIvYO2T9",
+	"json": "{\"id\":\"5lIZNqhFIvYO2T9\",\"url\":\"https://www.alza.cz/EN/hracky/lego-gabinin-kouzelny-domek/18903813.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-gabbys-dollhouse/18903813.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-gabinin-kouzelny-domek/18903813.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:33.620Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-gabinin-kouzelny-domek/18903813.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-gabinin-kouzelny-domek/18903813.htm"
+}

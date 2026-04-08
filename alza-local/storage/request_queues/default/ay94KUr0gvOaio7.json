@@ -1,0 +1,9 @@
+{
+	"id": "ay94KUr0gvOaio7",
+	"json": "{\"id\":\"ay94KUr0gvOaio7\",\"url\":\"https://www.alza.cz/ea-sports-fc-26-xbox-d13009036.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/ea-sports-fc-26-xbox-d13009036.htm\",\"uniqueKey\":\"https://www.alza.cz/ea-sports-fc-26-xbox-d13009036.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:19.937Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/ea-sports-fc-26-xbox-d13009036.htm",
+	"url": "https://www.alza.cz/ea-sports-fc-26-xbox-d13009036.htm"
+}

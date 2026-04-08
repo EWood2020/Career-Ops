@@ -1,0 +1,9 @@
+{
+	"id": "5pVW9GamzovyVRP",
+	"json": "{\"id\":\"5pVW9GamzovyVRP\",\"url\":\"https://www.alza.cz/EN/projektory-s-androidem/18888511.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/projectors-with-android/18888511.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/projektory-s-androidem/18888511.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:07.629Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/projektory-s-androidem/18888511.htm",
+	"url": "https://www.alza.cz/EN/projektory-s-androidem/18888511.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8oNzLEr5eYlLJsb",
+	"json": "{\"id\":\"8oNzLEr5eYlLJsb\",\"url\":\"https://www.alza.cz/EN/monitory-20-19-18-a-mensi/18843374.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/small-monitors-under-20/18843374.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitory-20-19-18-a-mensi/18843374.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:58.984Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/monitory-20-19-18-a-mensi/18843374.htm",
+	"url": "https://www.alza.cz/EN/monitory-20-19-18-a-mensi/18843374.htm"
+}

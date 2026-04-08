@@ -1,0 +1,9 @@
+{
+	"id": "80RdJ3V3KpGVMCt",
+	"json": "{\"id\":\"80RdJ3V3KpGVMCt\",\"url\":\"https://www.alza.cz/pet/dvirka-pro-kocky/18886372.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/dvirka-pro-kocky/18886372.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/dvirka-pro-kocky/18886372.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:18.229Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/dvirka-pro-kocky/18886372.htm",
+	"url": "https://www.alza.cz/pet/dvirka-pro-kocky/18886372.htm"
+}

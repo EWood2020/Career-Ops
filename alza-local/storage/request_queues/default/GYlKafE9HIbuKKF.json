@@ -1,0 +1,9 @@
+{
+	"id": "GYlKafE9HIbuKKF",
+	"json": "{\"id\":\"GYlKafE9HIbuKKF\",\"url\":\"https://www.alza.cz/EN/lenovo-yoga-slim-7-15ill9-aura-edition-all-metal-d12646811.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-yoga-slim-7-15ill9-aura-edition-all-metal-d12646811.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lenovo-yoga-slim-7-15ill9-aura-edition-all-metal-d12646811.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:03.601Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/lenovo-yoga-slim-7-15ill9-aura-edition-all-metal-d12646811.htm",
+	"url": "https://www.alza.cz/EN/lenovo-yoga-slim-7-15ill9-aura-edition-all-metal-d12646811.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "K7Lq4UgYl73ok7R",
+	"json": "{\"id\":\"K7Lq4UgYl73ok7R\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-lite-coral-d5795203.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-lite-coral-d5795203.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-lite-coral-d5795203.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:36:36.653Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-lite-coral-d5795203.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-lite-coral-d5795203.htm"
+}

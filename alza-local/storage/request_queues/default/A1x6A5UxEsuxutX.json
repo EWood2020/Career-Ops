@@ -1,0 +1,9 @@
+{
+	"id": "A1x6A5UxEsuxutX",
+	"json": "{\"id\":\"A1x6A5UxEsuxutX\",\"url\":\"https://www.alza.cz/EN/dotykove-monitory/18843666.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/touch-screen-monitors/18843666.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dotykove-monitory/18843666.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:55.364Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/dotykove-monitory/18843666.htm",
+	"url": "https://www.alza.cz/EN/dotykove-monitory/18843666.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oIkFVaCwYXsXg5x",
+	"json": "{\"id\":\"oIkFVaCwYXsXg5x\",\"url\":\"https://www.alza.cz/pet/pro-plan-cat-sterilised-maintenance-kapsicky-pro-kocky-s-kachnou-ve-stave-26-85-g-d13064964.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/pro-plan-cat-sterilised-maintenance-kapsicky-pro-kocky-s-kachnou-ve-stave-26-85-g-d13064964.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pro-plan-cat-sterilised-maintenance-kapsicky-pro-kocky-s-kachnou-ve-stave-26-85-g-d13064964.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:56.003Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/pro-plan-cat-sterilised-maintenance-kapsicky-pro-kocky-s-kachnou-ve-stave-26-85-g-d13064964.htm",
+	"url": "https://www.alza.cz/pet/pro-plan-cat-sterilised-maintenance-kapsicky-pro-kocky-s-kachnou-ve-stave-26-85-g-d13064964.htm"
+}

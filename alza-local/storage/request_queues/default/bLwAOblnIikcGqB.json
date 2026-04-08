@@ -1,0 +1,9 @@
+{
+	"id": "bLwAOblnIikcGqB",
+	"json": "{\"id\":\"bLwAOblnIikcGqB\",\"url\":\"https://www.alza.cz/EN/anker-nebula-capsule-3-laser-gtv-d12440029.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/anker-nebula-capsule-3-laser-gtv-d12440029.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/anker-nebula-capsule-3-laser-gtv-d12440029.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:44.245Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/anker-nebula-capsule-3-laser-gtv-d12440029.htm",
+	"url": "https://www.alza.cz/EN/anker-nebula-capsule-3-laser-gtv-d12440029.htm"
+}

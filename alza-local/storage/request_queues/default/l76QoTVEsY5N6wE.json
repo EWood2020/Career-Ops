@@ -1,0 +1,9 @@
+{
+	"id": "l76QoTVEsY5N6wE",
+	"json": "{\"id\":\"l76QoTVEsY5N6wE\",\"url\":\"https://www.alza.cz/dji-flip-dji-rc-2-d12756643.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-flip-dji-rc-2-d12756643.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-flip-dji-rc-2-d12756643.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:57:15.131Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/dji-flip-dji-rc-2-d12756643.htm",
+	"url": "https://www.alza.cz/dji-flip-dji-rc-2-d12756643.htm"
+}

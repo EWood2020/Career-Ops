@@ -1,0 +1,9 @@
+{
+	"id": "lvsnCJQPGnVV0Mx",
+	"json": "{\"id\":\"lvsnCJQPGnVV0Mx\",\"url\":\"https://www.alza.cz/pet/polaris-bezobilne-granule-s-cerstvym-masem-adult-s-hovezim-a-krutim-12kg-d7263049.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/polaris-fm-gf-adult-beef-and-turkey-12kg-d7263049.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/polaris-bezobilne-granule-s-cerstvym-masem-adult-s-hovezim-a-krutim-12kg-d7263049.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:28.386Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/polaris-bezobilne-granule-s-cerstvym-masem-adult-s-hovezim-a-krutim-12kg-d7263049.htm",
+	"url": "https://www.alza.cz/pet/polaris-bezobilne-granule-s-cerstvym-masem-adult-s-hovezim-a-krutim-12kg-d7263049.htm"
+}

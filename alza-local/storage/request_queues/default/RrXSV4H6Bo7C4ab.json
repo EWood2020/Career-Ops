@@ -1,0 +1,9 @@
+{
+	"id": "RrXSV4H6Bo7C4ab",
+	"json": "{\"id\":\"RrXSV4H6Bo7C4ab\",\"url\":\"https://www.alza.cz/razer-blackshark-v2-x-quartz-d7715946.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/razer-blackshark-v2-x-quartz-d7715946.htm\",\"uniqueKey\":\"https://www.alza.cz/razer-blackshark-v2-x-quartz-d7715946.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:03:22.160Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/razer-blackshark-v2-x-quartz-d7715946.htm",
+	"url": "https://www.alza.cz/razer-blackshark-v2-x-quartz-d7715946.htm"
+}

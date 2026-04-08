@@ -1,0 +1,9 @@
+{
+	"id": "M9eXPRDyJSGyIcf",
+	"json": "{\"id\":\"M9eXPRDyJSGyIcf\",\"url\":\"https://www.alza.cz/EN/msi-modern-15-b13m-1204xcz-d12941631.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/msi-modern-15-b13m-1204xcz-d12941631.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/msi-modern-15-b13m-1204xcz-d12941631.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:05.995Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/msi-modern-15-b13m-1204xcz-d12941631.htm",
+	"url": "https://www.alza.cz/EN/msi-modern-15-b13m-1204xcz-d12941631.htm"
+}

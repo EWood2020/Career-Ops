@@ -1,0 +1,9 @@
+{
+	"id": "GfcvtYPcIXlK5qT",
+	"json": "{\"id\":\"GfcvtYPcIXlK5qT\",\"url\":\"https://www.alza.cz/pet/cat-step-tofu-green-tea-5-4-kg-d7398615.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/cat-step-tofu-green-tea-5-4-kg-d7398615.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/cat-step-tofu-green-tea-5-4-kg-d7398615.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:27.465Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/cat-step-tofu-green-tea-5-4-kg-d7398615.htm",
+	"url": "https://www.alza.cz/pet/cat-step-tofu-green-tea-5-4-kg-d7398615.htm"
+}

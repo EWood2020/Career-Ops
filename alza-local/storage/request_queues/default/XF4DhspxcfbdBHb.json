@@ -1,0 +1,9 @@
+{
+	"id": "XF4DhspxcfbdBHb",
+	"json": "{\"id\":\"XF4DhspxcfbdBHb\",\"url\":\"https://www.alza.cz/dji-air-3s-dji-rc-n3-d12611344.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-air-3s-dji-rc-n3-d12611344.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-air-3s-dji-rc-n3-d12611344.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:57:27.466Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/dji-air-3s-dji-rc-n3-d12611344.htm",
+	"url": "https://www.alza.cz/dji-air-3s-dji-rc-n3-d12611344.htm"
+}

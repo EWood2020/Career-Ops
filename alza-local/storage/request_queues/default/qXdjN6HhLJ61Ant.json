@@ -1,0 +1,9 @@
+{
+	"id": "qXdjN6HhLJ61Ant",
+	"json": "{\"id\":\"qXdjN6HhLJ61Ant\",\"url\":\"https://www.alza.cz/msi-cyborg-15-b13wfkg-476cz-kovovy-d13150432.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/msi-cyborg-15-b13wfkg-476cz-metal-d13150432.htm\",\"uniqueKey\":\"https://www.alza.cz/msi-cyborg-15-b13wfkg-476cz-kovovy-d13150432.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:15.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/msi-cyborg-15-b13wfkg-476cz-kovovy-d13150432.htm",
+	"url": "https://www.alza.cz/msi-cyborg-15-b13wfkg-476cz-kovovy-d13150432.htm"
+}

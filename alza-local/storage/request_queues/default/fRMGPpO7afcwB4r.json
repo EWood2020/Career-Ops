@@ -1,0 +1,9 @@
+{
+	"id": "fRMGPpO7afcwB4r",
+	"json": "{\"id\":\"fRMGPpO7afcwB4r\",\"url\":\"https://www.alza.cz/EN/gaming/cheap-xbox/18892642.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/cheap-xbox/18892642.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/cheap-xbox/18892642.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:47.812Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/cheap-xbox/18892642.htm",
+	"url": "https://www.alza.cz/EN/gaming/cheap-xbox/18892642.htm"
+}

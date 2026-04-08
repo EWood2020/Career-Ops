@@ -1,0 +1,9 @@
+{
+	"id": "I6KYFoZYqAr0A1l",
+	"json": "{\"id\":\"I6KYFoZYqAr0A1l\",\"url\":\"https://www.alza.cz/optoma-photon-life-pk31-d13098638.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/optoma-photon-life-pk31-d13098638.htm\",\"uniqueKey\":\"https://www.alza.cz/optoma-photon-life-pk31-d13098638.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:27.851Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/optoma-photon-life-pk31-d13098638.htm",
+	"url": "https://www.alza.cz/optoma-photon-life-pk31-d13098638.htm"
+}

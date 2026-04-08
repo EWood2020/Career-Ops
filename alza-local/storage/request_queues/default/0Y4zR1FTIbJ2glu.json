@@ -1,0 +1,9 @@
+{
+	"id": "0Y4zR1FTIbJ2glu",
+	"json": "{\"id\":\"0Y4zR1FTIbJ2glu\",\"url\":\"https://www.alza.cz/27-samsung-viewfinity-s60ud-d12377194.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-samsung-viewfinity-s60ud-d12377194.htm\",\"uniqueKey\":\"https://www.alza.cz/27-samsung-viewfinity-s60ud-d12377194.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:31.312Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/27-samsung-viewfinity-s60ud-d12377194.htm",
+	"url": "https://www.alza.cz/27-samsung-viewfinity-s60ud-d12377194.htm"
+}

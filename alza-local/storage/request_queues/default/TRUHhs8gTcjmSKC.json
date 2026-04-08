@@ -1,0 +1,9 @@
+{
+	"id": "TRUHhs8gTcjmSKC",
+	"json": "{\"id\":\"TRUHhs8gTcjmSKC\",\"url\":\"https://www.alza.cz/EN/projektory-podle-rozliseni/18872415.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/projectors/18843223.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/projektory-podle-rozliseni/18872415.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:11.685Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/projektory-podle-rozliseni/18872415.htm",
+	"url": "https://www.alza.cz/EN/projektory-podle-rozliseni/18872415.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HtR1wArd69RpVz4",
+	"json": "{\"id\":\"HtR1wArd69RpVz4\",\"url\":\"https://www.alza.cz/EN/27-philips-27m2n3501pa-00-d13041838.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-philips-27m2n3501pa-00-d13041838.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/27-philips-27m2n3501pa-00-d13041838.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:17.309Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/27-philips-27m2n3501pa-00-d13041838.htm",
+	"url": "https://www.alza.cz/EN/27-philips-27m2n3501pa-00-d13041838.htm"
+}

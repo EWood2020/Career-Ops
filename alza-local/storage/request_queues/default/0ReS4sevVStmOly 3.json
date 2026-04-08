@@ -1,0 +1,9 @@
+{
+	"id": "0ReS4sevVStmOly",
+	"json": "{\"id\":\"0ReS4sevVStmOly\",\"url\":\"https://www.alza.cz/EN/gaming/logitech-g923-driving-force-for-pc-ps5-ps4-d5883463.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/logitech-g923-driving-force-for-pc-ps5-ps4-d5883463.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/logitech-g923-driving-force-for-pc-ps5-ps4-d5883463.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:33:33.677Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/logitech-g923-driving-force-for-pc-ps5-ps4-d5883463.htm",
+	"url": "https://www.alza.cz/EN/gaming/logitech-g923-driving-force-for-pc-ps5-ps4-d5883463.htm"
+}

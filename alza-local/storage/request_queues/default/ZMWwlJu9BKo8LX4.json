@@ -1,0 +1,9 @@
+{
+	"id": "ZMWwlJu9BKo8LX4",
+	"json": "{\"id\":\"ZMWwlJu9BKo8LX4\",\"url\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-dark-ink-d12668840.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-dark-ink-d12668840.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-dark-ink-d12668840.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:54.066Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-dark-ink-d12668840.htm",
+	"url": "https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-dark-ink-d12668840.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Hb84emoV2VPoJEZ",
+	"json": "{\"id\":\"Hb84emoV2VPoJEZ\",\"url\":\"https://www.alza.cz/philips-xu5100-20-homerun-5000-series-aqua-d13133123.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/philips-xu5100-20-homerun-5000-series-aqua-d13133123.htm\",\"uniqueKey\":\"https://www.alza.cz/philips-xu5100-20-homerun-5000-series-aqua-d13133123.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:40.797Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/philips-xu5100-20-homerun-5000-series-aqua-d13133123.htm",
+	"url": "https://www.alza.cz/philips-xu5100-20-homerun-5000-series-aqua-d13133123.htm"
+}

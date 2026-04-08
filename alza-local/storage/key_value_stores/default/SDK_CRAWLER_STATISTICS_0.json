@@ -1,0 +1,61 @@
+{
+  "requestsFinished": 999,
+  "requestsFailed": 1,
+  "requestsRetries": 3,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 35,
+  "requestMinDurationMillis": 614,
+  "requestMaxDurationMillis": 31914,
+  "requestTotalFailedDurationMillis": 166,
+  "requestTotalFinishedDurationMillis": 1608158,
+  "crawlerStartedAt": "2025-11-19T17:42:50.304Z",
+  "crawlerFinishedAt": "2025-11-19T18:11:19.234Z",
+  "statsPersistedAt": "2025-11-19T18:11:19.234Z",
+  "crawlerRuntimeMillis": 1709179,
+  "crawlerLastStartTimestamp": 1763574170055,
+  "requestRetryHistogram": [
+    997,
+    2,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 166,
+  "requestAvgFinishedDurationMillis": 1610,
+  "requestTotalDurationMillis": 1608324,
+  "requestsTotal": 1000,
+  "requestsWithStatusCode": {
+    "200": 999
+  },
+  "errors": {
+    "/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:166:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.alza.cz/EN/gaming/vykup-konzoli/18894350.htm": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/core/crawlers/crawler_utils.js:13:11": {
+      "missing error code": {
+        "Error": {
+          "Navigation timed out after 45 seconds.": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:166:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.alza.cz/EN/gaming/vykup-konzoli/18894350.htm": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}

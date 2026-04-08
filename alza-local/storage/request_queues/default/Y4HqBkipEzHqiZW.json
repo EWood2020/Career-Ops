@@ -1,0 +1,9 @@
+{
+	"id": "Y4HqBkipEzHqiZW",
+	"json": "{\"id\":\"Y4HqBkipEzHqiZW\",\"url\":\"https://www.alza.cz/xiaomi-robot-vacuum-h40-d13070173.htm\",\"loadedUrl\":\"https://www.alza.cz/xiaomi-robot-vacuum-h40-d13070173.htm\",\"uniqueKey\":\"https://www.alza.cz/xiaomi-robot-vacuum-h40-d13070173.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:09.462Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/xiaomi-robot-vacuum-h40-d13070173.htm",
+	"url": "https://www.alza.cz/xiaomi-robot-vacuum-h40-d13070173.htm"
+}

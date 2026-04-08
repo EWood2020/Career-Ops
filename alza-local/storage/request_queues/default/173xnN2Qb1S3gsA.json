@@ -1,0 +1,9 @@
+{
+	"id": "173xnN2Qb1S3gsA",
+	"json": "{\"id\":\"173xnN2Qb1S3gsA\",\"url\":\"https://www.alza.cz/aerium-skeiron-mini-3-3-baterie-d13164665.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/aerium-skeiron-mini-3-3-baterie-d13164665.htm\",\"uniqueKey\":\"https://www.alza.cz/aerium-skeiron-mini-3-3-baterie-d13164665.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:54.676Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/aerium-skeiron-mini-3-3-baterie-d13164665.htm",
+	"url": "https://www.alza.cz/aerium-skeiron-mini-3-3-baterie-d13164665.htm"
+}

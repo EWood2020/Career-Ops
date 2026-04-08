@@ -1,0 +1,9 @@
+{
+	"id": "QM8qkkpm7jw32F3",
+	"json": "{\"id\":\"QM8qkkpm7jw32F3\",\"url\":\"https://www.alza.cz/roborock-saros-10r-d12807868.htm\",\"loadedUrl\":\"https://www.alza.cz/roborock-saros-10r-d12807868.htm\",\"uniqueKey\":\"https://www.alza.cz/roborock-saros-10r-d12807868.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:14.549Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/roborock-saros-10r-d12807868.htm",
+	"url": "https://www.alza.cz/roborock-saros-10r-d12807868.htm"
+}

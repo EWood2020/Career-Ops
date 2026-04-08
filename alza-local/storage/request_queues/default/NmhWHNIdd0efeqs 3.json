@@ -1,0 +1,9 @@
+{
+	"id": "NmhWHNIdd0efeqs",
+	"json": "{\"id\":\"NmhWHNIdd0efeqs\",\"url\":\"https://www.alza.cz/EN/gaming/logitech-g29-driving-force-d2905113.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/logitech-g29-driving-force-d2905113.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/logitech-g29-driving-force-d2905113.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:30:57.911Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/logitech-g29-driving-force-d2905113.htm",
+	"url": "https://www.alza.cz/EN/gaming/logitech-g29-driving-force-d2905113.htm"
+}

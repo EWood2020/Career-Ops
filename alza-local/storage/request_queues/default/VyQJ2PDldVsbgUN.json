@@ -1,0 +1,9 @@
+{
+	"id": "VyQJ2PDldVsbgUN",
+	"json": "{\"id\":\"VyQJ2PDldVsbgUN\",\"url\":\"https://www.alza.cz/thrustmaster-t128-x-d7455550.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/thrustmaster-t128-x-gamepass-ultimate-for-30-days-d7455550.htm\",\"uniqueKey\":\"https://www.alza.cz/thrustmaster-t128-x-d7455550.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:27.015Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/thrustmaster-t128-x-d7455550.htm",
+	"url": "https://www.alza.cz/thrustmaster-t128-x-d7455550.htm"
+}

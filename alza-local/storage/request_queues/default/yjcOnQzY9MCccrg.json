@@ -1,0 +1,9 @@
+{
+	"id": "yjcOnQzY9MCccrg",
+	"json": "{\"id\":\"yjcOnQzY9MCccrg\",\"url\":\"https://www.alza.cz/grand-theft-auto-v-gta-5-premium-edition-ps4-d5672686.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/grand-theft-auto-v-gta-5-premium-edition-ps4-d5672686.htm\",\"uniqueKey\":\"https://www.alza.cz/grand-theft-auto-v-gta-5-premium-edition-ps4-d5672686.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:32.903Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/grand-theft-auto-v-gta-5-premium-edition-ps4-d5672686.htm",
+	"url": "https://www.alza.cz/grand-theft-auto-v-gta-5-premium-edition-ps4-d5672686.htm"
+}

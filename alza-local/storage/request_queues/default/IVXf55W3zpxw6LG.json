@@ -1,0 +1,9 @@
+{
+	"id": "IVXf55W3zpxw6LG",
+	"json": "{\"id\":\"IVXf55W3zpxw6LG\",\"url\":\"https://www.alza.cz/EN/low-profile-robotic-vacuum-cleaners/18903241.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/low-profile-robotic-vacuum-cleaners/18903241.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/low-profile-robotic-vacuum-cleaners/18903241.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:22.491Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/low-profile-robotic-vacuum-cleaners/18903241.htm",
+	"url": "https://www.alza.cz/EN/low-profile-robotic-vacuum-cleaners/18903241.htm"
+}

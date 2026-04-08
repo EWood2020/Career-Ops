@@ -1,0 +1,9 @@
+{
+	"id": "rLXu7KWgPUz5evy",
+	"json": "{\"id\":\"rLXu7KWgPUz5evy\",\"url\":\"https://www.alza.cz/EN/drones-with-gps/18868645.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/drones-with-gps/18868645.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/drones-with-gps/18868645.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:01.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/drones-with-gps/18868645.htm",
+	"url": "https://www.alza.cz/EN/drones-with-gps/18868645.htm"
+}

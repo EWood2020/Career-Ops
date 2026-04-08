@@ -1,0 +1,9 @@
+{
+	"id": "YiqwimIqmF3l0Dg",
+	"json": "{\"id\":\"YiqwimIqmF3l0Dg\",\"url\":\"https://www.alza.cz/pet/dvirka-pro-psy/18886370.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/dog-doors/18886370.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/dvirka-pro-psy/18886370.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:07.282Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/dvirka-pro-psy/18886370.htm",
+	"url": "https://www.alza.cz/pet/dvirka-pro-psy/18886370.htm"
+}

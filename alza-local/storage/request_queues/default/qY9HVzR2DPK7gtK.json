@@ -1,0 +1,9 @@
+{
+	"id": "qY9HVzR2DPK7gtK",
+	"json": "{\"id\":\"qY9HVzR2DPK7gtK\",\"url\":\"https://www.alza.cz/EN/laptop/accessories/18843112.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/laptop-accessories/18843112.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/laptop/accessories/18843112.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:34.975Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/laptop/accessories/18843112.htm",
+	"url": "https://www.alza.cz/EN/laptop/accessories/18843112.htm"
+}

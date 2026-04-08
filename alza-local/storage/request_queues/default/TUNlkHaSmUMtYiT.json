@@ -1,0 +1,9 @@
+{
+	"id": "TUNlkHaSmUMtYiT",
+	"json": "{\"id\":\"TUNlkHaSmUMtYiT\",\"url\":\"https://www.alza.cz/potensic-atom2-standard-d12797230.htm\",\"loadedUrl\":\"https://www.alza.cz/potensic-atom2-standard-d12797230.htm\",\"uniqueKey\":\"https://www.alza.cz/potensic-atom2-standard-d12797230.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:23.552Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/potensic-atom2-standard-d12797230.htm",
+	"url": "https://www.alza.cz/potensic-atom2-standard-d12797230.htm"
+}

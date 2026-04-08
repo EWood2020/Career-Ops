@@ -1,0 +1,9 @@
+{
+	"id": "APhmrQO1FNdjUhN",
+	"json": "{\"id\":\"APhmrQO1FNdjUhN\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-left-d12879521.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-2-joy-con-2-left-d12879521.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-left-d12879521.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:26.728Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-left-d12879521.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-2-joy-con-2-left-d12879521.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4rKkRGPsZ9HYhi9",
+	"json": "{\"id\":\"4rKkRGPsZ9HYhi9\",\"url\":\"https://www.alza.cz/meta-quest-3-512-gb-d7962774.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/meta-quest-3-512-gb-d7962774.htm\",\"uniqueKey\":\"https://www.alza.cz/meta-quest-3-512-gb-d7962774.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:31.824Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/meta-quest-3-512-gb-d7962774.htm",
+	"url": "https://www.alza.cz/meta-quest-3-512-gb-d7962774.htm"
+}

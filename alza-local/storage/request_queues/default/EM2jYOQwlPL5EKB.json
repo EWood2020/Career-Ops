@@ -1,0 +1,9 @@
+{
+	"id": "EM2jYOQwlPL5EKB",
+	"json": "{\"id\":\"EM2jYOQwlPL5EKB\",\"url\":\"https://www.alza.cz/dji-avata-2-drone-only-d12321737.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-avata-2-drone-only-d12321737.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-avata-2-drone-only-d12321737.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:46.964Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/dji-avata-2-drone-only-d12321737.htm",
+	"url": "https://www.alza.cz/dji-avata-2-drone-only-d12321737.htm"
+}

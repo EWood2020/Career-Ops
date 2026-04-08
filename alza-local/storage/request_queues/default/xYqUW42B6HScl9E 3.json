@@ -1,0 +1,9 @@
+{
+	"id": "xYqUW42B6HScl9E",
+	"json": "{\"id\":\"xYqUW42B6HScl9E\",\"url\":\"https://www.alza.cz/EN/sluchatka-pro-domaci-poslech/18859896.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/home-theater-headphones/18859896.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/sluchatka-pro-domaci-poslech/18859896.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:27:05.371Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/sluchatka-pro-domaci-poslech/18859896.htm",
+	"url": "https://www.alza.cz/EN/sluchatka-pro-domaci-poslech/18859896.htm"
+}

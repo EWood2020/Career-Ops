@@ -1,0 +1,9 @@
+{
+	"id": "r7TnIet1RGYl5Kx",
+	"json": "{\"id\":\"r7TnIet1RGYl5Kx\",\"url\":\"https://www.alza.cz/sencor-srv-6450bk-d7983361.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-6450bk-d7983361.htm\",\"uniqueKey\":\"https://www.alza.cz/sencor-srv-6450bk-d7983361.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:08.287Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/sencor-srv-6450bk-d7983361.htm",
+	"url": "https://www.alza.cz/sencor-srv-6450bk-d7983361.htm"
+}

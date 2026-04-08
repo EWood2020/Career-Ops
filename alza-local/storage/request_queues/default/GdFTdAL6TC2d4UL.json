@@ -1,0 +1,9 @@
+{
+	"id": "GdFTdAL6TC2d4UL",
+	"json": "{\"id\":\"GdFTdAL6TC2d4UL\",\"url\":\"https://www.alza.cz/EN/notebooky/dle-vyuziti/apple-ipad/18851916.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/apple-ipad/18851916.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/notebooky/dle-vyuziti/apple-ipad/18851916.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:07.413Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/notebooky/dle-vyuziti/apple-ipad/18851916.htm",
+	"url": "https://www.alza.cz/EN/notebooky/dle-vyuziti/apple-ipad/18851916.htm"
+}

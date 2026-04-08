@@ -1,0 +1,9 @@
+{
+	"id": "OKgzVlBU9US6BjK",
+	"json": "{\"id\":\"OKgzVlBU9US6BjK\",\"url\":\"https://www.alza.cz/pet/royal-canin-yorkshire-12-85-g-d5715424.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/royal-canin-yorkshire-12-85-g-d5715424.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/royal-canin-yorkshire-12-85-g-d5715424.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:49.078Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/royal-canin-yorkshire-12-85-g-d5715424.htm",
+	"url": "https://www.alza.cz/pet/royal-canin-yorkshire-12-85-g-d5715424.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "PYNqJdNo4AL183m",
+	"json": "{\"id\":\"PYNqJdNo4AL183m\",\"url\":\"https://www.alza.cz/buxton-btw-4600-tws-seda-d7602644.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/buxton-btw-4600-tws-grey-d7602644.htm\",\"uniqueKey\":\"https://www.alza.cz/buxton-btw-4600-tws-seda-d7602644.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:21.270Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/buxton-btw-4600-tws-seda-d7602644.htm",
+	"url": "https://www.alza.cz/buxton-btw-4600-tws-seda-d7602644.htm"
+}

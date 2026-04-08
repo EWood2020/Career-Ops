@@ -1,0 +1,9 @@
+{
+	"id": "lta4Nipgan1tIil",
+	"json": "{\"id\":\"lta4Nipgan1tIil\",\"url\":\"https://www.alza.cz/logitech-g-a50-lightspeed-black-d12511769.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/logitech-g-a50-lightspeed-black-d12511769.htm\",\"uniqueKey\":\"https://www.alza.cz/logitech-g-a50-lightspeed-black-d12511769.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:35:08.955Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/logitech-g-a50-lightspeed-black-d12511769.htm",
+	"url": "https://www.alza.cz/logitech-g-a50-lightspeed-black-d12511769.htm"
+}

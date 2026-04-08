@@ -1,0 +1,9 @@
+{
+	"id": "mXESjkkh4YkrX1o",
+	"json": "{\"id\":\"mXESjkkh4YkrX1o\",\"url\":\"https://www.alza.cz/EN/monitor-accessories/18843320.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitor-accessories/18843320.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitor-accessories/18843320.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:52.571Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/monitor-accessories/18843320.htm",
+	"url": "https://www.alza.cz/EN/monitor-accessories/18843320.htm"
+}

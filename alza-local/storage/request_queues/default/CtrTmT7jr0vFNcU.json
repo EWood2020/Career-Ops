@@ -1,0 +1,9 @@
+{
+	"id": "CtrTmT7jr0vFNcU",
+	"json": "{\"id\":\"CtrTmT7jr0vFNcU\",\"url\":\"https://www.alza.cz/EN/xgimi-horizon-pro-d6511274.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xgimi-horizon-pro-d6511274.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/xgimi-horizon-pro-d6511274.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:52.231Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/xgimi-horizon-pro-d6511274.htm",
+	"url": "https://www.alza.cz/EN/xgimi-horizon-pro-d6511274.htm"
+}

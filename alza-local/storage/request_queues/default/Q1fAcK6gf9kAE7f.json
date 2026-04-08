@@ -1,0 +1,9 @@
+{
+	"id": "Q1fAcK6gf9kAE7f",
+	"json": "{\"id\":\"Q1fAcK6gf9kAE7f\",\"url\":\"https://www.alza.cz/EN/cheap-headphones/18843602.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/cheap-headphones/18843602.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/cheap-headphones/18843602.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:59:14.726Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/cheap-headphones/18843602.htm",
+	"url": "https://www.alza.cz/EN/cheap-headphones/18843602.htm"
+}

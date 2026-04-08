@@ -1,0 +1,9 @@
+{
+	"id": "MyJohDAIyHOG9YJ",
+	"json": "{\"id\":\"MyJohDAIyHOG9YJ\",\"url\":\"https://www.alza.cz/EN/dreame-x50-ultra-complete-black-d12752746.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dreame-x50-ultra-complete-black-d12752746.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dreame-x50-ultra-complete-black-d12752746.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:44.444Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/dreame-x50-ultra-complete-black-d12752746.htm",
+	"url": "https://www.alza.cz/EN/dreame-x50-ultra-complete-black-d12752746.htm"
+}

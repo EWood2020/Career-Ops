@@ -1,0 +1,9 @@
+{
+	"id": "Y2GMXLGkX1ZaPJ0",
+	"json": "{\"id\":\"Y2GMXLGkX1ZaPJ0\",\"url\":\"https://www.alza.cz/pet/avicentra-stelivo-kukuricne-hrube-20-l-d6384125.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/avicentra-stelivo-kukuricne-hrube-20-l-d6384125.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/avicentra-stelivo-kukuricne-hrube-20-l-d6384125.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:39:16.094Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/avicentra-stelivo-kukuricne-hrube-20-l-d6384125.htm",
+	"url": "https://www.alza.cz/pet/avicentra-stelivo-kukuricne-hrube-20-l-d6384125.htm"
+}

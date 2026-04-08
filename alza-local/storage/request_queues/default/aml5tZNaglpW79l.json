@@ -1,0 +1,9 @@
+{
+	"id": "aml5tZNaglpW79l",
+	"json": "{\"id\":\"aml5tZNaglpW79l\",\"url\":\"https://www.alza.cz/pet/voditka-a-obojky-pro-psy/18869582.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/dog-leashes-and-collars/18869582.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/voditka-a-obojky-pro-psy/18869582.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:58.352Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/voditka-a-obojky-pro-psy/18869582.htm",
+	"url": "https://www.alza.cz/pet/voditka-a-obojky-pro-psy/18869582.htm"
+}

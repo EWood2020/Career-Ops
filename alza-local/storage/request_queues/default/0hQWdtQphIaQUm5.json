@@ -1,0 +1,9 @@
+{
+	"id": "0hQWdtQphIaQUm5",
+	"json": "{\"id\":\"0hQWdtQphIaQUm5\",\"url\":\"https://www.alza.cz/EN/hracky/lego-harry-potter/18852298.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-harry-potter/18852298.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-harry-potter/18852298.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:10.823Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-harry-potter/18852298.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-harry-potter/18852298.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ptXW0EnExpiap62",
+	"json": "{\"id\":\"ptXW0EnExpiap62\",\"url\":\"https://www.alza.cz/lego-star-wars-75418-adventni-kalendar-2025-d12914572.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-star-wars-75418-advent-calendar-2025-d12914572.htm\",\"uniqueKey\":\"https://www.alza.cz/lego-star-wars-75418-adventni-kalendar-2025-d12914572.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:09.742Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/lego-star-wars-75418-adventni-kalendar-2025-d12914572.htm",
+	"url": "https://www.alza.cz/lego-star-wars-75418-adventni-kalendar-2025-d12914572.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tEsH8V4DklgsKX0",
+	"json": "{\"id\":\"tEsH8V4DklgsKX0\",\"url\":\"https://www.alza.cz/EN/msi-katana-15-hx-b14wgk-458xcz-d12941625.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/msi-katana-15-hx-b14wgk-458xcz-d12941625.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/msi-katana-15-hx-b14wgk-458xcz-d12941625.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:11.587Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/msi-katana-15-hx-b14wgk-458xcz-d12941625.htm",
+	"url": "https://www.alza.cz/EN/msi-katana-15-hx-b14wgk-458xcz-d12941625.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tCfpJuZXbNplMEH",
+	"json": "{\"id\":\"tCfpJuZXbNplMEH\",\"url\":\"https://www.alza.cz/EN/hp-probook-460-g11-d12604467.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/hp-probook-460-g11-d12604467.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hp-probook-460-g11-d12604467.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:00.494Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hp-probook-460-g11-d12604467.htm",
+	"url": "https://www.alza.cz/EN/hp-probook-460-g11-d12604467.htm"
+}

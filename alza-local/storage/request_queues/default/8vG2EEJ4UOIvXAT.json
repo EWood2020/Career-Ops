@@ -1,0 +1,9 @@
+{
+	"id": "8vG2EEJ4UOIvXAT",
+	"json": "{\"id\":\"8vG2EEJ4UOIvXAT\",\"url\":\"https://www.alza.cz/sencor-srv-3150or-easyclean-d9687929.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-3150or-easyclean-d9687929.htm\",\"uniqueKey\":\"https://www.alza.cz/sencor-srv-3150or-easyclean-d9687929.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:16.115Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/sencor-srv-3150or-easyclean-d9687929.htm",
+	"url": "https://www.alza.cz/sencor-srv-3150or-easyclean-d9687929.htm"
+}

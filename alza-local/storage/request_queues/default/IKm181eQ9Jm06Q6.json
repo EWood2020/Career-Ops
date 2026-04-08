@@ -1,0 +1,9 @@
+{
+	"id": "IKm181eQ9Jm06Q6",
+	"json": "{\"id\":\"IKm181eQ9Jm06Q6\",\"url\":\"https://www.alza.cz/EN/portable-monitors/18876238.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/portable-monitors/18876238.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/portable-monitors/18876238.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:44.430Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/portable-monitors/18876238.htm",
+	"url": "https://www.alza.cz/EN/portable-monitors/18876238.htm"
+}

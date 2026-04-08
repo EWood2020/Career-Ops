@@ -1,0 +1,9 @@
+{
+	"id": "lHdoRUjPCU2hbR6",
+	"json": "{\"id\":\"lHdoRUjPCU2hbR6\",\"url\":\"https://www.alza.cz/EN/monitory-33-a-vetsi/18859837.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/33-monitors-and-larger/18859837.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitory-33-a-vetsi/18859837.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:49:20.535Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/monitory-33-a-vetsi/18859837.htm",
+	"url": "https://www.alza.cz/EN/monitory-33-a-vetsi/18859837.htm"
+}

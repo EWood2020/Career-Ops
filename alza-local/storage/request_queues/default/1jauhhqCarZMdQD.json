@@ -1,0 +1,9 @@
+{
+	"id": "1jauhhqCarZMdQD",
+	"json": "{\"id\":\"1jauhhqCarZMdQD\",\"url\":\"https://www.alza.cz/34-gigabyte-g34wqc2-d13104036.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/34-gigabyte-g34wqc2-d13104036.htm\",\"uniqueKey\":\"https://www.alza.cz/34-gigabyte-g34wqc2-d13104036.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:30.547Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/34-gigabyte-g34wqc2-d13104036.htm",
+	"url": "https://www.alza.cz/34-gigabyte-g34wqc2-d13104036.htm"
+}

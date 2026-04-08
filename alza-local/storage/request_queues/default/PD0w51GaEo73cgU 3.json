@@ -1,0 +1,9 @@
+{
+	"id": "PD0w51GaEo73cgU",
+	"json": "{\"id\":\"PD0w51GaEo73cgU\",\"url\":\"https://www.alza.cz/pet/pelisky-pro-psy/18869882.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/dog-beds/18869882.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pelisky-pro-psy/18869882.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:21.347Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/pelisky-pro-psy/18869882.htm",
+	"url": "https://www.alza.cz/pet/pelisky-pro-psy/18869882.htm"
+}

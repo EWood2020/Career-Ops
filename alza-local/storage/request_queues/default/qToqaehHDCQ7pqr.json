@@ -1,0 +1,9 @@
+{
+	"id": "qToqaehHDCQ7pqr",
+	"json": "{\"id\":\"qToqaehHDCQ7pqr\",\"url\":\"https://www.alza.cz/EN/projectors/lcd-projectors/18843295.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/projectors/18843223.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/projectors/lcd-projectors/18843295.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:48.230Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/projectors/lcd-projectors/18843295.htm",
+	"url": "https://www.alza.cz/EN/projectors/lcd-projectors/18843295.htm"
+}

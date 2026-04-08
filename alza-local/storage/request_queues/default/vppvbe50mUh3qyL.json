@@ -1,0 +1,9 @@
+{
+	"id": "vppvbe50mUh3qyL",
+	"json": "{\"id\":\"vppvbe50mUh3qyL\",\"url\":\"https://www.alza.cz/EN/toys/exclusive/18861331.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/exclusive/18861331.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/exclusive/18861331.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:20.080Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/toys/exclusive/18861331.htm",
+	"url": "https://www.alza.cz/EN/toys/exclusive/18861331.htm"
+}

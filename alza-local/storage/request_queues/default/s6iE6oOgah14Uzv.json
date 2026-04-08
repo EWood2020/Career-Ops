@@ -1,0 +1,9 @@
+{
+	"id": "s6iE6oOgah14Uzv",
+	"json": "{\"id\":\"s6iE6oOgah14Uzv\",\"url\":\"https://www.alza.cz/EN/hracky/lego-od-13-let/18855458.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-sets-ages-13/18855458.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-od-13-let/18855458.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:01.510Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-od-13-let/18855458.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-od-13-let/18855458.htm"
+}

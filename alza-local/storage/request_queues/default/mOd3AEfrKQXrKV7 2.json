@@ -1,0 +1,9 @@
+{
+	"id": "mOd3AEfrKQXrKV7",
+	"json": "{\"id\":\"mOd3AEfrKQXrKV7\",\"url\":\"https://www.alza.cz/pet/magic-litter-kockolit-bentonite-ultra-white-baby-powder-10-l-d6310742.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/magic-litter-kockolit-bentonite-ultra-white-baby-powder-10-l-d6310742.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/magic-litter-kockolit-bentonite-ultra-white-baby-powder-10-l-d6310742.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:39:07.196Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/magic-litter-kockolit-bentonite-ultra-white-baby-powder-10-l-d6310742.htm",
+	"url": "https://www.alza.cz/pet/magic-litter-kockolit-bentonite-ultra-white-baby-powder-10-l-d6310742.htm"
+}

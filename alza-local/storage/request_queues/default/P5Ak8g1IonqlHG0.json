@@ -1,0 +1,9 @@
+{
+	"id": "P5Ak8g1IonqlHG0",
+	"json": "{\"id\":\"P5Ak8g1IonqlHG0\",\"url\":\"https://www.alza.cz/niceboy-podsie-4-black-d12818715.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/niceboy-podsie-4-black-d12818715.htm\",\"uniqueKey\":\"https://www.alza.cz/niceboy-podsie-4-black-d12818715.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:26.960Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/niceboy-podsie-4-black-d12818715.htm",
+	"url": "https://www.alza.cz/niceboy-podsie-4-black-d12818715.htm"
+}

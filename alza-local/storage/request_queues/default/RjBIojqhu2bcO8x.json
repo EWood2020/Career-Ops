@@ -1,0 +1,9 @@
+{
+	"id": "RjBIojqhu2bcO8x",
+	"json": "{\"id\":\"RjBIojqhu2bcO8x\",\"url\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-d8078676.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-d8078676.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-d8078676.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:54.626Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-d8078676.htm",
+	"url": "https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-d8078676.htm"
+}

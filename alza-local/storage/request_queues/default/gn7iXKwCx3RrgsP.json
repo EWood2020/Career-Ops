@@ -1,0 +1,9 @@
+{
+	"id": "gn7iXKwCx3RrgsP",
+	"json": "{\"id\":\"gn7iXKwCx3RrgsP\",\"url\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-stellar-white-d12668841.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-stellar-white-d12668841.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-stellar-white-d12668841.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:56.351Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-stellar-white-d12668841.htm",
+	"url": "https://www.alza.cz/EN/macbook-air-13-m2-cz-2022-stellar-white-d12668841.htm"
+}

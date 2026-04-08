@@ -1,0 +1,9 @@
+{
+	"id": "31gZqiieYm7Eg1y",
+	"json": "{\"id\":\"31gZqiieYm7Eg1y\",\"url\":\"https://www.alza.cz/gaming/playstation-vr2-d6941310.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-vr2-d6941310.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-vr2-d6941310.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:52:09.139Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-vr2-d6941310.htm",
+	"url": "https://www.alza.cz/gaming/playstation-vr2-d6941310.htm"
+}

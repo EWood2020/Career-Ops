@@ -1,0 +1,9 @@
+{
+	"id": "jM1A6D3786Em6Cd",
+	"json": "{\"id\":\"jM1A6D3786Em6Cd\",\"url\":\"https://www.alza.cz/57-samsung-odyssey-neo-g9-d7915024.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/57-samsung-odyssey-neo-g9-d7915024.htm\",\"uniqueKey\":\"https://www.alza.cz/57-samsung-odyssey-neo-g9-d7915024.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:34.390Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/57-samsung-odyssey-neo-g9-d7915024.htm",
+	"url": "https://www.alza.cz/57-samsung-odyssey-neo-g9-d7915024.htm"
+}

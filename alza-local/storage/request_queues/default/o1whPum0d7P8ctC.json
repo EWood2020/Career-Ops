@@ -1,0 +1,9 @@
+{
+	"id": "o1whPum0d7P8ctC",
+	"json": "{\"id\":\"o1whPum0d7P8ctC\",\"url\":\"https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-n2-d7930610.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-n2-d7930610.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-n2-d7930610.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:57:39.054Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-n2-d7930610.htm",
+	"url": "https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-n2-d7930610.htm"
+}

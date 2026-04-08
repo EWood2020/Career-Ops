@@ -1,0 +1,9 @@
+{
+	"id": "mHPfGyVuFu9AAPH",
+	"json": "{\"id\":\"mHPfGyVuFu9AAPH\",\"url\":\"https://www.alza.cz/pet/sheba-kapsicky-drubezi-vyber-ve-stave-pro-dospele-kocky-72-85-g-d12226187.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/sheba-kapsicky-drubezi-vyber-ve-stave-pro-dospele-kocky-72-85-g-d12226187.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/sheba-kapsicky-drubezi-vyber-ve-stave-pro-dospele-kocky-72-85-g-d12226187.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:47.089Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/sheba-kapsicky-drubezi-vyber-ve-stave-pro-dospele-kocky-72-85-g-d12226187.htm",
+	"url": "https://www.alza.cz/pet/sheba-kapsicky-drubezi-vyber-ve-stave-pro-dospele-kocky-72-85-g-d12226187.htm"
+}

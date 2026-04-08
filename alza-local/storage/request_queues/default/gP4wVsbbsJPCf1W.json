@@ -1,0 +1,9 @@
+{
+	"id": "gP4wVsbbsJPCf1W",
+	"json": "{\"id\":\"gP4wVsbbsJPCf1W\",\"url\":\"https://www.alza.cz/logitech-g-pro-x-2-lightspeed-gaming-headset-cerna-d7742128.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/logitech-g-pro-x-2-lightspeed-gaming-headset-black-d7742128.htm\",\"uniqueKey\":\"https://www.alza.cz/logitech-g-pro-x-2-lightspeed-gaming-headset-cerna-d7742128.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:34.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/logitech-g-pro-x-2-lightspeed-gaming-headset-cerna-d7742128.htm",
+	"url": "https://www.alza.cz/logitech-g-pro-x-2-lightspeed-gaming-headset-cerna-d7742128.htm"
+}

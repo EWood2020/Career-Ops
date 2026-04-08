@@ -1,0 +1,9 @@
+{
+	"id": "PqH3zM5farv5dbU",
+	"json": "{\"id\":\"PqH3zM5farv5dbU\",\"url\":\"https://www.alza.cz/tesla-robostar-iq100-d6541059.htm\",\"loadedUrl\":\"https://www.alza.cz/tesla-robostar-iq100-d6541059.htm\",\"uniqueKey\":\"https://www.alza.cz/tesla-robostar-iq100-d6541059.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:07.548Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/tesla-robostar-iq100-d6541059.htm",
+	"url": "https://www.alza.cz/tesla-robostar-iq100-d6541059.htm"
+}

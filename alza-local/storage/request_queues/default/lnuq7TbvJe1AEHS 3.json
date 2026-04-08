@@ -1,0 +1,9 @@
+{
+	"id": "lnuq7TbvJe1AEHS",
+	"json": "{\"id\":\"lnuq7TbvJe1AEHS\",\"url\":\"https://www.alza.cz/EN/apple-airpods-4-d12541394.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/apple-airpods-4-d12541394.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/apple-airpods-4-d12541394.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:28:43.381Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/apple-airpods-4-d12541394.htm",
+	"url": "https://www.alza.cz/EN/apple-airpods-4-d12541394.htm"
+}

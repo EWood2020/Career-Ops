@@ -1,0 +1,9 @@
+{
+	"id": "jj5thWVMXjPFlPl",
+	"json": "{\"id\":\"jj5thWVMXjPFlPl\",\"url\":\"https://www.alza.cz/pet/adventni-kalendare-pro-kocky/18872530.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/adventni-kalendare-pro-kocky/18872530.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/adventni-kalendare-pro-kocky/18872530.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:25.333Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/adventni-kalendare-pro-kocky/18872530.htm",
+	"url": "https://www.alza.cz/pet/adventni-kalendare-pro-kocky/18872530.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oT3ZtNx18s68wFJ",
+	"json": "{\"id\":\"oT3ZtNx18s68wFJ\",\"url\":\"https://www.alza.cz/EN/gaming/xbox-games/18892910.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-games/18892910.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/xbox-games/18892910.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:43.288Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/xbox-games/18892910.htm",
+	"url": "https://www.alza.cz/EN/gaming/xbox-games/18892910.htm"
+}

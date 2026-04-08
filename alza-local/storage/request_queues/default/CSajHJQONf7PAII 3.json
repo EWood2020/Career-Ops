@@ -1,0 +1,9 @@
+{
+	"id": "CSajHJQONf7PAII",
+	"json": "{\"id\":\"CSajHJQONf7PAII\",\"url\":\"https://www.alza.cz/EN/gaming/nintendo-switch-games/18860898.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-games/18860898.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/nintendo-switch-games/18860898.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:35:41.668Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/nintendo-switch-games/18860898.htm",
+	"url": "https://www.alza.cz/EN/gaming/nintendo-switch-games/18860898.htm"
+}

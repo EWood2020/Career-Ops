@@ -1,0 +1,9 @@
+{
+	"id": "F6BW3oLejjRVTla",
+	"json": "{\"id\":\"F6BW3oLejjRVTla\",\"url\":\"https://www.alza.cz/lenovo-chrome-14m9610-seashell-kovovy-d13122549.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-chrome-14m9610-seashell-metal-d13122549.htm\",\"uniqueKey\":\"https://www.alza.cz/lenovo-chrome-14m9610-seashell-kovovy-d13122549.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:17.513Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/lenovo-chrome-14m9610-seashell-kovovy-d13122549.htm",
+	"url": "https://www.alza.cz/lenovo-chrome-14m9610-seashell-kovovy-d13122549.htm"
+}

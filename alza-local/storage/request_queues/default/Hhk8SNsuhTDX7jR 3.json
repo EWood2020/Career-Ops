@@ -1,0 +1,9 @@
+{
+	"id": "Hhk8SNsuhTDX7jR",
+	"json": "{\"id\":\"Hhk8SNsuhTDX7jR\",\"url\":\"https://www.alza.cz/pet/hygiena-a-kosmetika-pro-psy/18869694.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/hygiene-and-cosmetic-products-for-dogs/18869694.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/hygiena-a-kosmetika-pro-psy/18869694.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:31.698Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/hygiena-a-kosmetika-pro-psy/18869694.htm",
+	"url": "https://www.alza.cz/pet/hygiena-a-kosmetika-pro-psy/18869694.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "A3qZJ2COLmfoscN",
+	"json": "{\"id\":\"A3qZJ2COLmfoscN\",\"url\":\"https://www.alza.cz/EN/hracky/lego-hasici-a-policie/18874086.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-police-and-fire-brigade/18874086.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-hasici-a-policie/18874086.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:41.483Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-hasici-a-policie/18874086.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-hasici-a-policie/18874086.htm"
+}

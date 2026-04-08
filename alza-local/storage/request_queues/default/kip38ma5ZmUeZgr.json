@@ -1,0 +1,9 @@
+{
+	"id": "kip38ma5ZmUeZgr",
+	"json": "{\"id\":\"kip38ma5ZmUeZgr\",\"url\":\"https://www.alza.cz/EN/smart-monitors/18894412.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/smart-monitors/18894412.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/smart-monitors/18894412.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:51.507Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/smart-monitors/18894412.htm",
+	"url": "https://www.alza.cz/EN/smart-monitors/18894412.htm"
+}

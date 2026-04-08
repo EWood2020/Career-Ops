@@ -1,0 +1,9 @@
+{
+	"id": "af3OdEfpcZijISH",
+	"json": "{\"id\":\"af3OdEfpcZijISH\",\"url\":\"https://www.alza.cz/EN/gaming/xbox-live/18850330.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-live/18850330.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/xbox-live/18850330.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:34:14.012Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/gaming/xbox-live/18850330.htm",
+	"url": "https://www.alza.cz/EN/gaming/xbox-live/18850330.htm"
+}

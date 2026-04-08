@@ -1,0 +1,9 @@
+{
+	"id": "pqRUhrEmmuy5nDl",
+	"json": "{\"id\":\"pqRUhrEmmuy5nDl\",\"url\":\"https://www.alza.cz/xbox-game-pass-ultimate-1-mesicni-predplatne-d5625808.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/media/xbox-game-pass-ultimate-1-month-subscription-d5625808.htm\",\"uniqueKey\":\"https://www.alza.cz/xbox-game-pass-ultimate-1-mesicni-predplatne-d5625808.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:24.674Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/xbox-game-pass-ultimate-1-mesicni-predplatne-d5625808.htm",
+	"url": "https://www.alza.cz/xbox-game-pass-ultimate-1-mesicni-predplatne-d5625808.htm"
+}

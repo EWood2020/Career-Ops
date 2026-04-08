@@ -1,0 +1,9 @@
+{
+	"id": "sPHD710EUNSFBis",
+	"json": "{\"id\":\"sPHD710EUNSFBis\",\"url\":\"https://www.alza.cz/EN/best-sellers-best-projectors/18843223.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/best-sellers-best-projectors/18843223.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/best-sellers-best-projectors/18843223.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:30.297Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/best-sellers-best-projectors/18843223.htm",
+	"url": "https://www.alza.cz/EN/best-sellers-best-projectors/18843223.htm"
+}

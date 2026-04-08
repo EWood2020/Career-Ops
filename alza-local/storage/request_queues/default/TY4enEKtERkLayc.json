@@ -1,0 +1,9 @@
+{
+	"id": "TY4enEKtERkLayc",
+	"json": "{\"id\":\"TY4enEKtERkLayc\",\"url\":\"https://www.alza.cz/jbl-vibe-buds-black-d12874640.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-vibe-buds-black-d12874640.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-vibe-buds-black-d12874640.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:17.586Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/jbl-vibe-buds-black-d12874640.htm",
+	"url": "https://www.alza.cz/jbl-vibe-buds-black-d12874640.htm"
+}

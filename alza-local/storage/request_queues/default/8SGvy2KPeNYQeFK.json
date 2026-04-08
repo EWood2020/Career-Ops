@@ -1,0 +1,9 @@
+{
+	"id": "8SGvy2KPeNYQeFK",
+	"json": "{\"id\":\"8SGvy2KPeNYQeFK\",\"url\":\"https://www.alza.cz/EN/kancelarske-projektory/18860064.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/projectors/18843223.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/kancelarske-projektory/18860064.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:05.127Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/kancelarske-projektory/18860064.htm",
+	"url": "https://www.alza.cz/EN/kancelarske-projektory/18860064.htm"
+}

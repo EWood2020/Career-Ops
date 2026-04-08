@@ -1,0 +1,9 @@
+{
+	"id": "79KNky8rVtYsXbq",
+	"json": "{\"id\":\"79KNky8rVtYsXbq\",\"url\":\"https://www.alza.cz/lego%C2%AE-creator-10281-bonsaj-d6283970.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-botanicals-10281-bonsai-d6283970.htm\",\"uniqueKey\":\"https://www.alza.cz/lego%C2%AE-creator-10281-bonsaj-d6283970.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:13.655Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/lego%C2%AE-creator-10281-bonsaj-d6283970.htm",
+	"url": "https://www.alza.cz/lego%C2%AE-creator-10281-bonsaj-d6283970.htm"
+}

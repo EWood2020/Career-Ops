@@ -1,0 +1,9 @@
+{
+	"id": "mc1LwH7Bk7H35sQ",
+	"json": "{\"id\":\"mc1LwH7Bk7H35sQ\",\"url\":\"https://www.alza.cz/EN/27-samsung-s3-s39gd-d12900028.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-samsung-s3-s39gd-d12900028.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/27-samsung-s3-s39gd-d12900028.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-19T18:10:42.235Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/27-samsung-s3-s39gd-d12900028.htm",
+	"url": "https://www.alza.cz/EN/27-samsung-s3-s39gd-d12900028.htm"
+}

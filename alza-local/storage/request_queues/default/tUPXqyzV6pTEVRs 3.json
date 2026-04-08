@@ -1,0 +1,9 @@
+{
+	"id": "tUPXqyzV6pTEVRs",
+	"json": "{\"id\":\"tUPXqyzV6pTEVRs\",\"url\":\"https://www.alza.cz/gaming/xbox-wireless-controller-robot-white-d6133564.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-wireless-controller-robot-white-d6133564.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/xbox-wireless-controller-robot-white-d6133564.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:34:38.453Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/xbox-wireless-controller-robot-white-d6133564.htm",
+	"url": "https://www.alza.cz/gaming/xbox-wireless-controller-robot-white-d6133564.htm"
+}

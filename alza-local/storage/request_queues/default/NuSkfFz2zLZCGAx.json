@@ -1,0 +1,9 @@
+{
+	"id": "NuSkfFz2zLZCGAx",
+	"json": "{\"id\":\"NuSkfFz2zLZCGAx\",\"url\":\"https://www.alza.cz/EN/wanbo-mozart-1-pro-new-d12949979.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/wanbo-mozart-1-pro-new-d12949979.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/wanbo-mozart-1-pro-new-d12949979.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:22.710Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/wanbo-mozart-1-pro-new-d12949979.htm",
+	"url": "https://www.alza.cz/EN/wanbo-mozart-1-pro-new-d12949979.htm"
+}

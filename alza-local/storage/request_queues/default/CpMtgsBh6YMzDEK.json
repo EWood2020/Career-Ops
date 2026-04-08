@@ -1,0 +1,9 @@
+{
+	"id": "CpMtgsBh6YMzDEK",
+	"json": "{\"id\":\"CpMtgsBh6YMzDEK\",\"url\":\"https://www.alza.cz/pet/applaws-konzerva-kitten-multipack-6-70-g-d5582467.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/applaws-konzerva-kitten-multipack-6-70-g-d5582467.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/applaws-konzerva-kitten-multipack-6-70-g-d5582467.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:35.753Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/applaws-konzerva-kitten-multipack-6-70-g-d5582467.htm",
+	"url": "https://www.alza.cz/pet/applaws-konzerva-kitten-multipack-6-70-g-d5582467.htm"
+}

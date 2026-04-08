@@ -1,0 +1,9 @@
+{
+	"id": "k4wAI1S5unI3oGu",
+	"json": "{\"id\":\"k4wAI1S5unI3oGu\",\"url\":\"https://www.alza.cz/EN/xiaomi-robot-vacuum-x20-max-eu-d12752522.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xiaomi-robot-vacuum-x20-max-eu-d12752522.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/xiaomi-robot-vacuum-x20-max-eu-d12752522.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:14.626Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/xiaomi-robot-vacuum-x20-max-eu-d12752522.htm",
+	"url": "https://www.alza.cz/EN/xiaomi-robot-vacuum-x20-max-eu-d12752522.htm"
+}

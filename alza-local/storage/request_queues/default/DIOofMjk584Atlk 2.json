@@ -1,0 +1,9 @@
+{
+	"id": "DIOofMjk584Atlk",
+	"json": "{\"id\":\"DIOofMjk584Atlk\",\"url\":\"https://www.alza.cz/EN/drones-for-kids/18857288.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/drones-for-kids/18857288.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/drones-for-kids/18857288.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:25:27.037Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/drones-for-kids/18857288.htm",
+	"url": "https://www.alza.cz/EN/drones-for-kids/18857288.htm"
+}

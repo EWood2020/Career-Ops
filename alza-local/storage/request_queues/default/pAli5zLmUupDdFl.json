@@ -1,0 +1,9 @@
+{
+	"id": "pAli5zLmUupDdFl",
+	"json": "{\"id\":\"pAli5zLmUupDdFl\",\"url\":\"https://www.alza.cz/pet/pro-plan-adult-derma-care-granule-pro-kocky-losos-10-kg-d13042718.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/pro-plan-adult-derma-care-granule-pro-kocky-losos-10-kg-d13042718.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pro-plan-adult-derma-care-granule-pro-kocky-losos-10-kg-d13042718.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:43.333Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/pro-plan-adult-derma-care-granule-pro-kocky-losos-10-kg-d13042718.htm",
+	"url": "https://www.alza.cz/pet/pro-plan-adult-derma-care-granule-pro-kocky-losos-10-kg-d13042718.htm"
+}

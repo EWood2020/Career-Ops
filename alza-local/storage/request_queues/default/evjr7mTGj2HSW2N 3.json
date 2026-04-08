@@ -1,0 +1,9 @@
+{
+	"id": "evjr7mTGj2HSW2N",
+	"json": "{\"id\":\"evjr7mTGj2HSW2N\",\"url\":\"https://www.alza.cz/pet/brit-fresh-duck-with-millet-6-400-g-d12697336.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-duck-with-millet-6-400-g-d12697336.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-duck-with-millet-6-400-g-d12697336.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:15.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-duck-with-millet-6-400-g-d12697336.htm",
+	"url": "https://www.alza.cz/pet/brit-fresh-duck-with-millet-6-400-g-d12697336.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "D4EdWz4hjXlWEaV",
+	"json": "{\"id\":\"D4EdWz4hjXlWEaV\",\"url\":\"https://www.alza.cz/lenovo-thinkbook-16-g6-irl-arctic-grey-d12834876.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-thinkbook-16-g6-irl-arctic-grey-d12834876.htm\",\"uniqueKey\":\"https://www.alza.cz/lenovo-thinkbook-16-g6-irl-arctic-grey-d12834876.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:42.957Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/lenovo-thinkbook-16-g6-irl-arctic-grey-d12834876.htm",
+	"url": "https://www.alza.cz/lenovo-thinkbook-16-g6-irl-arctic-grey-d12834876.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WhZ5V5nZQjG37z1",
+	"json": "{\"id\":\"WhZ5V5nZQjG37z1\",\"url\":\"https://www.alza.cz/acer-pd1520s-d13108340.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/acer-pd1520s-d13108340.htm\",\"uniqueKey\":\"https://www.alza.cz/acer-pd1520s-d13108340.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:40.473Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/acer-pd1520s-d13108340.htm",
+	"url": "https://www.alza.cz/acer-pd1520s-d13108340.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LJYhQeNri3uaFwn",
+	"json": "{\"id\":\"LJYhQeNri3uaFwn\",\"url\":\"https://www.alza.cz/EN/34-aoc-cu34g4-d13041832.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/34-aoc-cu34g4-d13041832.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/34-aoc-cu34g4-d13041832.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:04.613Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/34-aoc-cu34g4-d13041832.htm",
+	"url": "https://www.alza.cz/EN/34-aoc-cu34g4-d13041832.htm"
+}

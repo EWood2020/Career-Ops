@@ -1,0 +1,9 @@
+{
+	"id": "VfwTviIOWpYLc0h",
+	"json": "{\"id\":\"VfwTviIOWpYLc0h\",\"url\":\"https://www.alza.cz/playseat-evolution-alcantara-d2418212.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/playseat-evolution-alcantara-d2418212.htm\",\"uniqueKey\":\"https://www.alza.cz/playseat-evolution-alcantara-d2418212.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:27.849Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/playseat-evolution-alcantara-d2418212.htm",
+	"url": "https://www.alza.cz/playseat-evolution-alcantara-d2418212.htm"
+}

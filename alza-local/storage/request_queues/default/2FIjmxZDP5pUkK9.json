@@ -1,0 +1,9 @@
+{
+	"id": "2FIjmxZDP5pUkK9",
+	"json": "{\"id\":\"2FIjmxZDP5pUkK9\",\"url\":\"https://www.alza.cz/EN/yaber-k3-pro-d13064770.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/yaber-k3-pro-d13064770.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/yaber-k3-pro-d13064770.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:41.820Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/yaber-k3-pro-d13064770.htm",
+	"url": "https://www.alza.cz/EN/yaber-k3-pro-d13064770.htm"
+}

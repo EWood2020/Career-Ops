@@ -1,0 +1,9 @@
+{
+	"id": "Hi1vg4vU0FnXBfE",
+	"json": "{\"id\":\"Hi1vg4vU0FnXBfE\",\"url\":\"https://www.alza.cz/EN/robotic-vacuum-cleaners-reviews/18850167.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/robotic-vacuum-cleaners-reviews/18850167.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/robotic-vacuum-cleaners-reviews/18850167.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:39:43.711Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/robotic-vacuum-cleaners-reviews/18850167.htm",
+	"url": "https://www.alza.cz/EN/robotic-vacuum-cleaners-reviews/18850167.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "IMpMaes5CRB09nO",
+	"json": "{\"id\":\"IMpMaes5CRB09nO\",\"url\":\"https://www.alza.cz/dji-mini-5-pro-fly-more-combo-dji-rc2-d13074196.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-mini-5-pro-fly-more-combo-dji-rc2-d13074196.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-mini-5-pro-fly-more-combo-dji-rc2-d13074196.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:25:51.038Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/dji-mini-5-pro-fly-more-combo-dji-rc2-d13074196.htm",
+	"url": "https://www.alza.cz/dji-mini-5-pro-fly-more-combo-dji-rc2-d13074196.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fMBONSRa0NgUY5o",
+	"json": "{\"id\":\"fMBONSRa0NgUY5o\",\"url\":\"https://www.alza.cz/EN/full-hd-monitors/18871056.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/full-hd-monitors/18871056.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/full-hd-monitors/18871056.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:47.187Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/full-hd-monitors/18871056.htm",
+	"url": "https://www.alza.cz/EN/full-hd-monitors/18871056.htm"
+}

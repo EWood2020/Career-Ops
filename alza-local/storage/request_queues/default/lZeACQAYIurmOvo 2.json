@@ -1,0 +1,9 @@
+{
+	"id": "lZeACQAYIurmOvo",
+	"json": "{\"id\":\"lZeACQAYIurmOvo\",\"url\":\"https://www.alza.cz/xiaomi-robot-vacuum-s40c-d13070172.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xiaomi-robot-vacuum-s40c-d13070172.htm\",\"uniqueKey\":\"https://www.alza.cz/xiaomi-robot-vacuum-s40c-d13070172.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:25.241Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/xiaomi-robot-vacuum-s40c-d13070172.htm",
+	"url": "https://www.alza.cz/xiaomi-robot-vacuum-s40c-d13070172.htm"
+}

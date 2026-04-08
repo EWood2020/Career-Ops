@@ -1,0 +1,9 @@
+{
+	"id": "thStqkHwzyxE9p3",
+	"json": "{\"id\":\"thStqkHwzyxE9p3\",\"url\":\"https://www.alza.cz/EN/foldable-drones/18868651.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/foldable-drones/18868651.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/foldable-drones/18868651.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:25:25.983Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/foldable-drones/18868651.htm",
+	"url": "https://www.alza.cz/EN/foldable-drones/18868651.htm"
+}

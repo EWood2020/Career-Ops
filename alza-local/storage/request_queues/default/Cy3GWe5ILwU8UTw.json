@@ -1,0 +1,9 @@
+{
+	"id": "Cy3GWe5ILwU8UTw",
+	"json": "{\"id\":\"Cy3GWe5ILwU8UTw\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-d5288807.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-neon-redblue-joy-con-d5659498.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-d5288807.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:01.718Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-d5288807.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-d5288807.htm"
+}

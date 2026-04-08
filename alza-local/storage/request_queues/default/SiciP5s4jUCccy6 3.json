@@ -1,0 +1,9 @@
+{
+	"id": "SiciP5s4jUCccy6",
+	"json": "{\"id\":\"SiciP5s4jUCccy6\",\"url\":\"https://www.alza.cz/jbl-tune-720bt-purple-d7683106.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-tune-720bt-purple-d7683106.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-tune-720bt-purple-d7683106.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:28:38.678Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/jbl-tune-720bt-purple-d7683106.htm",
+	"url": "https://www.alza.cz/jbl-tune-720bt-purple-d7683106.htm"
+}

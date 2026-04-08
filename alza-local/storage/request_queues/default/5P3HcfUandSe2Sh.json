@@ -1,0 +1,9 @@
+{
+	"id": "5P3HcfUandSe2Sh",
+	"json": "{\"id\":\"5P3HcfUandSe2Sh\",\"url\":\"https://www.alza.cz/EN/hracky/lego-classic/18855748.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-classic/18855748.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-classic/18855748.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:21.291Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-classic/18855748.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-classic/18855748.htm"
+}

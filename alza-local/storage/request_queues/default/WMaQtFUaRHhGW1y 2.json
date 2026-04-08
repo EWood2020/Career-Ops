@@ -1,0 +1,9 @@
+{
+	"id": "WMaQtFUaRHhGW1y",
+	"json": "{\"id\":\"WMaQtFUaRHhGW1y\",\"url\":\"https://www.alza.cz/EN/sencor-srv-9085bk-d12821150.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-9085bk-d12821150.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/sencor-srv-9085bk-d12821150.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:18.363Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/sencor-srv-9085bk-d12821150.htm",
+	"url": "https://www.alza.cz/EN/sencor-srv-9085bk-d12821150.htm"
+}

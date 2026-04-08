@@ -1,0 +1,9 @@
+{
+	"id": "2krByqZCXRB8qM6",
+	"json": "{\"id\":\"2krByqZCXRB8qM6\",\"url\":\"https://www.alza.cz/EN/kancelarska-sluchatka/18859901.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/office-headsets/18859901.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/kancelarska-sluchatka/18859901.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:01.409Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/kancelarska-sluchatka/18859901.htm",
+	"url": "https://www.alza.cz/EN/kancelarska-sluchatka/18859901.htm"
+}

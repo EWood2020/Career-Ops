@@ -1,0 +1,9 @@
+{
+	"id": "dC7Q9RzgzLTP01T",
+	"json": "{\"id\":\"dC7Q9RzgzLTP01T\",\"url\":\"https://www.alza.cz/pet/pelisky-pro-kocky/18869902.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/pelisky-pro-kocky/18869902.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pelisky-pro-kocky/18869902.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:05.360Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/pelisky-pro-kocky/18869902.htm",
+	"url": "https://www.alza.cz/pet/pelisky-pro-kocky/18869902.htm"
+}

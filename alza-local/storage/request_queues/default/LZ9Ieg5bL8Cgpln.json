@@ -1,0 +1,9 @@
+{
+	"id": "LZ9Ieg5bL8Cgpln",
+	"json": "{\"id\":\"LZ9Ieg5bL8Cgpln\",\"url\":\"https://www.alza.cz/EN/memory/notebook-memory/18843127.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/memory-for-laptops/18843127.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/memory/notebook-memory/18843127.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:33.052Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/memory/notebook-memory/18843127.htm",
+	"url": "https://www.alza.cz/EN/memory/notebook-memory/18843127.htm"
+}

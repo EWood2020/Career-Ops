@@ -1,0 +1,9 @@
+{
+	"id": "sbe4EfTEL9I4bA2",
+	"json": "{\"id\":\"sbe4EfTEL9I4bA2\",\"url\":\"https://www.alza.cz/pet/propesko-mix-masa-a-ryby-48-100-g-d5888195.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/propesko-mix-masa-a-ryby-48-100-g-d5888195.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/propesko-mix-masa-a-ryby-48-100-g-d5888195.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:28.560Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/propesko-mix-masa-a-ryby-48-100-g-d5888195.htm",
+	"url": "https://www.alza.cz/pet/propesko-mix-masa-a-ryby-48-100-g-d5888195.htm"
+}

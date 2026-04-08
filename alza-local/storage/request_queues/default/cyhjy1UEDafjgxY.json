@@ -1,0 +1,9 @@
+{
+	"id": "cyhjy1UEDafjgxY",
+	"json": "{\"id\":\"cyhjy1UEDafjgxY\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-d6591345.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-oled-model-white-d6591343.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-oled-model-d6591345.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:04:58.424Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-oled-model-d6591345.htm",
+	"url": "https://www.alza.cz/gaming/nintendo-switch-oled-model-d6591345.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1lDf2bh3LNYc2uM",
+	"json": "{\"id\":\"1lDf2bh3LNYc2uM\",\"url\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-gray-camo-d7403493.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-dualsense-wireless-controller-gray-camo-d7403493.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-gray-camo-d7403493.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:05.794Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-gray-camo-d7403493.htm",
+	"url": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-gray-camo-d7403493.htm"
+}

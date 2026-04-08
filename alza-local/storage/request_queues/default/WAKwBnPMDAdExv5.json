@@ -1,0 +1,9 @@
+{
+	"id": "WAKwBnPMDAdExv5",
+	"json": "{\"id\":\"WAKwBnPMDAdExv5\",\"url\":\"https://www.alza.cz/samsung-the-premiere-sp-lpu9d-d12555907.htm\",\"loadedUrl\":\"https://www.alza.cz/samsung-the-premiere-sp-lpu9d-d12555907.htm\",\"uniqueKey\":\"https://www.alza.cz/samsung-the-premiere-sp-lpu9d-d12555907.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:39.240Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/samsung-the-premiere-sp-lpu9d-d12555907.htm",
+	"url": "https://www.alza.cz/samsung-the-premiere-sp-lpu9d-d12555907.htm"
+}

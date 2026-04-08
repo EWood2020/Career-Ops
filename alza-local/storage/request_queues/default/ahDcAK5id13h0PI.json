@@ -1,0 +1,9 @@
+{
+	"id": "ahDcAK5id13h0PI",
+	"json": "{\"id\":\"ahDcAK5id13h0PI\",\"url\":\"https://www.alza.cz/pet/calibra-eazzy-cat-podestylka-fine-10kg-d6232578.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/calibra-eazzy-cat-podestylka-fine-10kg-d6232578.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/calibra-eazzy-cat-podestylka-fine-10kg-d6232578.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:58.727Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/calibra-eazzy-cat-podestylka-fine-10kg-d6232578.htm",
+	"url": "https://www.alza.cz/pet/calibra-eazzy-cat-podestylka-fine-10kg-d6232578.htm"
+}

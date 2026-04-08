@@ -1,0 +1,9 @@
+{
+	"id": "LPFK9RCafw0CQ7x",
+	"json": "{\"id\":\"LPFK9RCafw0CQ7x\",\"url\":\"https://www.alza.cz/gaming/playstation-vr2-sense-controller-charging-station-d7519821.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-vr2-sense-controller-charging-station-d7519821.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-vr2-sense-controller-charging-station-d7519821.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:52:10.450Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-vr2-sense-controller-charging-station-d7519821.htm",
+	"url": "https://www.alza.cz/gaming/playstation-vr2-sense-controller-charging-station-d7519821.htm"
+}

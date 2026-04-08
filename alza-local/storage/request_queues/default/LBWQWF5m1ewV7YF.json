@@ -1,0 +1,9 @@
+{
+	"id": "LBWQWF5m1ewV7YF",
+	"json": "{\"id\":\"LBWQWF5m1ewV7YF\",\"url\":\"https://www.alza.cz/gaming/playstation-5-pro-2tb-ea-sports-fc-26-d13111715.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-pro-2tb-ea-sports-fc-26-d13111715.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-pro-2tb-ea-sports-fc-26-d13111715.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:17.456Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-pro-2tb-ea-sports-fc-26-d13111715.htm",
+	"url": "https://www.alza.cz/gaming/playstation-5-pro-2tb-ea-sports-fc-26-d13111715.htm"
+}

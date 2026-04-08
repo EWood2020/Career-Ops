@@ -1,0 +1,9 @@
+{
+	"id": "MnJfSuuo8tlsPB4",
+	"json": "{\"id\":\"MnJfSuuo8tlsPB4\",\"url\":\"https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:56.999Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm",
+	"url": "https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm"
+}

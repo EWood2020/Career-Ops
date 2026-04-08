@@ -1,0 +1,9 @@
+{
+	"id": "jcNIIOey975U4GV",
+	"json": "{\"id\":\"jcNIIOey975U4GV\",\"url\":\"https://www.alza.cz/pet/pro-plan-medium-large-adult-sensitive-digestion-grain-free-granule-pro-psy-kruta-12-kg-d5593110.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/pro-plan-medium-large-adult-sensitive-digestion-grain-free-kibble-for-dogs-turkey-12-kg-d5593110.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pro-plan-medium-large-adult-sensitive-digestion-grain-free-granule-pro-psy-kruta-12-kg-d5593110.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:39.034Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/pet/pro-plan-medium-large-adult-sensitive-digestion-grain-free-granule-pro-psy-kruta-12-kg-d5593110.htm",
+	"url": "https://www.alza.cz/pet/pro-plan-medium-large-adult-sensitive-digestion-grain-free-granule-pro-psy-kruta-12-kg-d5593110.htm"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "t3L9UOI98Zljctz",
+	"json": "{\"id\":\"t3L9UOI98Zljctz\",\"url\":\"https://www.alza.cz/EN/luxurious-most-expensive-laptops/18842920.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/luxurious-most-expensive-laptops/18842920.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/luxurious-most-expensive-laptops/18842920.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:40.540Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/luxurious-most-expensive-laptops/18842920.htm",
+	"url": "https://www.alza.cz/EN/luxurious-most-expensive-laptops/18842920.htm"
+}

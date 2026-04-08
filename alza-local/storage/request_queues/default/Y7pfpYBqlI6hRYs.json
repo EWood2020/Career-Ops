@@ -1,0 +1,9 @@
+{
+	"id": "Y7pfpYBqlI6hRYs",
+	"json": "{\"id\":\"Y7pfpYBqlI6hRYs\",\"url\":\"https://www.alza.cz/EN/hracky/lego-dreamzzz/18903812.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-dreamzzz/18903812.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-dreamzzz/18903812.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:32.832Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-dreamzzz/18903812.htm",
+	"url": "https://www.alza.cz/EN/hracky/lego-dreamzzz/18903812.htm"
+}

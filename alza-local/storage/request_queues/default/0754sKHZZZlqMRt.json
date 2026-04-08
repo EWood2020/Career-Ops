@@ -1,0 +1,9 @@
+{
+	"id": "0754sKHZZZlqMRt",
+	"json": "{\"id\":\"0754sKHZZZlqMRt\",\"url\":\"https://www.alza.cz/EN/lenovo-legion-pro-5-16iax10h-eclipse-black-metal-d12958044.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-legion-pro-5-16iax10h-eclipse-black-metal-d12958044.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lenovo-legion-pro-5-16iax10h-eclipse-black-metal-d12958044.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:55.042Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/lenovo-legion-pro-5-16iax10h-eclipse-black-metal-d12958044.htm",
+	"url": "https://www.alza.cz/EN/lenovo-legion-pro-5-16iax10h-eclipse-black-metal-d12958044.htm"
+}

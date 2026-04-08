@@ -1,0 +1,9 @@
+{
+	"id": "meYd5EQG97nJINx",
+	"json": "{\"id\":\"meYd5EQG97nJINx\",\"url\":\"https://www.alza.cz/logitech-g-a50-lightspeed-white-d12511770.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/logitech-g-a50-lightspeed-white-d12511770.htm\",\"uniqueKey\":\"https://www.alza.cz/logitech-g-a50-lightspeed-white-d12511770.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:35:10.684Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/logitech-g-a50-lightspeed-white-d12511770.htm",
+	"url": "https://www.alza.cz/logitech-g-a50-lightspeed-white-d12511770.htm"
+}

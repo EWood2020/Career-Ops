@@ -1,0 +1,9 @@
+{
+	"id": "RyUx6uenwzlhyZG",
+	"json": "{\"id\":\"RyUx6uenwzlhyZG\",\"url\":\"https://www.alza.cz/lego-star-wars-75431-bitevni-balicek-klonovanych-vojaku-z-327-hvezdneho-sboru-d12914526.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-star-wars-75431-battle-pack-of-clone-troopers-from-the-327th-star-corps-d12914526.htm\",\"uniqueKey\":\"https://www.alza.cz/lego-star-wars-75431-bitevni-balicek-klonovanych-vojaku-z-327-hvezdneho-sboru-d12914526.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:07.859Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/lego-star-wars-75431-bitevni-balicek-klonovanych-vojaku-z-327-hvezdneho-sboru-d12914526.htm",
+	"url": "https://www.alza.cz/lego-star-wars-75431-bitevni-balicek-klonovanych-vojaku-z-327-hvezdneho-sboru-d12914526.htm"
+}

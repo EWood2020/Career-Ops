@@ -1,0 +1,9 @@
+{
+	"id": "PVDvPTJpgt8NghA",
+	"json": "{\"id\":\"PVDvPTJpgt8NghA\",\"url\":\"https://www.alza.cz/EN/asus-vivobook-15-x1502va-nj1257w-quiet-blue-d12937102.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-vivobook-15-x1502va-nj1257w-quiet-blue-d12937102.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/asus-vivobook-15-x1502va-nj1257w-quiet-blue-d12937102.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:49.177Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/asus-vivobook-15-x1502va-nj1257w-quiet-blue-d12937102.htm",
+	"url": "https://www.alza.cz/EN/asus-vivobook-15-x1502va-nj1257w-quiet-blue-d12937102.htm"
+}

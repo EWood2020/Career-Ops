@@ -1,0 +1,9 @@
+{
+	"id": "i0BhW13FR9M1vw7",
+	"json": "{\"id\":\"i0BhW13FR9M1vw7\",\"url\":\"https://www.alza.cz/EN/sports-headphones/18859900.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sports-headphones/18859900.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/sports-headphones/18859900.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:27:53.914Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/sports-headphones/18859900.htm",
+	"url": "https://www.alza.cz/EN/sports-headphones/18859900.htm"
+}

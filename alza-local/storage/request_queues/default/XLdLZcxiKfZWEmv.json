@@ -1,0 +1,9 @@
+{
+	"id": "XLdLZcxiKfZWEmv",
+	"json": "{\"id\":\"XLdLZcxiKfZWEmv\",\"url\":\"https://www.alza.cz/EN/xgimi-horizon-d6511273.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xgimi-horizon-d6511273.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/xgimi-horizon-d6511273.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:43.137Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/xgimi-horizon-d6511273.htm",
+	"url": "https://www.alza.cz/EN/xgimi-horizon-d6511273.htm"
+}

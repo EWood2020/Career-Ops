@@ -1,0 +1,9 @@
+{
+	"id": "UCts8CwGcQJSI5s",
+	"json": "{\"id\":\"UCts8CwGcQJSI5s\",\"url\":\"https://www.alza.cz/EN/dji-neo-fly-more-combo-d12508370.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-neo-fly-more-combo-d12508370.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dji-neo-fly-more-combo-d12508370.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:52.572Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/dji-neo-fly-more-combo-d12508370.htm",
+	"url": "https://www.alza.cz/EN/dji-neo-fly-more-combo-d12508370.htm"
+}

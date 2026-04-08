@@ -1,0 +1,9 @@
+{
+	"id": "FYOsVfIVfoq6r3q",
+	"json": "{\"id\":\"FYOsVfIVfoq6r3q\",\"url\":\"https://www.alza.cz/EN/pet/pet-supplies-for-cats/18869016.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/pet-supplies-for-cats/18869016.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/pet/pet-supplies-for-cats/18869016.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-19T17:43:59.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alza.cz/EN/pet/pet-supplies-for-cats/18869016.htm",
+	"url": "https://www.alza.cz/EN/pet/pet-supplies-for-cats/18869016.htm"
+}
