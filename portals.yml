@@ -195,6 +195,16 @@ tracked_companies:
     fit: very-high
     notes: "Digital transformation boutique. European. Consulting DNA."
 
+  - name: "BCG"
+    url: "https://careers.bcg.com/search-jobs"
+    fit: very-high
+    notes: "Top-tier strategy and transformation consultancy."
+
+  - name: "McKinsey"
+    url: "https://www.mckinsey.com/careers/search-jobs"
+    fit: very-high
+    notes: "Strategy consulting with large transformation practice."
+
   - name: "Kearney"
     url: "https://www.kearney.com/careers"
     fit: high
@@ -217,11 +227,6 @@ tracked_companies:
     notes: "AI and digital transformation in regulated pharma."
 
   # High fit — Lisbon cluster
-  - name: "Deloitte Portugal"
-    url: "https://www.deloitte.com/pt/en/careers.html"
-    fit: high
-    notes: "Lisbon office. Consulting practice. Target relocation."
-
   - name: "Accenture Portugal"
     url: "https://www.accenture.com/pt-en/careers"
     fit: medium-high
@@ -234,14 +239,19 @@ tracked_companies:
 
   # Medium-high — Prague
   - name: "Accenture Prague"
-    url: "https://www.accenture.com/cz-en/careers"
-    fit: medium-high
-    notes: "AI/digital practice. Prague hub."
+    url: "https://www.accenture.com/cz-en/careers/jobsearch?jk=transformation"
+    fit: high
+    notes: "Prague hub focused on transformation consulting."
 
-  - name: "Capgemini CZ"
-    url: "https://www.capgemini.com/cz-en/careers/"
-    fit: medium-high
-    notes: "Tech consulting. Prague. AI transformation practice growing."
+  - name: "Capgemini"
+    url: "https://www.capgemini.com/gb-en/careers/"
+    fit: high
+    notes: "Global tech consulting with a strong transformation practice."
+
+  - name: "EY Prague"
+    url: "https://careers.ey.com/ey/job?q=digital+transformation&l=Prague"
+    fit: high
+    notes: "Digital transformation roles in Prague."
 
   - name: "Microsoft Prague"
     url: "https://careers.microsoft.com"

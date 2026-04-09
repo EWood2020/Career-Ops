@@ -46,6 +46,7 @@ from playwright.sync_api import sync_playwright
 import requests
 from bs4 import BeautifulSoup
 import anthropic
+import apply
 import gspread
 from google.oauth2.service_account import Credentials
 from reportlab.lib import colors
@@ -148,10 +149,18 @@ RSS_FEEDS = [
                + urlencode({"keywords": "digital transformation consultant", "location": "Prague"}),
     },
     {
-        "name": "LinkedIn — technology strategy consultant Lisbon",
-        "url": "https://www.linkedin.com/jobs/search/rss?"
-               + urlencode({"keywords": "technology strategy consultant", "location": "Lisbon"}),
+        "name": "EuroJobSites — management/strategy",
+        "url": "https://www.eurojobs.com/rss/management-consulting.xml",
     },
+    {
+        "name": "JobFluent — Europe (English)",
+        "url": "https://www.jobfluent.com/rss/jobs.xml",
+    },
+    {
+        "name": "Jobgether — remote Europe",
+        "url": "https://jobgether.com/feed/remote-jobs.xml",
+    },
+    # Otta has no RSS feed; add to Playwright company scrapers separately.
 ]
 
 
@@ -179,6 +188,7 @@ ROLE_TEXT_SIGNALS = [
 SCORING_TITLE_KEYWORDS = [
     "transformation", "strategy", "ai", "digital", "consultant",
     "enablement", "governance", "advisory", "intelligence",
+    "change management", "product owner", "innovation",
 ]
 
 
@@ -195,11 +205,6 @@ def has_role_signal(text: str) -> bool:
 def is_engineering_role(title: str) -> bool:
     t = title.lower()
     return any(kw in t for kw in ENGINEERING_KEYWORDS)
-
-
-def mentions_lisbon(text: str) -> bool:
-    lower = text.lower()
-    return any(kw in lower for kw in ["lisbon", "lisboa", "portugal", "porto"])
 
 
 # ─── GOOGLE SHEETS ──────────────────────────────────────────────────────────────
@@ -233,7 +238,11 @@ def mark_tracked(sheet: gspread.Spreadsheet, job: dict, today: str):
 
 def ensure_ws(sheet: gspread.Spreadsheet, name: str, headers: list) -> gspread.Worksheet:
     try:
-        return sheet.worksheet(name)
+        ws = sheet.worksheet(name)
+        existing_headers = ws.row_values(1)
+        if existing_headers != headers:
+            ws.update("A1", [headers])
+        return ws
     except gspread.WorksheetNotFound:
         ws = sheet.add_worksheet(name, rows=5000, cols=len(headers))
         ws.append_row(headers)
@@ -243,6 +252,7 @@ def ensure_ws(sheet: gspread.Spreadsheet, name: str, headers: list) -> gspread.W
 PIPELINE_HEADERS = [
     "date", "job_title", "company", "url",
     "score", "fit_pct", "salary_ask", "verdict", "why",
+    "cv_ready", "apply_url",
 ]
 SKIPPED_HEADERS = ["date", "job_title", "company", "url", "score", "verdict", "why"]
 
@@ -259,6 +269,8 @@ def append_pipeline(sheet: gspread.Spreadsheet, job: dict, result: dict, today: 
         str(result.get("salary_ask") or ""),
         result.get("verdict", ""),
         result.get("why", ""),
+        "Yes",
+        job.get("url", ""),
     ])
 
 
@@ -464,7 +476,6 @@ LINKEDIN_QUERIES = [
     ("AI strategy consultant", "Europe"),
     ("AI enablement lead", "Europe"),
     ("head of AI transformation", "Europe"),
-    ("technology strategy consultant", "Lisbon"),
     ("digital transformation consultant", "Prague"),
     ("senior product manager AI", "Europe"),
 ]
@@ -619,13 +630,13 @@ Key proof points:
 
 Fit signals (positive): business-side AI, org change, LEAN/ITIL/governance, consulting/advisory,
 cross-functional stakeholder management, regulated industry (pharma, energy, finance),
-Prague or Lisbon or remote Europe
+Prague or remote Europe
 
 Fit signals (negative): deep ML/Python engineering, no stakeholder interaction, pure data science,
 STEM hard filter required
 
 Target compensation: 65K–85K EUR gross/year
-Location: Prague (current) | Lisbon (preferred relocation) | Remote Europe
+Location: Prague (current) | Amsterdam | Barcelona | Basque Country | Remote Europe
 
 Evaluate the job posting. Return ONLY valid JSON, no prose:
 {
@@ -717,6 +728,85 @@ def build_styles() -> dict:
     }
 
 
+def sanitize_filename(text: str, max_len: int = 40) -> str:
+    safe = re.sub(r"[^A-Za-z0-9 _-]", "", text or "")
+    safe = re.sub(r"[\s]+", "_", safe).strip("_")
+    return safe[:max_len] or "file"
+
+
+def build_cv_styles() -> dict:
+    base = getSampleStyleSheet()
+    styles = build_styles()
+    styles.update({
+        "cv_title": ParagraphStyle(
+            "CVTitle", parent=base["Title"], fontSize=16,
+            textColor=NAVY, fontName="Helvetica-Bold", spaceAfter=6,
+        ),
+        "cv_heading": ParagraphStyle(
+            "CVHeading", parent=base["Heading2"], fontSize=12,
+            textColor=NAVY, fontName="Helvetica-Bold", spaceAfter=4,
+        ),
+        "cv_subheading": ParagraphStyle(
+            "CVSubheading", parent=base["Normal"], fontSize=10,
+            textColor=NAVY, fontName="Helvetica-Bold", spaceAfter=3,
+        ),
+        "cv_body": ParagraphStyle(
+            "CVBody", parent=base["Normal"], fontSize=9, leading=12,
+        ),
+        "cv_bullet": ParagraphStyle(
+            "CVBullet", parent=base["Normal"], fontSize=9, leading=12,
+            leftIndent=14, bulletIndent=6,
+        ),
+    })
+    return styles
+
+
+def escape_text(text: str) -> str:
+    return (
+        text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+    )
+
+
+def generate_cv_pdf_from_markdown(markdown: str, output_path: Path):
+    styles = build_cv_styles()
+    elements = []
+    for line in markdown.splitlines():
+        stripped = line.rstrip()
+        if not stripped:
+            elements.append(Spacer(1, 4))
+            continue
+        if stripped.startswith("# "):
+            elements.append(Paragraph(escape_text(stripped[2:]), styles["cv_title"]))
+            continue
+        if stripped.startswith("## "):
+            elements.append(Paragraph(escape_text(stripped[3:]), styles["cv_heading"]))
+            continue
+        if stripped.startswith("### "):
+            elements.append(Paragraph(escape_text(stripped[4:]), styles["cv_subheading"]))
+            continue
+        if stripped.startswith("- "):
+            elements.append(Paragraph(escape_text(stripped[2:]), styles["cv_bullet"], bulletText="•"))
+            continue
+        elements.append(Paragraph(escape_text(stripped), styles["cv_body"]))
+
+    doc = SimpleDocTemplate(
+        str(output_path),
+        pagesize=A4,
+        leftMargin=2 * cm, rightMargin=2 * cm,
+        topMargin=2 * cm, bottomMargin=2 * cm,
+    )
+    doc.build(elements)
+    log.info(f"CV PDF saved: {output_path}")
+
+
+def generate_cv_pdf_from_markdown_file(markdown_path: Path, output_path: Path):
+    with open(markdown_path, "r") as f:
+        markdown = f.read()
+    generate_cv_pdf_from_markdown(markdown, output_path)
+
+
 def cell(text: str, style: ParagraphStyle) -> Paragraph:
     return Paragraph(str(text), style)
 
@@ -745,7 +835,7 @@ def generate_pdf(
 
     # ── Stats summary ──
     stats_data = [
-        ["Sources", "Fetched", "New", "Scored", "Pipeline ≥4.0", "Skipped <4.0"],
+        ["Sources", "Fetched", "New", "Scored", "Pipeline ≥3.5", "Skipped <3.5"],
         [
             str(stats.get("sources_scanned", 0)),
             str(stats.get("total_fetched", 0)),
@@ -791,9 +881,14 @@ def generate_pdf(
             source = job.get("source", "")
             url    = job.get("url", "")
 
+            # Make company name more prominent
             story.append(Paragraph(
-                f"{idx}. {job.get('job_title', 'Untitled')} — {job.get('company', '?')}",
+                f"{idx}. <b>{job.get('job_title', 'Untitled')}</b>",
                 S["job_title"],
+            ))
+            story.append(Paragraph(
+                f"<b>{job.get('company', 'Unknown Company')}</b>",
+                S["body"],
             ))
             detail = Table(
                 [
@@ -820,7 +915,7 @@ def generate_pdf(
             ))
             story.append(Spacer(1, 0.4 * cm))
     else:
-        story.append(Paragraph("No roles scored ≥ 4.0 today.", S["body"]))
+        story.append(Paragraph("No roles scored ≥ 3.5 today.", S["body"]))
         story.append(Spacer(1, 0.3 * cm))
 
     # ── Partial fits section (3.0–3.9) ──
@@ -836,19 +931,22 @@ def generate_pdf(
             cell("Score", S["body"]),
             cell("Title", S["body"]),
             cell("Company", S["body"]),
+            cell("URL", S["body"]),
             cell("Why", S["body"]),
         ]]
         for item in partial_fits:
             job    = item["job"]
             result = item["result"]
+            url    = job.get("url", "")
             partial_data.append([
                 cell(str(result.get("score", "?")), S["body"]),
-                cell(job.get("job_title", "")[:60], S["small"]),
-                cell(job.get("company", "")[:35], S["small"]),
-                cell(result.get("why", "")[:120], S["small"]),
+                cell(job.get("job_title", "")[:50], S["small"]),
+                cell(job.get("company", "")[:30], S["small"]),
+                cell(f'<link href="{url}" color="blue">{url[:40]}...</link>' if url else "", S["small"]),
+                cell(result.get("why", "")[:100], S["small"]),
             ])
 
-        pt = Table(partial_data, colWidths=[1.5 * cm, 5.5 * cm, 4 * cm, 5.5 * cm])
+        pt = Table(partial_data, colWidths=[1.5 * cm, 4.5 * cm, 3 * cm, 4.5 * cm, 4 * cm])
         pt.setStyle(TableStyle([
             ("BACKGROUND",    (0, 0), (-1, 0), colors.HexColor("#fff3e0")),
             ("FONTNAME",      (0, 0), (-1, 0), "Helvetica-Bold"),
@@ -871,6 +969,10 @@ def generate_pdf(
         f"{datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC",
         S["small"],
     ))
+    story.append(Paragraph(
+        '<link href="https://docs.google.com/spreadsheets/d/1u13Vf6W4gOZI50QvrzUk7N9mc5izc1vigLjQJxFdVFs" color="blue">View Full Results in Google Sheets</link>',
+        S["small"],
+    ))
 
     doc.build(story)
     log.info(f"PDF saved: {output_path}")
@@ -884,8 +986,9 @@ def send_email_briefing(
     stats: dict,
     today: str,
     pdf_path: Path,
+    cv_paths: list[Path] | None = None,
 ):
-    """Send Daily briefing via Gmail with PDF attachment."""
+    """Send Daily briefing via Gmail with PDF + CV attachments."""
     gmail_address = os.getenv("GMAIL_ADDRESS", "")
     gmail_password = os.getenv("GMAIL_APP_PASSWORD", "")
     
@@ -916,7 +1019,7 @@ def send_email_briefing(
                 body += f"URL: {job.get('url', '')}\n"
             body += "\n"
         else:
-            body += "✅ PIPELINE\nNo roles scored ≥ 4.0 today.\n\n"
+            body += "✅ PIPELINE\nNo roles scored ≥ 3.5 today.\n\n"
         
         # Partial fits section
         if partial_fits:
@@ -934,9 +1037,15 @@ def send_email_briefing(
         message["To"] = gmail_address
         message["Subject"] = subject
         
+        if cv_paths:
+            body += "\nAttached CVs:\n"
+            for cv in cv_paths:
+                body += f"- {cv.name}\n"
+            body += "\n"
+
         message.attach(MIMEText(body, "plain"))
         
-        # Attach PDF
+        # Attach briefing PDF first
         if pdf_path.exists():
             with open(pdf_path, "rb") as attachment:
                 part = MIMEBase("application", "octet-stream")
@@ -944,6 +1053,15 @@ def send_email_briefing(
             encoders.encode_base64(part)
             part.add_header("Content-Disposition", f"attachment; filename= {pdf_path.name}")
             message.attach(part)
+
+        # Attach any generated CV markdown files
+        if cv_paths:
+            for cv_file in cv_paths:
+                if cv_file.exists():
+                    with open(cv_file, "r", encoding="utf-8") as attachment:
+                        part = MIMEText(attachment.read(), "plain")
+                    part.add_header("Content-Disposition", f"attachment; filename= {cv_file.name}")
+                    message.attach(part)
         
         # Send via Gmail
         context = ssl.create_default_context()
@@ -969,6 +1087,11 @@ def main():
     # Initialise clients
     claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     sheet  = get_sheet()
+
+    # Load application generation sources
+    profile = apply.load_profile()
+    cv_master = apply.load_cv()
+    cv_paths: list[Path] = []
 
     # Deduplication gate: URLs already in "tracked" tab
     existing_urls = get_existing_urls(sheet)
@@ -1043,7 +1166,7 @@ def main():
     log.info(f"To score: {len(to_score)} ({auto_skipped} auto-skipped)")
 
     # ── Step 4: Score with Claude API ───────────────────────────────────────────
-    pipeline_jobs:  list[dict] = []   # score >= 4.0 → "pipeline" tab
+    pipeline_jobs:  list[dict] = []   # score >= 3.5 → "pipeline" tab
     partial_fits:   list[dict] = []   # score 3.0–3.9 → PDF partial section
     scored_count = 0
     skipped_score_count = 0
@@ -1067,26 +1190,36 @@ def main():
         scored_count += 1
         score = float(result.get("score", 0))
 
-        # Apply +0.5 Lisbon/Portugal bonus (cap at 5.0)
-        context_text = " ".join([
-            job.get("job_title", ""),
-            job.get("full_description", ""),
-            job.get("url", ""),
-        ])
-        if mentions_lisbon(context_text):
-            score = min(score + 0.5, 5.0)
-            result["score"] = round(score, 1)
-            result["why"] = (result.get("why", "") + " [+0.5 Lisbon/Portugal bonus]").strip()
-            log.info(f"   Lisbon bonus → score now {score}")
-
         # Mark as tracked (dedup gate)
         mark_tracked(sheet, job, today)
 
         # Route by score
-        if score >= 4.0:
+        if score >= 3.5:
             log.info(f"   PIPELINE ✓  score={score}  verdict={result.get('verdict')}")
             append_pipeline(sheet, job, result, today)
             pipeline_jobs.append({"job": job, "result": result})
+
+            # Generate tailored application artifacts for pipeline roles
+            job_id = apply.extract_job_id(job.get("url", ""))
+            if job_id:
+                try:
+                    # Convert job dict field names for apply.py (job_scanner uses job_title and full_description)
+                    job_for_apply = {
+                        "title": job.get("job_title", ""),
+                        "company": job.get("company", ""),
+                        "description": job.get("full_description", job.get("description", "")),
+                        "url": job.get("url", ""),
+                    }
+                    application_analysis = apply.score_and_extract_keywords(job_for_apply, profile, cv_master, claude)
+                    tailored_cv = apply.generate_tailored_cv(cv_master, application_analysis.get("keywords", []), job.get("job_title", ""))
+                    cover_letter = apply.generate_cover_letter(job_for_apply, profile, application_analysis.get("keywords", []), cv_master, claude)
+                    app_dir = apply.save_application(job_id, job_for_apply, application_analysis, tailored_cv, cover_letter)
+                    cv_paths.append(app_dir / "cv.md")
+                    log.info(f"✓ Saved applications/{job_id}/cv.md")
+                except Exception as exc:
+                    log.warning(f"Application generation failed for {job.get('job_title', 'Unknown')}: {exc}")
+            else:
+                log.warning(f"Skipping application generation for non-LinkedIn job URL: {job.get('url', '')}")
         else:
             skipped_score_count += 1
             log.info(f"   skipped  score={score}")
@@ -1111,7 +1244,7 @@ def main():
     generate_pdf(pipeline_jobs, partial_fits, pdf_path, today, stats)
 
     # ── Step 6: Send email briefing ─────────────────────────────────────────────
-    send_email_briefing(pipeline_jobs, partial_fits, stats, today, pdf_path)
+    send_email_briefing(pipeline_jobs, partial_fits, stats, today, pdf_path, cv_paths)
 
     # ── Summary ─────────────────────────────────────────────────────────────────
     print(f"\n{'='*60}")
@@ -1121,7 +1254,7 @@ def main():
     print(f"Jobs fetched    : {total_fetched}")
     print(f"New (deduped)   : {len(deduped)}")
     print(f"Scored by Claude: {scored_count}")
-    print(f"Pipeline (≥4.0) : {len(pipeline_jobs)}")
+    print(f"Pipeline (≥3.5) : {len(pipeline_jobs)}")
     print(f"Partial (3-3.9) : {len(partial_fits)}")
     print(f"PDF briefing    : {pdf_path}")
     print(f"{'='*60}\n")
