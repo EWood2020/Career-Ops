@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 .venv
 .env
+.vscode/
+PDF templates/
+**/.DS_Store
