@@ -27,9 +27,15 @@ import re
 import sys
 import json
 import logging
+import ssl
+import smtplib
 from pathlib import Path
 from urllib.parse import urlparse
 from datetime import datetime
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
 
 from dotenv import load_dotenv
 load_dotenv(Path(__file__).parent / ".env")
@@ -38,6 +44,8 @@ import yaml
 from playwright.sync_api import sync_playwright
 import anthropic
 from bs4 import BeautifulSoup
+import gspread
+from google.oauth2.service_account import Credentials
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -68,8 +76,14 @@ APPLICATIONS_DIR.mkdir(parents=True, exist_ok=True)
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 LINKEDIN_LI_AT = os.getenv("LINKEDIN_LI_AT", "")
+GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID", "")
 
 CLAUDE_MODEL = "claude-haiku-4-5-20251001"
+
+SCOPES = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive.readonly",
+]
 
 REQUEST_HEADERS = {
     "User-Agent": (
@@ -99,6 +113,129 @@ def load_cv() -> str:
         sys.exit(1)
     with open(CV_PATH) as f:
         return f.read()
+
+
+# ─── GOOGLE SHEETS (applications tab) ──────────────────────────────────────────
+
+APPLICATIONS_HEADERS = ["date", "role", "company", "url", "status"]
+
+
+def _get_service_account_json_path() -> str:
+    """
+    Supports either:
+    - GOOGLE_SERVICE_ACCOUNT_JSON_CONTENT: JSON string (Railway-friendly)
+    - GOOGLE_SERVICE_ACCOUNT_JSON: filesystem path
+    """
+    import tempfile
+
+    _sa_content = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON_CONTENT", "")
+    if _sa_content:
+        try:
+            _sa_dict = json.loads(_sa_content)
+        except json.JSONDecodeError:
+            _sa_content = _sa_content.replace("\\\\n", "\\n")
+            _sa_dict = json.loads(_sa_content)
+        _tmp = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
+        json.dump(_sa_dict, _tmp)
+        _tmp.flush()
+        return _tmp.name
+
+    return os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+
+
+def _ensure_ws(sheet: gspread.Spreadsheet, name: str, headers: list[str]) -> gspread.Worksheet:
+    try:
+        ws = sheet.worksheet(name)
+        existing = ws.row_values(1)
+        if existing != headers:
+            try:
+                ws.resize(cols=len(headers))
+            except Exception:
+                pass
+            ws.update("A1", [headers])
+        return ws
+    except gspread.WorksheetNotFound:
+        ws = sheet.add_worksheet(name, rows=5000, cols=len(headers))
+        ws.append_row(headers)
+        return ws
+
+
+def append_application_row(job: dict, status: str = "applied") -> None:
+    if not GOOGLE_SHEET_ID:
+        log.warning("GOOGLE_SHEET_ID not set — skipping applications tab logging")
+        return
+
+    try:
+        sa_path = _get_service_account_json_path()
+        creds = Credentials.from_service_account_file(sa_path, scopes=SCOPES)
+        gc = gspread.authorize(creds)
+        sheet = gc.open_by_key(GOOGLE_SHEET_ID)
+        ws = _ensure_ws(sheet, "applications", APPLICATIONS_HEADERS)
+        today = datetime.now().strftime("%Y-%m-%d")
+        ws.append_row([
+            today,
+            job.get("title", ""),
+            job.get("company", ""),
+            job.get("url", ""),
+            status,
+        ])
+        log.info("✓ Logged to Google Sheets tab: applications")
+    except Exception as exc:
+        log.warning(f"Google Sheets logging failed: {exc}")
+
+
+# ─── EMAIL (Gmail SMTP) ────────────────────────────────────────────────────────
+
+def send_application_email(job: dict, attachments: list[Path]) -> None:
+    """Send application email to self with attached CV + cover letter PDFs."""
+    gmail_address = os.getenv("GMAIL_ADDRESS", "")
+    gmail_password = os.getenv("GMAIL_APP_PASSWORD", "")
+
+    if not gmail_address or not gmail_password:
+        log.warning("GMAIL_ADDRESS or GMAIL_APP_PASSWORD not set — skipping email notification")
+        return
+
+    role = job.get("title", "") or "Application"
+    company = job.get("company", "") or ""
+    url = job.get("url", "") or ""
+    subject = f"Application PDFs — {role}" + (f" @ {company}" if company else "")
+
+    plain_body = "\n".join([
+        f"Role: {role}",
+        f"Company: {company}",
+        f"URL: {url}",
+        "",
+        "Attached: CV + Cover Letter PDFs.",
+    ])
+
+    message = MIMEMultipart("mixed")
+    message["From"] = gmail_address
+    message["To"] = gmail_address
+    message["Subject"] = subject
+
+    alternative = MIMEMultipart("alternative")
+    alternative.attach(MIMEText(plain_body, "plain"))
+    message.attach(alternative)
+
+    for p in attachments:
+        try:
+            if not p or not p.exists():
+                continue
+            with open(p, "rb") as f:
+                part = MIMEBase("application", "pdf")
+                part.set_payload(f.read())
+            encoders.encode_base64(part)
+            part.add_header("Content-Disposition", f"attachment; filename={p.name}")
+            message.attach(part)
+        except Exception as exc:
+            log.warning(f"Attachment skipped ({p}): {exc}")
+
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        server.login(gmail_address, gmail_password)
+        server.sendmail(gmail_address, gmail_address, message.as_string())
+
+    log.info(f"✓ Application email sent to {gmail_address}")
 
 
 # ─── LINKEDIN JOB FETCHING ──────────────────────────────────────────────────────
@@ -1137,13 +1274,7 @@ def main():
     log.info(f"=== Career-Ops ATS Application Generator ===")
     log.info(f"Job ID: {job_id}")
     
-    # Fetch job details for folder naming
-    job = fetch_linkedin_job(job_id)
-    if not job:
-        log.error("Failed to fetch job details")
-        sys.exit(1)
-    
-    # Create readable folder name: YYYY-MM-DD_Job_Title
+    # Create readable folder name
     today = datetime.now().strftime("%Y-%m-%d")
     def sanitize_for_folder(text: str, max_len: int = 30) -> str:
         safe = re.sub(r"[^A-Za-z0-9 _-]", "", text or "")
@@ -1156,9 +1287,6 @@ def main():
                 collapsed.append(token)
         safe = "_".join(collapsed)
         return safe[:max_len] or "Unknown"
-    
-    job_title_clean = sanitize_for_folder(job.get("title", "Job"))
-    folder_name = f"{today}_{job_title_clean}"
 
     # Load candidate profile and CV
     log.info("Loading profile and master CV...")
@@ -1191,9 +1319,37 @@ def main():
     log.info("Generating personalized cover letter...")
     cover_letter = generate_cover_letter(job, profile, analysis["keywords"], cv_master, client)
 
+    # Folder name: prefer job title; if Unknown, try cover-letter header; else fallback to Company + job_id suffix
+    role_title_for_folder = (job.get("title") or "").strip()
+    if not role_title_for_folder or role_title_for_folder.lower() == "unknown":
+        first_line = (cover_letter.splitlines()[0].strip() if cover_letter else "")
+        # Expected: "# Cover Letter — {role} at {company}"
+        m = re.match(r"^#\s*Cover Letter\s+—\s*(.+?)(?:\s+at\s+.+)?$", first_line)
+        if m:
+            derived = m.group(1).strip()
+            if derived and derived.lower() != "unknown":
+                role_title_for_folder = derived
+
+    company_for_folder = (job.get("company") or "").strip()
+    if not role_title_for_folder or role_title_for_folder.lower() == "unknown":
+        suffix = (job_id or "")[-6:] if job_id else ""
+        base = company_for_folder if company_for_folder and company_for_folder.lower() != "unknown" else "Company"
+        role_title_for_folder = f"{base}_{suffix}" if suffix else base
+
+    folder_name = f"{today}_{sanitize_for_folder(role_title_for_folder)}"
+
     # Save all artifacts
     log.info("Saving application artifacts...")
     app_dir = save_application(folder_name, job, analysis, tailored_cv, cover_letter)
+
+    # Email CV + cover letter PDFs (template outputs)
+    attachments = []
+    attachments.extend(sorted(app_dir.glob("CV_Enrique_*.pdf")))
+    attachments.extend(sorted(app_dir.glob("CoverLetter_Enrique_*.pdf")))
+    send_application_email(job, attachments)
+
+    # Log to Google Sheets applications tab
+    append_application_row(job, status="applied")
 
     log.info(f"✓ Application ready at: {app_dir.relative_to(SCRIPT_DIR)}/")
     log.info(f"Next: Review the files and submit via LinkedIn/ATS")
