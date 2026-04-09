@@ -1039,8 +1039,11 @@ def send_email_briefing(
         
         if cv_paths:
             body += "\nAttached CVs:\n"
-            for cv in cv_paths:
-                body += f"- {cv.name}\n"
+            for cv_meta in cv_paths:
+                if isinstance(cv_meta, dict):
+                    body += f"- CV_Enrique_{cv_meta['title']}_{cv_meta['company']}.md\n"
+                else:
+                    body += f"- {cv_meta.name}\n"
             body += "\n"
 
         message.attach(MIMEText(body, "plain"))
@@ -1054,13 +1057,20 @@ def send_email_briefing(
             part.add_header("Content-Disposition", f"attachment; filename= {pdf_path.name}")
             message.attach(part)
 
-        # Attach any generated CV markdown files
+        # Attach any generated CV markdown files with proper naming
         if cv_paths:
-            for cv_file in cv_paths:
+            for cv_meta in cv_paths:
+                if isinstance(cv_meta, dict):
+                    cv_file = cv_meta["path"]
+                    filename = f"CV_Enrique_{cv_meta['title']}_{cv_meta['company']}.md"
+                else:
+                    cv_file = cv_meta
+                    filename = cv_meta.name
+                    
                 if cv_file.exists():
                     with open(cv_file, "r", encoding="utf-8") as attachment:
                         part = MIMEText(attachment.read(), "plain")
-                    part.add_header("Content-Disposition", f"attachment; filename= {cv_file.name}")
+                    part.add_header("Content-Disposition", f"attachment; filename= {filename}")
                     message.attach(part)
         
         # Send via Gmail
@@ -1211,10 +1221,14 @@ def main():
                         "url": job.get("url", ""),
                     }
                     application_analysis = apply.score_and_extract_keywords(job_for_apply, profile, cv_master, claude)
-                    tailored_cv = apply.generate_tailored_cv(cv_master, application_analysis.get("keywords", []), job.get("job_title", ""))
+                    tailored_cv = apply.generate_tailored_cv(cv_master, application_analysis.get("keywords", []), job.get("job_title", ""), job.get("company", ""), claude)
                     cover_letter = apply.generate_cover_letter(job_for_apply, profile, application_analysis.get("keywords", []), cv_master, claude)
                     app_dir = apply.save_application(job_id, job_for_apply, application_analysis, tailored_cv, cover_letter)
-                    cv_paths.append(app_dir / "cv.md")
+                    cv_paths.append({
+                        "path": app_dir / "cv.md",
+                        "title": sanitize_filename(job.get("job_title", "job")),
+                        "company": sanitize_filename(job.get("company", "company")),
+                    })
                     log.info(f"✓ Saved applications/{job_id}/cv.md")
                 except Exception as exc:
                     log.warning(f"Application generation failed for {job.get('job_title', 'Unknown')}: {exc}")

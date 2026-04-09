@@ -319,62 +319,57 @@ def inject_keywords_naturally(text: str, keywords: list[str]) -> str:
     return "\n\n".join(paragraphs + trailing)
 
 
-def generate_tailored_cv(cv_master: str, keywords: list, job_title: str) -> str:
+def generate_tailored_cv(cv_master: str, keywords: list, job_title: str, company: str, client: anthropic.Anthropic) -> str:
     """
-    Generate tailored CV by:
-    1. Injecting keywords naturally into summary + experience
-    2. Prioritizing bullets that match keywords
-    3. Keeping master structure intact
-
-    Returns tailored CV markdown.
+    Rewrite CV summary and reorder experience bullets per job using Claude API.
+    
+    Claude will:
+    1. Rewrite summary (2-3 paragraphs max) to address this specific role
+    2. Inject keywords naturally
+    3. Reorder experience bullets to front-load relevance
+    
+    Returns complete CV in markdown.
     """
-    lines = cv_master.split("\n")
-    output = []
-    in_summary = False
-    in_experience = False
-    summary_buffer = []
+    keywords_str = ", ".join(keywords[:10])
+    
+    prompt = f"""You are an expert CV strategist. Rewrite this CV specifically for the role:
 
-    def flush_summary_buffer():
-        if not summary_buffer:
-            return []
-        summary_text = "\n".join(summary_buffer).strip()
-        keywords_to_inject = [kw for kw in keywords if kw.lower() not in summary_text.lower()][:3]
-        if keywords_to_inject:
-            summary_text = inject_keywords_naturally(summary_text, keywords_to_inject)
-        # Preserve blank line paragraphs
-        paragraphs = re.split(r"\n\s*\n", summary_text)
-        flushed = []
-        for idx, paragraph in enumerate(paragraphs):
-            flushed.extend(paragraph.split("\n"))
-            if idx < len(paragraphs) - 1:
-                flushed.append("")
-        return flushed
+Role: {job_title}
+Company: {company}
 
-    for line in lines:
-        if line.lower().startswith("## summary"):
-            in_summary = True
-            in_experience = False
-            output.append(line)
-            continue
+Rewrite the CV SUMMARY (keep it to 2-3 paragraphs max) to directly address this role at {company}.
+Keep all facts true. Inject these keywords naturally throughout: {keywords_str}
 
-        if line.lower().startswith("## experience"):
-            output.extend(flush_summary_buffer())
-            summary_buffer = []
-            in_summary = False
-            in_experience = True
-            output.append(line)
-            continue
+Then, for each role in the EXPERIENCE section, reorder the bullet points to front-load 
+the most relevant accomplishments for this specific job description.
 
-        if in_summary:
-            summary_buffer.append(line)
-            continue
+Return the complete CV in markdown format. Keep all sections (Contact, Summary, Experience, Skills, etc).
+Make it authentic and specific to this role—not generic.
 
-        output.append(line)
+Original CV:
+{cv_master}
 
-    if summary_buffer:
-        output.extend(flush_summary_buffer())
-
-    return "\n".join(output)
+Return ONLY the complete rewritten CV, no explanations."""
+    
+    try:
+        resp = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=2000,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        tailored = resp.content[0].text.strip()
+        # If Claude wrapped it in markdown fences, unwrap
+        if tailored.startswith("```markdown"):
+            tailored = tailored[11:]
+        if tailored.startswith("```"):
+            tailored = tailored[3:]
+        if tailored.endswith("```"):
+            tailored = tailored[:-3]
+        return tailored.strip()
+    except Exception as exc:
+        log.error(f"Claude CV tailoring failed: {exc}")
+        # Fallback: return original CV
+        return cv_master
 
 
 # ─── COVER LETTER GENERATION ────────────────────────────────────────────────────
