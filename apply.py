@@ -46,7 +46,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, Tabl
 from reportlab.lib.enums import TA_LEFT
 
 from cover_letter_pdf import build_cover_letter
-from generate_cv_pdf import render_cv_pdf
+from build_cv import build_cv_pdf
 
 
 # ─── LOGGING ────────────────────────────────────────────────────────────────────
@@ -1042,7 +1042,7 @@ def save_application(
     pdf_filename = f"CV_Enrique_{job_title_clean}_{company_clean}.pdf"
     cv_pdf_file = app_dir / pdf_filename
     # Use the CV PDF template (ReportLab A4) for consistent styling
-    render_cv_pdf(tailored_cv, cv_pdf_file)
+    build_cv_pdf(tailored_cv, cv_pdf_file)
 
     # Generate cover letter PDF (template-matched)
     cl_pdf_file = app_dir / f"CoverLetter_Enrique_{job_title_clean}_{company_clean}.pdf"
@@ -1068,7 +1068,19 @@ def save_application(
                     continue
                 paras.append(s)
 
-            build_cover_letter(str(cl_pdf_file), job.get("title", ""), paras)
+            role_title = (job.get("title") or "").strip()
+            if not role_title or role_title.lower() == "unknown":
+                # Derive from folder_name (e.g. YYYY-MM-DD_Title_With_Underscores)
+                derived = folder_name
+                for prefix in ("FAILED_", "NON_LINKEDIN_"):
+                    if derived.startswith(prefix):
+                        derived = derived[len(prefix):]
+                derived = derived.strip()
+                if re.match(r"^\\d{4}-\\d{2}-\\d{2}_", derived):
+                    derived = derived.split("_", 1)[1]
+                role_title = derived.replace("_", " ").strip() or "Cover Letter"
+
+            build_cover_letter(str(cl_pdf_file), role_title, paras)
             log.info(f"✓ Cover letter PDF: {cl_pdf_file.relative_to(SCRIPT_DIR)}")
     except Exception as exc:
         log.warning(f"Cover letter PDF generation failed: {exc}")
