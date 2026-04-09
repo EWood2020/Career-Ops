@@ -73,8 +73,9 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 GOOGLE_SHEET_ID = os.environ["GOOGLE_SHEET_ID"]
 _sa_content = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON_CONTENT", "")
 if _sa_content:
-    # Fix double-escaped newlines from Railway env vars
-    _sa_content = _sa_content.replace("\\n", "\n")
+    import codecs
+    # Handle Railway's triple-escaped newlines
+    _sa_content = codecs.decode(_sa_content, "unicode_escape")
     _tmp = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
     _tmp.write(_sa_content)
     _tmp.flush()
