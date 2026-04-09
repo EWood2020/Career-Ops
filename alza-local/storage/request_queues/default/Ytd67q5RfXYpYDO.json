@@ -1,9 +1,0 @@
-{
-	"id": "Ytd67q5RfXYpYDO",
-	"json": "{\"id\":\"Ytd67q5RfXYpYDO\",\"url\":\"https://www.alza.cz/gaming/playstation-5-slim-1tb-2x-dualsense-wireless-controller-d9675155.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-2x-dualsense-wireless-controller-d9675155.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-slim-1tb-2x-dualsense-wireless-controller-d9675155.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:02.028Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-slim-1tb-2x-dualsense-wireless-controller-d9675155.htm",
-	"url": "https://www.alza.cz/gaming/playstation-5-slim-1tb-2x-dualsense-wireless-controller-d9675155.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "aVG0ai2D7Cjb8UD",
-	"json": "{\"id\":\"aVG0ai2D7Cjb8UD\",\"url\":\"https://www.alza.cz/pet/pro-plan-adult-renal-plus-granule-pro-kocky-kure-10-kg-d5592992.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/pro-plan-adult-renal-plus-granule-pro-kocky-kure-10-kg-d5592992.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pro-plan-adult-renal-plus-granule-pro-kocky-kure-10-kg-d5592992.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:44.437Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/pro-plan-adult-renal-plus-granule-pro-kocky-kure-10-kg-d5592992.htm",
-	"url": "https://www.alza.cz/pet/pro-plan-adult-renal-plus-granule-pro-kocky-kure-10-kg-d5592992.htm"
-}

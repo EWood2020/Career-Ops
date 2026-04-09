@@ -1,9 +1,0 @@
-{
-	"id": "QDZ4O3lPbtrwXbM",
-	"json": "{\"id\":\"QDZ4O3lPbtrwXbM\",\"url\":\"https://www.alza.cz/pet/darek-brit-fresh/18918868.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/treat-your-pet-to-brit-fresh-with-gift/18918868.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/darek-brit-fresh/18918868.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:52.176Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/darek-brit-fresh/18918868.htm",
-	"url": "https://www.alza.cz/pet/darek-brit-fresh/18918868.htm"
-}

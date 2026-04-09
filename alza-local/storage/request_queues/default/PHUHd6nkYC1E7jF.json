@@ -1,9 +1,0 @@
-{
-	"id": "PHUHd6nkYC1E7jF",
-	"json": "{\"id\":\"PHUHd6nkYC1E7jF\",\"url\":\"https://www.alza.cz/umax-visionbook-14wn-plus-d12661467.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/umax-visionbook-14wn-plus-d12661467.htm\",\"uniqueKey\":\"https://www.alza.cz/umax-visionbook-14wn-plus-d12661467.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:47.812Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/umax-visionbook-14wn-plus-d12661467.htm",
-	"url": "https://www.alza.cz/umax-visionbook-14wn-plus-d12661467.htm"
-}

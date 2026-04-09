@@ -1,9 +1,0 @@
-{
-	"id": "FpmJH5xlnf6N6Sp",
-	"json": "{\"id\":\"FpmJH5xlnf6N6Sp\",\"url\":\"https://www.alza.cz/acer-pd1800-d13108338.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/acer-pd1800-d13108338.htm\",\"uniqueKey\":\"https://www.alza.cz/acer-pd1800-d13108338.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:38.990Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/acer-pd1800-d13108338.htm",
-	"url": "https://www.alza.cz/acer-pd1800-d13108338.htm"
-}

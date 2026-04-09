@@ -1,9 +1,0 @@
-{
-	"id": "nLMqmHSC1Zx5H3y",
-	"json": "{\"id\":\"nLMqmHSC1Zx5H3y\",\"url\":\"https://www.alza.cz/gaming/xbox-series-s-1-tb-robot-white-d12398591.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-series-s-1-tb-robot-white-d12398591.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/xbox-series-s-1-tb-robot-white-d12398591.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:57.404Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/xbox-series-s-1-tb-robot-white-d12398591.htm",
-	"url": "https://www.alza.cz/gaming/xbox-series-s-1-tb-robot-white-d12398591.htm"
-}

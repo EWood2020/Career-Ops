@@ -1,9 +1,0 @@
-{
-	"id": "AhE7tCBJKdGoMB0",
-	"json": "{\"id\":\"AhE7tCBJKdGoMB0\",\"url\":\"https://www.alza.cz/EN/24-aoc-24g4hre-d13041842.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/24-aoc-24g4hre-d13041842.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/24-aoc-24g4hre-d13041842.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:19.836Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/24-aoc-24g4hre-d13041842.htm",
-	"url": "https://www.alza.cz/EN/24-aoc-24g4hre-d13041842.htm"
-}

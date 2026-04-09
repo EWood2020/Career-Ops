@@ -1,9 +1,0 @@
-{
-	"id": "hfVCts3z7ync4kb",
-	"json": "{\"id\":\"hfVCts3z7ync4kb\",\"url\":\"https://www.alza.cz/pet/akinu-treninkove-jehneci-lupinky-s-treskou-120-g-d6432761.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/akinu-treninkove-jehneci-lupinky-s-treskou-120-g-d6432761.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/akinu-treninkove-jehneci-lupinky-s-treskou-120-g-d6432761.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:57.624Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/akinu-treninkove-jehneci-lupinky-s-treskou-120-g-d6432761.htm",
-	"url": "https://www.alza.cz/pet/akinu-treninkove-jehneci-lupinky-s-treskou-120-g-d6432761.htm"
-}

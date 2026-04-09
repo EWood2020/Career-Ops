@@ -1,9 +1,0 @@
-{
-	"id": "2DTg7byL1V0gfJk",
-	"json": "{\"id\":\"2DTg7byL1V0gfJk\",\"url\":\"https://www.alza.cz/EN/gaming/playstation-gaming-consoles/18916030.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-gaming-consoles/18916030.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/playstation-gaming-consoles/18916030.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:43.627Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/playstation-gaming-consoles/18916030.htm",
-	"url": "https://www.alza.cz/EN/gaming/playstation-gaming-consoles/18916030.htm"
-}

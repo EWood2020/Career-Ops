@@ -1,9 +1,0 @@
-{
-	"id": "fQkxIORFvPsBoR4",
-	"json": "{\"id\":\"fQkxIORFvPsBoR4\",\"url\":\"https://www.alza.cz/ecovacs-deebot-x9-pro-omni-black-d13117914.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/ecovacs-deebot-x9-pro-omni-black-d13117914.htm\",\"uniqueKey\":\"https://www.alza.cz/ecovacs-deebot-x9-pro-omni-black-d13117914.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:32.179Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/ecovacs-deebot-x9-pro-omni-black-d13117914.htm",
-	"url": "https://www.alza.cz/ecovacs-deebot-x9-pro-omni-black-d13117914.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "5h33FZ1D9YM15pE",
-	"json": "{\"id\":\"5h33FZ1D9YM15pE\",\"url\":\"https://www.alza.cz/EN/hracky/lego-fortnite/18914720.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-fortnite/18914720.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-fortnite/18914720.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:16.133Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-fortnite/18914720.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-fortnite/18914720.htm"
-}

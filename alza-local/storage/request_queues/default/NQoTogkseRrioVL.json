@@ -1,9 +1,0 @@
-{
-	"id": "NQoTogkseRrioVL",
-	"json": "{\"id\":\"NQoTogkseRrioVL\",\"url\":\"https://www.alza.cz/EN/asus-tuf-gaming-a15-fa506nc-hn039-graphite-black-d12804945.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-tuf-gaming-a15-fa506nc-hn039-graphite-black-d12804945.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/asus-tuf-gaming-a15-fa506nc-hn039-graphite-black-d12804945.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:01.951Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/asus-tuf-gaming-a15-fa506nc-hn039-graphite-black-d12804945.htm",
-	"url": "https://www.alza.cz/EN/asus-tuf-gaming-a15-fa506nc-hn039-graphite-black-d12804945.htm"
-}

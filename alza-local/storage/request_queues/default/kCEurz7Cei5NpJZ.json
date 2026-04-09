@@ -1,9 +1,0 @@
-{
-	"id": "kCEurz7Cei5NpJZ",
-	"json": "{\"id\":\"kCEurz7Cei5NpJZ\",\"url\":\"https://www.alza.cz/gaming/nintendo-switch-lite-blue-d6444158.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-lite-blue-d6444158.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/nintendo-switch-lite-blue-d6444158.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:08.896Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/nintendo-switch-lite-blue-d6444158.htm",
-	"url": "https://www.alza.cz/gaming/nintendo-switch-lite-blue-d6444158.htm"
-}

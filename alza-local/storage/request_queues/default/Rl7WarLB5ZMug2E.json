@@ -1,9 +1,0 @@
-{
-	"id": "Rl7WarLB5ZMug2E",
-	"json": "{\"id\":\"Rl7WarLB5ZMug2E\",\"url\":\"https://www.alza.cz/EN/prohnute-monitory/18855757.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/curved-monitors/18855757.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/prohnute-monitory/18855757.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:56.833Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/prohnute-monitory/18855757.htm",
-	"url": "https://www.alza.cz/EN/prohnute-monitory/18855757.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "M4Ig0nYiDBSWqKe",
-	"json": "{\"id\":\"M4Ig0nYiDBSWqKe\",\"url\":\"https://www.alza.cz/EN/34-samsung-odyssey-g5-d6298436.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/34-samsung-odyssey-g5-d6298436.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/34-samsung-odyssey-g5-d6298436.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:11.828Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/34-samsung-odyssey-g5-d6298436.htm",
-	"url": "https://www.alza.cz/EN/34-samsung-odyssey-g5-d6298436.htm"
-}

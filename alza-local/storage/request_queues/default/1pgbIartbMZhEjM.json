@@ -1,9 +1,0 @@
-{
-	"id": "1pgbIartbMZhEjM",
-	"json": "{\"id\":\"1pgbIartbMZhEjM\",\"url\":\"https://www.alza.cz/opn-sound-mercato-d12907745.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/opn-sound-mercato-d12907745.htm\",\"uniqueKey\":\"https://www.alza.cz/opn-sound-mercato-d12907745.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:57:57.370Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/opn-sound-mercato-d12907745.htm",
-	"url": "https://www.alza.cz/opn-sound-mercato-d12907745.htm"
-}

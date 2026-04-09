@@ -1,9 +1,0 @@
-{
-	"id": "wa4kDrj3yfG5js3",
-	"json": "{\"id\":\"wa4kDrj3yfG5js3\",\"url\":\"https://www.alza.cz/EN/hracky/lego-jursky-svet/18865574.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-jurassic-world/18865574.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-jursky-svet/18865574.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:30.305Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-jursky-svet/18865574.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-jursky-svet/18865574.htm"
-}

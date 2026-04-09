@@ -1,9 +1,0 @@
-{
-	"id": "Ahh9zLskEYejVym",
-	"json": "{\"id\":\"Ahh9zLskEYejVym\",\"url\":\"https://www.alza.cz/EN/wanbo-davinci-1-pro-d12602207.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/wanbo-davinci-1-pro-d12602207.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/wanbo-davinci-1-pro-d12602207.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:39.394Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/wanbo-davinci-1-pro-d12602207.htm",
-	"url": "https://www.alza.cz/EN/wanbo-davinci-1-pro-d12602207.htm"
-}

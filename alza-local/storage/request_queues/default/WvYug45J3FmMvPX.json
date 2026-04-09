@@ -1,9 +1,0 @@
-{
-	"id": "WvYug45J3FmMvPX",
-	"json": "{\"id\":\"WvYug45J3FmMvPX\",\"url\":\"https://www.alza.cz/EN/toys/lego-one-piece/18916834.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-one-piece/18916834.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/lego-one-piece/18916834.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:55.614Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/toys/lego-one-piece/18916834.htm",
-	"url": "https://www.alza.cz/EN/toys/lego-one-piece/18916834.htm"
-}

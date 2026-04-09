@@ -1,9 +1,0 @@
-{
-	"id": "QzJiihpFlq9Eksa",
-	"json": "{\"id\":\"QzJiihpFlq9Eksa\",\"url\":\"https://www.alza.cz/EN/hracky/lego-vesmir/18872157.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-space/18872157.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-vesmir/18872157.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:43.479Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-vesmir/18872157.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-vesmir/18872157.htm"
-}

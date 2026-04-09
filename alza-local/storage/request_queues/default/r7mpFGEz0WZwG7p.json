@@ -1,9 +1,0 @@
-{
-	"id": "r7mpFGEz0WZwG7p",
-	"json": "{\"id\":\"r7mpFGEz0WZwG7p\",\"url\":\"https://www.alza.cz/27-samsung-odyssey-g55c-d12446516.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-samsung-odyssey-g55c-d12446516.htm\",\"uniqueKey\":\"https://www.alza.cz/27-samsung-odyssey-g55c-d12446516.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:48.026Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/27-samsung-odyssey-g55c-d12446516.htm",
-	"url": "https://www.alza.cz/27-samsung-odyssey-g55c-d12446516.htm"
-}

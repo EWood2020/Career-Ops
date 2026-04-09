@@ -1,9 +1,0 @@
-{
-	"id": "n4bonAeasVzoyYZ",
-	"json": "{\"id\":\"n4bonAeasVzoyYZ\",\"url\":\"https://www.alza.cz/sencor-srv-9020bk-d12821149.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-9020bk-d12821149.htm\",\"uniqueKey\":\"https://www.alza.cz/sencor-srv-9020bk-d12821149.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:20.883Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/sencor-srv-9020bk-d12821149.htm",
-	"url": "https://www.alza.cz/sencor-srv-9020bk-d12821149.htm"
-}

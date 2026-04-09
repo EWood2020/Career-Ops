@@ -1,9 +1,0 @@
-{
-	"id": "u0fcRWaR5T3YxMH",
-	"json": "{\"id\":\"u0fcRWaR5T3YxMH\",\"url\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-adult-great-life-12-kg-d5615930.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-adult-great-life-12-kg-d5615930.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-potato-adult-great-life-12-kg-d5615930.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:16.771Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-chicken-with-potato-adult-great-life-12-kg-d5615930.htm",
-	"url": "https://www.alza.cz/pet/brit-fresh-chicken-with-potato-adult-great-life-12-kg-d5615930.htm"
-}

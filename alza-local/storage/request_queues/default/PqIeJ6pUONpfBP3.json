@@ -1,9 +1,0 @@
-{
-	"id": "PqIeJ6pUONpfBP3",
-	"json": "{\"id\":\"PqIeJ6pUONpfBP3\",\"url\":\"https://www.alza.cz/EN/best-sellers-best-drones/18855539.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/best-sellers-best-drones/18855539.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/best-sellers-best-drones/18855539.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:10.161Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/best-sellers-best-drones/18855539.htm",
-	"url": "https://www.alza.cz/EN/best-sellers-best-drones/18855539.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "lzDgnlqK2ONRpvF",
-	"json": "{\"id\":\"lzDgnlqK2ONRpvF\",\"url\":\"https://www.alza.cz/EN/gaming/meta-quest-3s-128gb-d12581882.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/meta-quest-3s-128gb-d12581882.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/meta-quest-3s-128gb-d12581882.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:52:06.957Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/meta-quest-3s-128gb-d12581882.htm",
-	"url": "https://www.alza.cz/EN/gaming/meta-quest-3s-128gb-d12581882.htm"
-}

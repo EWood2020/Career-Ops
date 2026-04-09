@@ -1,9 +1,0 @@
-{
-	"id": "q7wHbuVqbj17dns",
-	"json": "{\"id\":\"q7wHbuVqbj17dns\",\"url\":\"https://www.alza.cz/EN/gaming/playstation-portal-remote-player-d7958941.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-portal-remote-player-d7958941.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/playstation-portal-remote-player-d7958941.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:41.627Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/playstation-portal-remote-player-d7958941.htm",
-	"url": "https://www.alza.cz/EN/gaming/playstation-portal-remote-player-d7958941.htm"
-}

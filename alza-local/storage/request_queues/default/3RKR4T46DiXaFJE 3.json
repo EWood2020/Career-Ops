@@ -1,9 +1,0 @@
-{
-	"id": "3RKR4T46DiXaFJE",
-	"json": "{\"id\":\"3RKR4T46DiXaFJE\",\"url\":\"https://www.alza.cz/EN/steelseries-arctis-nova-7-gen-2-d13058032.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/steelseries-arctis-nova-7-gen-2-d13058032.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/steelseries-arctis-nova-7-gen-2-d13058032.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:31:48.953Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/steelseries-arctis-nova-7-gen-2-d13058032.htm",
-	"url": "https://www.alza.cz/EN/steelseries-arctis-nova-7-gen-2-d13058032.htm"
-}

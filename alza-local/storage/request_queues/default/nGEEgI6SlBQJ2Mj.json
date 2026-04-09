@@ -1,9 +1,0 @@
-{
-	"id": "nGEEgI6SlBQJ2Mj",
-	"json": "{\"id\":\"nGEEgI6SlBQJ2Mj\",\"url\":\"https://www.alza.cz/lenovo-loq-15irx10-luna-grey-d13128085.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-loq-15irx10-luna-grey-d13128085.htm\",\"uniqueKey\":\"https://www.alza.cz/lenovo-loq-15irx10-luna-grey-d13128085.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:16.286Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/lenovo-loq-15irx10-luna-grey-d13128085.htm",
-	"url": "https://www.alza.cz/lenovo-loq-15irx10-luna-grey-d13128085.htm"
-}

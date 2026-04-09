@@ -1,9 +1,0 @@
-{
-	"id": "Gs5DwbJMh7M5hZG",
-	"json": "{\"id\":\"Gs5DwbJMh7M5hZG\",\"url\":\"https://www.alza.cz/pet/brit-fresh-turkey-with-pea-light-fit-slim-12-kg-d5615937.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-turkey-with-pea-light-fit-slim-12-kg-d5615937.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-turkey-with-pea-light-fit-slim-12-kg-d5615937.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:50.602Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-turkey-with-pea-light-fit-slim-12-kg-d5615937.htm",
-	"url": "https://www.alza.cz/pet/brit-fresh-turkey-with-pea-light-fit-slim-12-kg-d5615937.htm"
-}

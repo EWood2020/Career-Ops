@@ -1,9 +1,0 @@
-{
-	"id": "j7UWG3lEx9Myx1f",
-	"json": "{\"id\":\"j7UWG3lEx9Myx1f\",\"url\":\"https://www.alza.cz/EN/hracky/gaming-lego/18893905.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-gaming/18893905.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/gaming-lego/18893905.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:40.443Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/gaming-lego/18893905.htm",
-	"url": "https://www.alza.cz/EN/hracky/gaming-lego/18893905.htm"
-}

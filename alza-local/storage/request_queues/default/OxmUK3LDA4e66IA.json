@@ -1,9 +1,0 @@
-{
-	"id": "OxmUK3LDA4e66IA",
-	"json": "{\"id\":\"OxmUK3LDA4e66IA\",\"url\":\"https://www.alza.cz/EN/gaming/konzole-xbox-series-s/18881556.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-s-consoles/18881556.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/konzole-xbox-series-s/18881556.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:29.518Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/konzole-xbox-series-s/18881556.htm",
-	"url": "https://www.alza.cz/EN/gaming/konzole-xbox-series-s/18881556.htm"
-}

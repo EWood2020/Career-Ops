@@ -1,9 +1,0 @@
-{
-	"id": "WMgYJ7d6XG4ryXy",
-	"json": "{\"id\":\"WMgYJ7d6XG4ryXy\",\"url\":\"https://www.alza.cz/EN/hracky/lego-minifigurky/18878461.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-minifigure-display-cases/18878461.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-minifigurky/18878461.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:35.140Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-minifigurky/18878461.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-minifigurky/18878461.htm"
-}

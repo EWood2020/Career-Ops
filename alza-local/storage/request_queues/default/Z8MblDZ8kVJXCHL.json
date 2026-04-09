@@ -1,9 +1,0 @@
-{
-	"id": "Z8MblDZ8kVJXCHL",
-	"json": "{\"id\":\"Z8MblDZ8kVJXCHL\",\"url\":\"https://www.alza.cz/jbl-tune-245-tws-d12993310.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-tune-245-tws-d12993310.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-tune-245-tws-d12993310.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:14.951Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/jbl-tune-245-tws-d12993310.htm",
-	"url": "https://www.alza.cz/jbl-tune-245-tws-d12993310.htm"
-}

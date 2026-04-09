@@ -1,9 +1,0 @@
-{
-	"id": "BtT0q8ei16tKabA",
-	"json": "{\"id\":\"BtT0q8ei16tKabA\",\"url\":\"https://www.alza.cz/EN/professional-laptops/18853299.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/professional-laptops/18853299.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/professional-laptops/18853299.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:56.474Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/professional-laptops/18853299.htm",
-	"url": "https://www.alza.cz/EN/professional-laptops/18853299.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "pnlkHGvNHCv7sxW",
-	"json": "{\"id\":\"pnlkHGvNHCv7sxW\",\"url\":\"https://www.alza.cz/EN/gaming/best-sellers-best-vr-glasses/18859989.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/best-sellers-best-vr-glasses/18859989.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/best-sellers-best-vr-glasses/18859989.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:58.495Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/best-sellers-best-vr-glasses/18859989.htm",
-	"url": "https://www.alza.cz/EN/gaming/best-sellers-best-vr-glasses/18859989.htm"
-}

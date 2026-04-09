@@ -1,9 +1,0 @@
-{
-	"id": "XfrM2jBgG2jIqwt",
-	"json": "{\"id\":\"XfrM2jBgG2jIqwt\",\"url\":\"https://www.alza.cz/jbl-wave-buds-cerna-d7671782.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-wave-buds-black-d7671782.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-wave-buds-cerna-d7671782.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:28.175Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/jbl-wave-buds-cerna-d7671782.htm",
-	"url": "https://www.alza.cz/jbl-wave-buds-cerna-d7671782.htm"
-}

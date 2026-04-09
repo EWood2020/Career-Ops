@@ -1,9 +1,0 @@
-{
-	"id": "qoYWNt82lMxuwnE",
-	"json": "{\"id\":\"qoYWNt82lMxuwnE\",\"url\":\"https://www.alza.cz/asus-vivobook-15-x1504va-bq2755w-cool-silver-d13025691.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-vivobook-15-x1504va-bq2755w-cool-silver-d13025691.htm\",\"uniqueKey\":\"https://www.alza.cz/asus-vivobook-15-x1504va-bq2755w-cool-silver-d13025691.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:46.933Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/asus-vivobook-15-x1504va-bq2755w-cool-silver-d13025691.htm",
-	"url": "https://www.alza.cz/asus-vivobook-15-x1504va-bq2755w-cool-silver-d13025691.htm"
-}

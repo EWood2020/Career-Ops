@@ -1,9 +1,0 @@
-{
-	"id": "1JjuREMHE3IOARB",
-	"json": "{\"id\":\"1JjuREMHE3IOARB\",\"url\":\"https://www.alza.cz/EN/concept-vr4130-3in1-aqua-ultimate-laser-3d-d13047455.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/concept-vr4130-3in1-aqua-ultimate-laser-3d-d13047455.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/concept-vr4130-3in1-aqua-ultimate-laser-3d-d13047455.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:33.782Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/concept-vr4130-3in1-aqua-ultimate-laser-3d-d13047455.htm",
-	"url": "https://www.alza.cz/EN/concept-vr4130-3in1-aqua-ultimate-laser-3d-d13047455.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "UqErccSUAC5jBSH",
-	"json": "{\"id\":\"UqErccSUAC5jBSH\",\"url\":\"https://www.alza.cz/potensic-atom-lt-2-5k-d12515028.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/potensic-atom-lt-2-5k-d12515028.htm\",\"uniqueKey\":\"https://www.alza.cz/potensic-atom-lt-2-5k-d12515028.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:50.682Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/potensic-atom-lt-2-5k-d12515028.htm",
-	"url": "https://www.alza.cz/potensic-atom-lt-2-5k-d12515028.htm"
-}

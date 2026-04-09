@@ -1,9 +1,0 @@
-{
-	"id": "6JkKan32RJD2tmV",
-	"json": "{\"id\":\"6JkKan32RJD2tmV\",\"url\":\"https://www.alza.cz/EN/interactive-projectors/18860066.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/interactive-projectors/18860066.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/interactive-projectors/18860066.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:26.412Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/interactive-projectors/18860066.htm",
-	"url": "https://www.alza.cz/EN/interactive-projectors/18860066.htm"
-}

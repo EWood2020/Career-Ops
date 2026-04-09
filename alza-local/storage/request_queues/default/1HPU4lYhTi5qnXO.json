@@ -1,9 +1,0 @@
-{
-	"id": "1HPU4lYhTi5qnXO",
-	"json": "{\"id\":\"1HPU4lYhTi5qnXO\",\"url\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14arp10-luna-grey-all-metal-d12882638.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14arp10-luna-grey-all-metal-d12882638.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14arp10-luna-grey-all-metal-d12882638.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:42.957Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/lenovo-ideapad-slim-5-14arp10-luna-grey-all-metal-d12882638.htm",
-	"url": "https://www.alza.cz/EN/lenovo-ideapad-slim-5-14arp10-luna-grey-all-metal-d12882638.htm"
-}

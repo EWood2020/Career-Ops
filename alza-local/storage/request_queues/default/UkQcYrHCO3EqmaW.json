@@ -1,9 +1,0 @@
-{
-	"id": "UkQcYrHCO3EqmaW",
-	"json": "{\"id\":\"UkQcYrHCO3EqmaW\",\"url\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14q8x9-cloud-grey-all-metal-lenovo-wl310-mouse-d12654061.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14q8x9-cloud-grey-all-metal-lenovo-wl310-mouse-d12654061.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lenovo-ideapad-slim-5-14q8x9-cloud-grey-all-metal-lenovo-wl310-mouse-d12654061.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:13.231Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/lenovo-ideapad-slim-5-14q8x9-cloud-grey-all-metal-lenovo-wl310-mouse-d12654061.htm",
-	"url": "https://www.alza.cz/EN/lenovo-ideapad-slim-5-14q8x9-cloud-grey-all-metal-lenovo-wl310-mouse-d12654061.htm"
-}

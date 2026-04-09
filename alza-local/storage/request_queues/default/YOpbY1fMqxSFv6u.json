@@ -1,9 +1,0 @@
-{
-	"id": "YOpbY1fMqxSFv6u",
-	"json": "{\"id\":\"YOpbY1fMqxSFv6u\",\"url\":\"https://www.alza.cz/EN/hracky/lego-vlaky/18874084.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-trains/18874084.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-vlaky/18874084.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:42.465Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-vlaky/18874084.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-vlaky/18874084.htm"
-}

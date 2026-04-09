@@ -1,9 +1,0 @@
-{
-	"id": "8zgecAD3IV4rgAF",
-	"json": "{\"id\":\"8zgecAD3IV4rgAF\",\"url\":\"https://www.alza.cz/EN/in-ear-wireless-headphones/18859903.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/in-ear-wireless-headphones/18859903.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/in-ear-wireless-headphones/18859903.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:32.721Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/in-ear-wireless-headphones/18859903.htm",
-	"url": "https://www.alza.cz/EN/in-ear-wireless-headphones/18859903.htm"
-}

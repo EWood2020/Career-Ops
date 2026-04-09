@@ -1,9 +1,0 @@
-{
-	"id": "td5uxaE28X2fKBC",
-	"json": "{\"id\":\"td5uxaE28X2fKBC\",\"url\":\"https://www.alza.cz/xgimi-mogo-2-pro-gtv-d13098819.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/xgimi-mogo-2-pro-gtv-d13098819.htm\",\"uniqueKey\":\"https://www.alza.cz/xgimi-mogo-2-pro-gtv-d13098819.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:34.671Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/xgimi-mogo-2-pro-gtv-d13098819.htm",
-	"url": "https://www.alza.cz/xgimi-mogo-2-pro-gtv-d13098819.htm"
-}

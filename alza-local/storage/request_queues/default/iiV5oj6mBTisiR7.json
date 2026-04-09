@@ -1,9 +1,0 @@
-{
-	"id": "iiV5oj6mBTisiR7",
-	"json": "{\"id\":\"iiV5oj6mBTisiR7\",\"url\":\"https://www.alza.cz/EN/refurbished-laptops/18911019.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/refurbished-laptops/18911019.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/refurbished-laptops/18911019.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:33.910Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/refurbished-laptops/18911019.htm",
-	"url": "https://www.alza.cz/EN/refurbished-laptops/18911019.htm"
-}

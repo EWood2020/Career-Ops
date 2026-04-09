@@ -1,9 +1,0 @@
-{
-	"id": "ZzKPsBCrz5JVNjL",
-	"json": "{\"id\":\"ZzKPsBCrz5JVNjL\",\"url\":\"https://www.alza.cz/philips-xu2100-25-homerun-2000-aqua-d13133130.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/philips-xu2100-25-homerun-2000-aqua-d13133130.htm\",\"uniqueKey\":\"https://www.alza.cz/philips-xu2100-25-homerun-2000-aqua-d13133130.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:50.644Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/philips-xu2100-25-homerun-2000-aqua-d13133130.htm",
-	"url": "https://www.alza.cz/philips-xu2100-25-homerun-2000-aqua-d13133130.htm"
-}

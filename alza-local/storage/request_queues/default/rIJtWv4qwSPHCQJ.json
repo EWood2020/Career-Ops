@@ -1,9 +1,0 @@
-{
-	"id": "rIJtWv4qwSPHCQJ",
-	"json": "{\"id\":\"rIJtWv4qwSPHCQJ\",\"url\":\"https://www.alza.cz/EN/gaming/rapture-zenith-black-d12463159.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/rapture-zenith-black-d12463159.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/rapture-zenith-black-d12463159.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:50.710Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/rapture-zenith-black-d12463159.htm",
-	"url": "https://www.alza.cz/EN/gaming/rapture-zenith-black-d12463159.htm"
-}

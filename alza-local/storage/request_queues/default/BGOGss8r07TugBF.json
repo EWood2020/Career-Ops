@@ -1,9 +1,0 @@
-{
-	"id": "BGOGss8r07TugBF",
-	"json": "{\"id\":\"BGOGss8r07TugBF\",\"url\":\"https://www.alza.cz/EN/hracky/lego-pro-nejmensi/18855454.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-for-babies/18855454.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-pro-nejmensi/18855454.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:56.682Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-pro-nejmensi/18855454.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-pro-nejmensi/18855454.htm"
-}

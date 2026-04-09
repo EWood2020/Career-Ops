@@ -1,9 +1,0 @@
-{
-	"id": "Mc3eWE59IT7XKq4",
-	"json": "{\"id\":\"Mc3eWE59IT7XKq4\",\"url\":\"https://www.alza.cz/EN/prislusenstvi-k-monitorum/18843320.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitor-accessories/18843320.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/prislusenstvi-k-monitorum/18843320.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:18.972Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/prislusenstvi-k-monitorum/18843320.htm",
-	"url": "https://www.alza.cz/EN/prislusenstvi-k-monitorum/18843320.htm"
-}

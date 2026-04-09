@@ -1,9 +1,0 @@
-{
-	"id": "MJHzfrYuTOuV84c",
-	"json": "{\"id\":\"MJHzfrYuTOuV84c\",\"url\":\"https://www.alza.cz/sencor-srv-3160tq-easyclean-d7951228.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-3160tq-easyclean-d7951228.htm\",\"uniqueKey\":\"https://www.alza.cz/sencor-srv-3160tq-easyclean-d7951228.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:40:29.794Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/sencor-srv-3160tq-easyclean-d7951228.htm",
-	"url": "https://www.alza.cz/sencor-srv-3160tq-easyclean-d7951228.htm"
-}

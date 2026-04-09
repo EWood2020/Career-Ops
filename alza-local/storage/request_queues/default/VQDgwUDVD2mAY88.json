@@ -1,9 +1,0 @@
-{
-	"id": "VQDgwUDVD2mAY88",
-	"json": "{\"id\":\"VQDgwUDVD2mAY88\",\"url\":\"https://www.alza.cz/EN/monitory-23-a-24/18848792.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitors-23-and-24/18848792.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitory-23-a-24/18848792.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:49:01.243Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/monitory-23-a-24/18848792.htm",
-	"url": "https://www.alza.cz/EN/monitory-23-a-24/18848792.htm"
-}

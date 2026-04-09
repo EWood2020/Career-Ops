@@ -1,9 +1,0 @@
-{
-	"id": "LGwTDNRmZwK9rr0",
-	"json": "{\"id\":\"LGwTDNRmZwK9rr0\",\"url\":\"https://www.alza.cz/pet/brit-fresh-beef-with-pumpkin-puppy-large-12-kg-d5615933.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-beef-with-pumpkin-puppy-large-12-kg-d5615933.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-beef-with-pumpkin-puppy-large-12-kg-d5615933.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:08.379Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-beef-with-pumpkin-puppy-large-12-kg-d5615933.htm",
-	"url": "https://www.alza.cz/pet/brit-fresh-beef-with-pumpkin-puppy-large-12-kg-d5615933.htm"
-}

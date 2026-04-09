@@ -1,9 +1,0 @@
-{
-	"id": "U1BmgTRYpfnANCU",
-	"json": "{\"id\":\"U1BmgTRYpfnANCU\",\"url\":\"https://www.alza.cz/EN/toys/lego-sorted-by-age/18855453.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-sorted-by-age/18855453.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/lego-sorted-by-age/18855453.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:37.690Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/toys/lego-sorted-by-age/18855453.htm",
-	"url": "https://www.alza.cz/EN/toys/lego-sorted-by-age/18855453.htm"
-}

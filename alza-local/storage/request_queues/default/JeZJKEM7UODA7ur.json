@@ -1,9 +1,0 @@
-{
-	"id": "JeZJKEM7UODA7ur",
-	"json": "{\"id\":\"JeZJKEM7UODA7ur\",\"url\":\"https://www.alza.cz/EN/dreame-d20-ultra-white-d13038116.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dreame-d20-ultra-white-d13038116.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dreame-d20-ultra-white-d13038116.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:25.882Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/dreame-d20-ultra-white-d13038116.htm",
-	"url": "https://www.alza.cz/EN/dreame-d20-ultra-white-d13038116.htm"
-}

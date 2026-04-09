@@ -1,9 +1,0 @@
-{
-	"id": "nMbJtFw8AjKoVO8",
-	"json": "{\"id\":\"nMbJtFw8AjKoVO8\",\"url\":\"https://www.alza.cz/pet/hracky-pro-kocky/18869566.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/hracky-pro-kocky/18869566.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/hracky-pro-kocky/18869566.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:07.665Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/hracky-pro-kocky/18869566.htm",
-	"url": "https://www.alza.cz/pet/hracky-pro-kocky/18869566.htm"
-}

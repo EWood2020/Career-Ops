@@ -1,9 +1,0 @@
-{
-	"id": "6mqTU23GGRxsiaX",
-	"json": "{\"id\":\"6mqTU23GGRxsiaX\",\"url\":\"https://www.alza.cz/EN/hracky/lego-botanicals/18902645.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-botanical/18902645.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-botanicals/18902645.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:09.038Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-botanicals/18902645.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-botanicals/18902645.htm"
-}

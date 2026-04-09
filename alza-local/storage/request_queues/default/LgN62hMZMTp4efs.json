@@ -1,9 +1,0 @@
-{
-	"id": "LgN62hMZMTp4efs",
-	"json": "{\"id\":\"LgN62hMZMTp4efs\",\"url\":\"https://www.alza.cz/pet/canvit-senior-maxi-ochucene-pro-psy-230g-d5600410.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/canvit-senior-maxi-flavoured-for-dogs-230-g-d5600410.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/canvit-senior-maxi-ochucene-pro-psy-230g-d5600410.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:34.801Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/canvit-senior-maxi-ochucene-pro-psy-230g-d5600410.htm",
-	"url": "https://www.alza.cz/pet/canvit-senior-maxi-ochucene-pro-psy-230g-d5600410.htm"
-}

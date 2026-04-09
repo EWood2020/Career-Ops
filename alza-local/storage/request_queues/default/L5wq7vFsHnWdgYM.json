@@ -1,9 +1,0 @@
-{
-	"id": "L5wq7vFsHnWdgYM",
-	"json": "{\"id\":\"L5wq7vFsHnWdgYM\",\"url\":\"https://www.alza.cz/EN/dreame-l40-ultra-ae-black-d12995251.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dreame-l40-ultra-ae-black-d12995251.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dreame-l40-ultra-ae-black-d12995251.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:19.429Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/dreame-l40-ultra-ae-black-d12995251.htm",
-	"url": "https://www.alza.cz/EN/dreame-l40-ultra-ae-black-d12995251.htm"
-}

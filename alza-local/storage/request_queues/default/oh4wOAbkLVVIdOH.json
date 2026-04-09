@@ -1,9 +1,0 @@
-{
-	"id": "oh4wOAbkLVVIdOH",
-	"json": "{\"id\":\"oh4wOAbkLVVIdOH\",\"url\":\"https://www.alza.cz/dji-neo-2-fly-more-combo-dji-rc-n3-d13158065.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-neo-2-fly-more-combo-dji-rc-n3-d13158065.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-neo-2-fly-more-combo-dji-rc-n3-d13158065.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:51.926Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/dji-neo-2-fly-more-combo-dji-rc-n3-d13158065.htm",
-	"url": "https://www.alza.cz/dji-neo-2-fly-more-combo-dji-rc-n3-d13158065.htm"
-}

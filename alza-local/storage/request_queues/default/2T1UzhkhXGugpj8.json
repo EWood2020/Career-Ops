@@ -1,9 +1,0 @@
-{
-	"id": "2T1UzhkhXGugpj8",
-	"json": "{\"id\":\"2T1UzhkhXGugpj8\",\"url\":\"https://www.alza.cz/EN/gaming/playstation-vr-glasses/18862778.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-vr-headsets/18862778.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/playstation-vr-glasses/18862778.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:56.128Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/playstation-vr-glasses/18862778.htm",
-	"url": "https://www.alza.cz/EN/gaming/playstation-vr-glasses/18862778.htm"
-}

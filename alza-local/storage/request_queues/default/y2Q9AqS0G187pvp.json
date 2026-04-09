@@ -1,9 +1,0 @@
-{
-	"id": "y2Q9AqS0G187pvp",
-	"json": "{\"id\":\"y2Q9AqS0G187pvp\",\"url\":\"https://www.alza.cz/razer-kraken-kitty-v3-x-quartz-d13101160.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/razer-kraken-kitty-v3-x-quartz-d13101160.htm\",\"uniqueKey\":\"https://www.alza.cz/razer-kraken-kitty-v3-x-quartz-d13101160.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:42.330Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/razer-kraken-kitty-v3-x-quartz-d13101160.htm",
-	"url": "https://www.alza.cz/razer-kraken-kitty-v3-x-quartz-d13101160.htm"
-}

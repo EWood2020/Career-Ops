@@ -1,9 +1,0 @@
-{
-	"id": "iSlMEMw3bnJRlA3",
-	"json": "{\"id\":\"iSlMEMw3bnJRlA3\",\"url\":\"https://www.alza.cz/pet/hygiena-a-kosmetika-pro-kocky/18869857.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/hygiena-a-kosmetika-pro-kocky/18869857.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/hygiena-a-kosmetika-pro-kocky/18869857.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:38:32.263Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/hygiena-a-kosmetika-pro-kocky/18869857.htm",
-	"url": "https://www.alza.cz/pet/hygiena-a-kosmetika-pro-kocky/18869857.htm"
-}

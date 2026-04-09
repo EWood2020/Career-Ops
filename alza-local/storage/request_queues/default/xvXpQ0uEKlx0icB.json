@@ -1,9 +1,0 @@
-{
-	"id": "xvXpQ0uEKlx0icB",
-	"json": "{\"id\":\"xvXpQ0uEKlx0icB\",\"url\":\"https://www.alza.cz/EN/hracky/lego-star-wars/18851181.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-star-wars/18851181.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-star-wars/18851181.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:08.040Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-star-wars/18851181.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-star-wars/18851181.htm"
-}

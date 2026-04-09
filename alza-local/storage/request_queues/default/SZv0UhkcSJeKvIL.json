@@ -1,9 +1,0 @@
-{
-	"id": "SZv0UhkcSJeKvIL",
-	"json": "{\"id\":\"SZv0UhkcSJeKvIL\",\"url\":\"https://www.alza.cz/epson-lifestudio-pop-ef-62b-d13104384.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/epson-lifestudio-pop-ef-62b-d13104384.htm\",\"uniqueKey\":\"https://www.alza.cz/epson-lifestudio-pop-ef-62b-d13104384.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:33.186Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/epson-lifestudio-pop-ef-62b-d13104384.htm",
-	"url": "https://www.alza.cz/epson-lifestudio-pop-ef-62b-d13104384.htm"
-}

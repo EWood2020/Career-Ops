@@ -1,9 +1,0 @@
-{
-	"id": "QPbZkfVdkKoTGAc",
-	"json": "{\"id\":\"QPbZkfVdkKoTGAc\",\"url\":\"https://www.alza.cz/pet/hracky-pro-psy/18869620.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/dog-toys/18869620.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/hracky-pro-psy/18869620.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:25.930Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/hracky-pro-psy/18869620.htm",
-	"url": "https://www.alza.cz/pet/hracky-pro-psy/18869620.htm"
-}

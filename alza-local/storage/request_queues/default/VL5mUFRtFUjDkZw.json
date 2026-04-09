@@ -1,9 +1,0 @@
-{
-	"id": "VL5mUFRtFUjDkZw",
-	"json": "{\"id\":\"VL5mUFRtFUjDkZw\",\"url\":\"https://www.alza.cz/EN/monitors-sorted-by-size/18875854.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitors-sorted-by-size/18875854.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitors-sorted-by-size/18875854.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:41.172Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/monitors-sorted-by-size/18875854.htm",
-	"url": "https://www.alza.cz/EN/monitors-sorted-by-size/18875854.htm"
-}

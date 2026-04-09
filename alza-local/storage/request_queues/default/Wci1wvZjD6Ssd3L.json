@@ -1,9 +1,0 @@
-{
-	"id": "Wci1wvZjD6Ssd3L",
-	"json": "{\"id\":\"Wci1wvZjD6Ssd3L\",\"url\":\"https://www.alza.cz/EN/toys/lego-for-girls/18917428.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-for-girls/18917428.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/lego-for-girls/18917428.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:54.738Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/toys/lego-for-girls/18917428.htm",
-	"url": "https://www.alza.cz/EN/toys/lego-for-girls/18917428.htm"
-}

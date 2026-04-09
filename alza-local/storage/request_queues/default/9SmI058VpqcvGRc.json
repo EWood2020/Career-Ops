@@ -1,9 +1,0 @@
-{
-	"id": "9SmI058VpqcvGRc",
-	"json": "{\"id\":\"9SmI058VpqcvGRc\",\"url\":\"https://www.alza.cz/anker-eufy-e20-30000pa-cerny-d13101142.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/anker-eufy-e20-30000pa-black-d13101142.htm\",\"uniqueKey\":\"https://www.alza.cz/anker-eufy-e20-30000pa-cerny-d13101142.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:43.795Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/anker-eufy-e20-30000pa-cerny-d13101142.htm",
-	"url": "https://www.alza.cz/anker-eufy-e20-30000pa-cerny-d13101142.htm"
-}

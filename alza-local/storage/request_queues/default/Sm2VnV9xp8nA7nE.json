@@ -1,9 +1,0 @@
-{
-	"id": "Sm2VnV9xp8nA7nE",
-	"json": "{\"id\":\"Sm2VnV9xp8nA7nE\",\"url\":\"https://www.alza.cz/pet/cestovani-se-psy/18869679.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/travelling-with-dogs/18869679.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/cestovani-se-psy/18869679.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:02.344Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/cestovani-se-psy/18869679.htm",
-	"url": "https://www.alza.cz/pet/cestovani-se-psy/18869679.htm"
-}

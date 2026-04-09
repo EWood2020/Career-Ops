@@ -1,9 +1,0 @@
-{
-	"id": "fk37wLhAlTJlrAa",
-	"json": "{\"id\":\"fk37wLhAlTJlrAa\",\"url\":\"https://www.alza.cz/EN/wanbo-t2-ultra-d12726910.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/wanbo-t2-ultra-d12726910.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/wanbo-t2-ultra-d12726910.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:40.616Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/wanbo-t2-ultra-d12726910.htm",
-	"url": "https://www.alza.cz/EN/wanbo-t2-ultra-d12726910.htm"
-}

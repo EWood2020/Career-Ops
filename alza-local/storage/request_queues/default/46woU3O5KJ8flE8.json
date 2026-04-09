@@ -1,9 +1,0 @@
-{
-	"id": "46woU3O5KJ8flE8",
-	"json": "{\"id\":\"46woU3O5KJ8flE8\",\"url\":\"https://www.alza.cz/EN/asus-laptops/18865377.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-laptops/18865377.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/asus-laptops/18865377.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:27.895Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/asus-laptops/18865377.htm",
-	"url": "https://www.alza.cz/EN/asus-laptops/18865377.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "czFs2K8Qp9ZeY2L",
-	"json": "{\"id\":\"czFs2K8Qp9ZeY2L\",\"url\":\"https://www.alza.cz/lego-botanicals-10349-vesele-rostlinky-d12914446.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-botanicals-10349-happy-plants-d12914446.htm\",\"uniqueKey\":\"https://www.alza.cz/lego-botanicals-10349-vesele-rostlinky-d12914446.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:10.981Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/lego-botanicals-10349-vesele-rostlinky-d12914446.htm",
-	"url": "https://www.alza.cz/lego-botanicals-10349-vesele-rostlinky-d12914446.htm"
-}

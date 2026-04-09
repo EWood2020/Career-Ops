@@ -1,9 +1,0 @@
-{
-	"id": "ZuN57h88mhuZ7a3",
-	"json": "{\"id\":\"ZuN57h88mhuZ7a3\",\"url\":\"https://www.alza.cz/pet/vycvikove-pomucky-pro-psy/18869645.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/training-tools-for-dogs/18869645.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/vycvikove-pomucky-pro-psy/18869645.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:29.353Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/vycvikove-pomucky-pro-psy/18869645.htm",
-	"url": "https://www.alza.cz/pet/vycvikove-pomucky-pro-psy/18869645.htm"
-}

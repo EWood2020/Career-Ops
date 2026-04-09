@@ -1,9 +1,0 @@
-{
-	"id": "6dmWnag17xPzMXc",
-	"json": "{\"id\":\"6dmWnag17xPzMXc\",\"url\":\"https://www.alza.cz/lenovo-ideapad-1-15amn7-cloud-grey-d7764168.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-ideapad-1-15amn7-cloud-grey-d7764168.htm\",\"uniqueKey\":\"https://www.alza.cz/lenovo-ideapad-1-15amn7-cloud-grey-d7764168.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:42.094Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/lenovo-ideapad-1-15amn7-cloud-grey-d7764168.htm",
-	"url": "https://www.alza.cz/lenovo-ideapad-1-15amn7-cloud-grey-d7764168.htm"
-}

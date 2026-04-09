@@ -1,9 +1,0 @@
-{
-	"id": "YzKZFhhcWt8rPYr",
-	"json": "{\"id\":\"YzKZFhhcWt8rPYr\",\"url\":\"https://www.alza.cz/EN/gaming/lenovo-legion-glasses-d7971590.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/lenovo-legion-glasses-d7971590.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/lenovo-legion-glasses-d7971590.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:53:33.257Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/lenovo-legion-glasses-d7971590.htm",
-	"url": "https://www.alza.cz/EN/gaming/lenovo-legion-glasses-d7971590.htm"
-}

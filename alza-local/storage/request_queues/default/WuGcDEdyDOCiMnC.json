@@ -1,9 +1,0 @@
-{
-	"id": "WuGcDEdyDOCiMnC",
-	"json": "{\"id\":\"WuGcDEdyDOCiMnC\",\"url\":\"https://www.alza.cz/EN/24-philips-24m2n3200nf-00-d13032937.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/24-philips-24m2n3200nf-00-d13032937.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/24-philips-24m2n3200nf-00-d13032937.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:23.662Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/24-philips-24m2n3200nf-00-d13032937.htm",
-	"url": "https://www.alza.cz/EN/24-philips-24m2n3200nf-00-d13032937.htm"
-}

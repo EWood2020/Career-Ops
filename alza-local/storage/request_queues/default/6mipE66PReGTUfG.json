@@ -1,9 +1,0 @@
-{
-	"id": "6mipE66PReGTUfG",
-	"json": "{\"id\":\"6mipE66PReGTUfG\",\"url\":\"https://www.alza.cz/EN/hracky/lego-city/18851174.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-city/18851174.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-city/18851174.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:18.807Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-city/18851174.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-city/18851174.htm"
-}

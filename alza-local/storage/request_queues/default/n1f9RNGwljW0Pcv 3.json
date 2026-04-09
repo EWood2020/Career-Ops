@@ -1,9 +1,0 @@
-{
-	"id": "n1f9RNGwljW0Pcv",
-	"json": "{\"id\":\"n1f9RNGwljW0Pcv\",\"url\":\"https://www.alza.cz/EN/luxurious-most-expensive-headphones/18843602.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/luxurious-most-expensive-headphones/18843602.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/luxurious-most-expensive-headphones/18843602.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:28:08.219Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/luxurious-most-expensive-headphones/18843602.htm",
-	"url": "https://www.alza.cz/EN/luxurious-most-expensive-headphones/18843602.htm"
-}

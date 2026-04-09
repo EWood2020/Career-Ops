@@ -1,9 +1,0 @@
-{
-	"id": "HzzDjwoRCJaoWe5",
-	"json": "{\"id\":\"HzzDjwoRCJaoWe5\",\"url\":\"https://www.alza.cz/EN/sluchatka-k-televizi/18859706.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/tv-headphones/18859706.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/sluchatka-k-televizi/18859706.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:02.749Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/sluchatka-k-televizi/18859706.htm",
-	"url": "https://www.alza.cz/EN/sluchatka-k-televizi/18859706.htm"
-}

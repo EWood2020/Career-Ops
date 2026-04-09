@@ -1,9 +1,0 @@
-{
-	"id": "TpsN8kEG6VHZUed",
-	"json": "{\"id\":\"TpsN8kEG6VHZUed\",\"url\":\"https://www.alza.cz/EN/macbook-air-13-m4-cz-2025-dark-ink-d12829194.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/macbook-air-13-m4-cz-2025-dark-ink-d12829194.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/macbook-air-13-m4-cz-2025-dark-ink-d12829194.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:09.342Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/macbook-air-13-m4-cz-2025-dark-ink-d12829194.htm",
-	"url": "https://www.alza.cz/EN/macbook-air-13-m4-cz-2025-dark-ink-d12829194.htm"
-}

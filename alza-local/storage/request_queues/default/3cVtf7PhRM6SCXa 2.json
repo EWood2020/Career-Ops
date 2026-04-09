@@ -1,9 +1,0 @@
-{
-	"id": "3cVtf7PhRM6SCXa",
-	"json": "{\"id\":\"3cVtf7PhRM6SCXa\",\"url\":\"https://www.alza.cz/EN/dji-air-3s-fly-more-combo-dji-rc-2-d12611346.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-air-3s-fly-more-combo-dji-rc-2-d12611346.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dji-air-3s-fly-more-combo-dji-rc-2-d12611346.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:26:40.199Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/dji-air-3s-fly-more-combo-dji-rc-2-d12611346.htm",
-	"url": "https://www.alza.cz/EN/dji-air-3s-fly-more-combo-dji-rc-2-d12611346.htm"
-}

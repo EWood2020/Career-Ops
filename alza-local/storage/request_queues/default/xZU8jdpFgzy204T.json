@@ -1,9 +1,0 @@
-{
-	"id": "xZU8jdpFgzy204T",
-	"json": "{\"id\":\"xZU8jdpFgzy204T\",\"url\":\"https://www.alza.cz/EN/gaming/nintendo-switch-2/18915766.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-switch-2/18915766.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/nintendo-switch-2/18915766.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:04:13.187Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/nintendo-switch-2/18915766.htm",
-	"url": "https://www.alza.cz/EN/gaming/nintendo-switch-2/18915766.htm"
-}

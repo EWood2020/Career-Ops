@@ -1,9 +1,0 @@
-{
-	"id": "RVpwlcMMMTu36lE",
-	"json": "{\"id\":\"RVpwlcMMMTu36lE\",\"url\":\"https://www.alza.cz/27-samsung-s30gd-fullhd-d12754950.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-samsung-s30gd-d12754950.htm\",\"uniqueKey\":\"https://www.alza.cz/27-samsung-s30gd-fullhd-d12754950.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:33.218Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/27-samsung-s30gd-fullhd-d12754950.htm",
-	"url": "https://www.alza.cz/27-samsung-s30gd-fullhd-d12754950.htm"
-}

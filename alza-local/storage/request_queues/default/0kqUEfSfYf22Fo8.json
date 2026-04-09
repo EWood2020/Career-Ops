@@ -1,9 +1,0 @@
-{
-	"id": "0kqUEfSfYf22Fo8",
-	"json": "{\"id\":\"0kqUEfSfYf22Fo8\",\"url\":\"https://www.alza.cz/pet/pro-plan-kitten-healthy-start-granule-pro-kotata-kure-3-kg-d6636783.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/pro-plan-kitten-healthy-start-granule-pro-kotata-kure-3-kg-d6636783.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pro-plan-kitten-healthy-start-granule-pro-kotata-kure-3-kg-d6636783.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:07:39.098Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/pro-plan-kitten-healthy-start-granule-pro-kotata-kure-3-kg-d6636783.htm",
-	"url": "https://www.alza.cz/pet/pro-plan-kitten-healthy-start-granule-pro-kotata-kure-3-kg-d6636783.htm"
-}

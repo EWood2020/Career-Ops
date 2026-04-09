@@ -1,9 +1,0 @@
-{
-	"id": "zZNxFBnhgoLgY5x",
-	"json": "{\"id\":\"zZNxFBnhgoLgY5x\",\"url\":\"https://www.alza.cz/EN/hracky/ninjove-a-draci-lego/18893904.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/ninjas-dragons-lego/18893904.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/ninjove-a-draci-lego/18893904.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:48.843Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/ninjove-a-draci-lego/18893904.htm",
-	"url": "https://www.alza.cz/EN/hracky/ninjove-a-draci-lego/18893904.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "GD1gyBTOP8jkiCn",
-	"json": "{\"id\":\"GD1gyBTOP8jkiCn\",\"url\":\"https://www.alza.cz/aff-4347-dron-e99-4k-zoom-50-x-3-7v-1800mah-500-m-d12959200.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/aff-4347-drone-e99-4k-zoom-50-x-3-7v-1800mah-500-m-d12959200.htm\",\"uniqueKey\":\"https://www.alza.cz/aff-4347-dron-e99-4k-zoom-50-x-3-7v-1800mah-500-m-d12959200.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:56.925Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/aff-4347-dron-e99-4k-zoom-50-x-3-7v-1800mah-500-m-d12959200.htm",
-	"url": "https://www.alza.cz/aff-4347-dron-e99-4k-zoom-50-x-3-7v-1800mah-500-m-d12959200.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "D1lITVn0ZeqKjyE",
-	"json": "{\"id\":\"D1lITVn0ZeqKjyE\",\"url\":\"https://www.alza.cz/EN/27-philips-27e1n1100a-d12438432.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-philips-27e1n1100a-d12438432.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/27-philips-27e1n1100a-d12438432.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:25.399Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/27-philips-27e1n1100a-d12438432.htm",
-	"url": "https://www.alza.cz/EN/27-philips-27e1n1100a-d12438432.htm"
-}

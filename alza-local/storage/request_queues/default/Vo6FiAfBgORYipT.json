@@ -1,9 +1,0 @@
-{
-	"id": "Vo6FiAfBgORYipT",
-	"json": "{\"id\":\"Vo6FiAfBgORYipT\",\"url\":\"https://www.alza.cz/EN/hracky/lego-technic/18851176.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-technic/18851176.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-technic/18851176.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:09.903Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-technic/18851176.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-technic/18851176.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "gGIPIr8n3DVZHxG",
-	"json": "{\"id\":\"gGIPIr8n3DVZHxG\",\"url\":\"https://www.alza.cz/27-samsung-odyssey-g51c-d9835589.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-samsung-odyssey-g51c-d9835589.htm\",\"uniqueKey\":\"https://www.alza.cz/27-samsung-odyssey-g51c-d9835589.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:30.131Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/27-samsung-odyssey-g51c-d9835589.htm",
-	"url": "https://www.alza.cz/27-samsung-odyssey-g51c-d9835589.htm"
-}

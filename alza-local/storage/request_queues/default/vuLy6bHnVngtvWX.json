@@ -1,9 +1,0 @@
-{
-	"id": "vuLy6bHnVngtvWX",
-	"json": "{\"id\":\"vuLy6bHnVngtvWX\",\"url\":\"https://www.alza.cz/EN/gaming/konzole-xbox-series-x/18881555.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-series-x-consoles/18881555.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/konzole-xbox-series-x/18881555.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:28.301Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/konzole-xbox-series-x/18881555.htm",
-	"url": "https://www.alza.cz/EN/gaming/konzole-xbox-series-x/18881555.htm"
-}

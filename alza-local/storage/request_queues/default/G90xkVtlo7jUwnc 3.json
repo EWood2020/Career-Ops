@@ -1,9 +1,0 @@
-{
-	"id": "G90xkVtlo7jUwnc",
-	"json": "{\"id\":\"G90xkVtlo7jUwnc\",\"url\":\"https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-ea-sports-fc-26-d13111714.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-digital-edition-825gb-ea-sports-fc-26-d13111714.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-ea-sports-fc-26-d13111714.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:30:24.034Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-ea-sports-fc-26-d13111714.htm",
-	"url": "https://www.alza.cz/gaming/playstation-5-slim-digital-edition-825gb-ea-sports-fc-26-d13111714.htm"
-}

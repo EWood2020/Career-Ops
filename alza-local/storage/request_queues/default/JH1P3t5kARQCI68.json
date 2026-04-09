@@ -1,9 +1,0 @@
-{
-	"id": "JH1P3t5kARQCI68",
-	"json": "{\"id\":\"JH1P3t5kARQCI68\",\"url\":\"https://www.alza.cz/pet/brit-fresh-veal-with-millet-6-400-g-d12697338.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-veal-with-millet-6-400-g-d12697338.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-veal-with-millet-6-400-g-d12697338.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:51.615Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-veal-with-millet-6-400-g-d12697338.htm",
-	"url": "https://www.alza.cz/pet/brit-fresh-veal-with-millet-6-400-g-d12697338.htm"
-}

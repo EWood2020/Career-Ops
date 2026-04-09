@@ -1,9 +1,0 @@
-{
-	"id": "IhKtHXa4fCqBQeG",
-	"json": "{\"id\":\"IhKtHXa4fCqBQeG\",\"url\":\"https://www.alza.cz/EN/hracky/lego-od-4-let/18855456.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-sets-ages-4/18855456.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-od-4-let/18855456.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:57.829Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-od-4-let/18855456.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-od-4-let/18855456.htm"
-}

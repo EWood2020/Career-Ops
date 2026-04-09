@@ -1,9 +1,0 @@
-{
-	"id": "wZOXRlLoGkvKMup",
-	"json": "{\"id\":\"wZOXRlLoGkvKMup\",\"url\":\"https://www.alza.cz/EN/toys/creative-sets/18857193.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/creative-sets/18857193.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/toys/creative-sets/18857193.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:44:18.176Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/toys/creative-sets/18857193.htm",
-	"url": "https://www.alza.cz/EN/toys/creative-sets/18857193.htm"
-}

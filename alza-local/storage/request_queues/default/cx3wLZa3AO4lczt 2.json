@@ -1,9 +1,0 @@
-{
-	"id": "cx3wLZa3AO4lczt",
-	"json": "{\"id\":\"cx3wLZa3AO4lczt\",\"url\":\"https://www.alza.cz/sonos-ace-white-d12360246.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sonos-ace-white-d12360246.htm\",\"uniqueKey\":\"https://www.alza.cz/sonos-ace-white-d12360246.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:28:14.598Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/sonos-ace-white-d12360246.htm",
-	"url": "https://www.alza.cz/sonos-ace-white-d12360246.htm"
-}

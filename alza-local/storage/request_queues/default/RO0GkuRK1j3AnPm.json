@@ -1,9 +1,0 @@
-{
-	"id": "RO0GkuRK1j3AnPm",
-	"json": "{\"id\":\"RO0GkuRK1j3AnPm\",\"url\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-sterling-silver-d7963081.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-dualsense-wireless-controller-sterling-silver-d7963081.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-sterling-silver-d7963081.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:23.974Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-sterling-silver-d7963081.htm",
-	"url": "https://www.alza.cz/gaming/playstation-5-dualsense-wireless-controller-sterling-silver-d7963081.htm"
-}

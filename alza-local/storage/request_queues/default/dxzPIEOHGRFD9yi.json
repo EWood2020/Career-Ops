@@ -1,9 +1,0 @@
-{
-	"id": "dxzPIEOHGRFD9yi",
-	"json": "{\"id\":\"dxzPIEOHGRFD9yi\",\"url\":\"https://www.alza.cz/EN/hp-laptops/18865376.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/hp-laptops/18865376.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hp-laptops/18865376.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:29.865Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hp-laptops/18865376.htm",
-	"url": "https://www.alza.cz/EN/hp-laptops/18865376.htm"
-}

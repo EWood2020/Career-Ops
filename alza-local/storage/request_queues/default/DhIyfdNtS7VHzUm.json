@@ -1,9 +1,0 @@
-{
-	"id": "DhIyfdNtS7VHzUm",
-	"json": "{\"id\":\"DhIyfdNtS7VHzUm\",\"url\":\"https://www.alza.cz/jbl-tune-520bt-fialova-d7683100.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-tune-520bt-purple-d7683100.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-tune-520bt-fialova-d7683100.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:25.568Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/jbl-tune-520bt-fialova-d7683100.htm",
-	"url": "https://www.alza.cz/jbl-tune-520bt-fialova-d7683100.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "2aHadQPKpQ2tgFL",
-	"json": "{\"id\":\"2aHadQPKpQ2tgFL\",\"url\":\"https://www.alza.cz/EN/gaming/xbox-gaming-consoles/18916032.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/xbox-gaming-consoles/18916032.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/xbox-gaming-consoles/18916032.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:34:10.347Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/xbox-gaming-consoles/18916032.htm",
-	"url": "https://www.alza.cz/EN/gaming/xbox-gaming-consoles/18916032.htm"
-}

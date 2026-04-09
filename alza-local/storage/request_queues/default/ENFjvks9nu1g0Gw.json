@@ -1,9 +1,0 @@
-{
-	"id": "ENFjvks9nu1g0Gw",
-	"json": "{\"id\":\"ENFjvks9nu1g0Gw\",\"url\":\"https://www.alza.cz/EN/lego-kvetiny/18907878.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-flowers/18907878.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lego-kvetiny/18907878.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:34.573Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/lego-kvetiny/18907878.htm",
-	"url": "https://www.alza.cz/EN/lego-kvetiny/18907878.htm"
-}

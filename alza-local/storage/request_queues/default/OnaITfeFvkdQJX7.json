@@ -1,9 +1,0 @@
-{
-	"id": "OnaITfeFvkdQJX7",
-	"json": "{\"id\":\"OnaITfeFvkdQJX7\",\"url\":\"https://www.alza.cz/23-8-msi-mag-244f-d12883213.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/23-8-msi-mag-244f-d12883213.htm\",\"uniqueKey\":\"https://www.alza.cz/23-8-msi-mag-244f-d12883213.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:44.571Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/23-8-msi-mag-244f-d12883213.htm",
-	"url": "https://www.alza.cz/23-8-msi-mag-244f-d12883213.htm"
-}

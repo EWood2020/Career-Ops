@@ -1,9 +1,0 @@
-{
-	"id": "XGJ1TZ1AibPKLnm",
-	"json": "{\"id\":\"XGJ1TZ1AibPKLnm\",\"url\":\"https://www.alza.cz/dji-neo-d12508369.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-neo-d12508369.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-neo-d12508369.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:56:55.644Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/dji-neo-d12508369.htm",
-	"url": "https://www.alza.cz/dji-neo-d12508369.htm"
-}

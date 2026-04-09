@@ -1,9 +1,0 @@
-{
-	"id": "PAjPjDPLegJ8zj1",
-	"json": "{\"id\":\"PAjPjDPLegJ8zj1\",\"url\":\"https://www.alza.cz/EN/pet/pet-supplies-for-dogs/18869014.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/pet-supplies-for-dogs/18869014.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/pet/pet-supplies-for-dogs/18869014.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-19T17:43:54.390Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/pet/pet-supplies-for-dogs/18869014.htm",
-	"url": "https://www.alza.cz/EN/pet/pet-supplies-for-dogs/18869014.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "TrQG1zUgzuIVG04",
-	"json": "{\"id\":\"TrQG1zUgzuIVG04\",\"url\":\"https://www.alza.cz/EN/roborock-qrevo-edge-5in1-d12878540.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/roborock-qrevo-edge-5in1-d12878540.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/roborock-qrevo-edge-5in1-d12878540.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:08:43.378Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/roborock-qrevo-edge-5in1-d12878540.htm",
-	"url": "https://www.alza.cz/EN/roborock-qrevo-edge-5in1-d12878540.htm"
-}

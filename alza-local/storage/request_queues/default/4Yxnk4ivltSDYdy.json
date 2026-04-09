@@ -1,9 +1,0 @@
-{
-	"id": "4Yxnk4ivltSDYdy",
-	"json": "{\"id\":\"4Yxnk4ivltSDYdy\",\"url\":\"https://www.alza.cz/EN/gaming/nintendo-store/18879052.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nintendo-store/18879052.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/nintendo-store/18879052.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:04:19.806Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/nintendo-store/18879052.htm",
-	"url": "https://www.alza.cz/EN/gaming/nintendo-store/18879052.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "KlvkbSpyzPPDoM6",
-	"json": "{\"id\":\"KlvkbSpyzPPDoM6\",\"url\":\"https://www.alza.cz/dji-mini-4-pro-dji-rc-2-d7930611.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dji-mini-4-pro-dji-rc-2-d7930611.htm\",\"uniqueKey\":\"https://www.alza.cz/dji-mini-4-pro-dji-rc-2-d7930611.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:26:15.881Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/dji-mini-4-pro-dji-rc-2-d7930611.htm",
-	"url": "https://www.alza.cz/dji-mini-4-pro-dji-rc-2-d7930611.htm"
-}

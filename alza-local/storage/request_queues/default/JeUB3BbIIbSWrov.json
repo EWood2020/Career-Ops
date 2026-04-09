@@ -1,9 +1,0 @@
-{
-	"id": "JeUB3BbIIbSWrov",
-	"json": "{\"id\":\"JeUB3BbIIbSWrov\",\"url\":\"https://www.alza.cz/gaming/rennsport-ps5-d13105227.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/rennsport-ps5-d13105227.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/rennsport-ps5-d13105227.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:17.875Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/rennsport-ps5-d13105227.htm",
-	"url": "https://www.alza.cz/gaming/rennsport-ps5-d13105227.htm"
-}

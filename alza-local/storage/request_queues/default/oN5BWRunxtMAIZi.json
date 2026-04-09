@@ -1,9 +1,0 @@
-{
-	"id": "oN5BWRunxtMAIZi",
-	"json": "{\"id\":\"oN5BWRunxtMAIZi\",\"url\":\"https://www.alza.cz/EN/27-benq-designvue-pd2706u-d7895620.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-benq-designvue-pd2706u-d7895620.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/27-benq-designvue-pd2706u-d7895620.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:51:01.466Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/27-benq-designvue-pd2706u-d7895620.htm",
-	"url": "https://www.alza.cz/EN/27-benq-designvue-pd2706u-d7895620.htm"
-}

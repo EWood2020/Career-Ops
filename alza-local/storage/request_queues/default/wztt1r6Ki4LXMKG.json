@@ -1,9 +1,0 @@
-{
-	"id": "wztt1r6Ki4LXMKG",
-	"json": "{\"id\":\"wztt1r6Ki4LXMKG\",\"url\":\"https://www.alza.cz/EN/headphones/18843602.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/headphones/18843602.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/headphones/18843602.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-19T17:43:33.493Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/headphones/18843602.htm",
-	"url": "https://www.alza.cz/EN/headphones/18843602.htm"
-}

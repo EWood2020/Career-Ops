@@ -1,9 +1,0 @@
-{
-	"id": "NNF3zE5mWyXo6nE",
-	"json": "{\"id\":\"NNF3zE5mWyXo6nE\",\"url\":\"https://www.alza.cz/gaming/lego-star-wars-the-skywalker-saga-nintendo-switch-d13096010.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/lego-star-wars-the-skywalker-saga-nintendo-switch-d13096010.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/lego-star-wars-the-skywalker-saga-nintendo-switch-d13096010.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:05.791Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/lego-star-wars-the-skywalker-saga-nintendo-switch-d13096010.htm",
-	"url": "https://www.alza.cz/gaming/lego-star-wars-the-skywalker-saga-nintendo-switch-d13096010.htm"
-}

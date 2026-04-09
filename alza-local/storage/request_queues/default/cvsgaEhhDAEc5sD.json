@@ -1,9 +1,0 @@
-{
-	"id": "cvsgaEhhDAEc5sD",
-	"json": "{\"id\":\"cvsgaEhhDAEc5sD\",\"url\":\"https://www.alza.cz/EN/media/xbox-game-pass-ultimate-3-month-subscription-d12825005.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/media/xbox-game-pass-ultimate-3-month-subscription-d12825005.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/media/xbox-game-pass-ultimate-3-month-subscription-d12825005.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-11-19T18:10:00.461Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/media/xbox-game-pass-ultimate-3-month-subscription-d12825005.htm",
-	"url": "https://www.alza.cz/EN/media/xbox-game-pass-ultimate-3-month-subscription-d12825005.htm"
-}

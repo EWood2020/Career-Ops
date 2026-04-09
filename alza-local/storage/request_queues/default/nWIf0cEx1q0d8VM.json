@@ -1,9 +1,0 @@
-{
-	"id": "nWIf0cEx1q0d8VM",
-	"json": "{\"id\":\"nWIf0cEx1q0d8VM\",\"url\":\"https://www.alza.cz/EN/hracky/lego-od-9-let/18855457.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-sets-ages-4/18855457.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-od-9-let/18855457.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:00.248Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-od-9-let/18855457.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-od-9-let/18855457.htm"
-}

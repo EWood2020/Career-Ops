@@ -1,9 +1,0 @@
-{
-	"id": "OeAiirWvOLrNGBH",
-	"json": "{\"id\":\"OeAiirWvOLrNGBH\",\"url\":\"https://www.alza.cz/optoma-hd28e-d5795662.htm\",\"loadedUrl\":\"https://www.alza.cz/optoma-hd28e-d5795662.htm\",\"uniqueKey\":\"https://www.alza.cz/optoma-hd28e-d5795662.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:53:53.495Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/optoma-hd28e-d5795662.htm",
-	"url": "https://www.alza.cz/optoma-hd28e-d5795662.htm"
-}

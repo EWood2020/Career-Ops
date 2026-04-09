@@ -1,9 +1,0 @@
-{
-	"id": "AJOz1xLapPaespp",
-	"json": "{\"id\":\"AJOz1xLapPaespp\",\"url\":\"https://www.alza.cz/pet/brit-care-mini-grain-free-light-sterilised-2-kg-d5616421.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/brit-care-mini-grain-free-light-sterilised-2-kg-d5616421.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-care-mini-grain-free-light-sterilised-2-kg-d5616421.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:32.576Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-care-mini-grain-free-light-sterilised-2-kg-d5616421.htm",
-	"url": "https://www.alza.cz/pet/brit-care-mini-grain-free-light-sterilised-2-kg-d5616421.htm"
-}

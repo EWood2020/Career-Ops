@@ -1,9 +1,0 @@
-{
-	"id": "W22nMAF0gZk3iMC",
-	"json": "{\"id\":\"W22nMAF0gZk3iMC\",\"url\":\"https://www.alza.cz/pet/pedigree-vital-protection-kapsicka-masovy-vyber-v-zele-pro-dospele-psy-48-100-g-d5848448.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/pedigree-vital-protection-meat-selection-in-jelly-48-x-100g-d5848448.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/pedigree-vital-protection-kapsicka-masovy-vyber-v-zele-pro-dospele-psy-48-100-g-d5848448.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:43.147Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/pedigree-vital-protection-kapsicka-masovy-vyber-v-zele-pro-dospele-psy-48-100-g-d5848448.htm",
-	"url": "https://www.alza.cz/pet/pedigree-vital-protection-kapsicka-masovy-vyber-v-zele-pro-dospele-psy-48-100-g-d5848448.htm"
-}

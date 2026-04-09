@@ -1,9 +1,0 @@
-{
-	"id": "ZWleBkmbg54pcz7",
-	"json": "{\"id\":\"ZWleBkmbg54pcz7\",\"url\":\"https://www.alza.cz/jbl-wave-beam-2-cerna-d12763426.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-wave-beam-2-black-d12763426.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-wave-beam-2-cerna-d12763426.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:57:45.656Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/jbl-wave-beam-2-cerna-d12763426.htm",
-	"url": "https://www.alza.cz/jbl-wave-beam-2-cerna-d12763426.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "Dz7VhD7355yZe3l",
-	"json": "{\"id\":\"Dz7VhD7355yZe3l\",\"url\":\"https://www.alza.cz/adata-microsdxc-1tb-premier-extreme-nvme-d13128332.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/adata-microsdxc-1tb-premier-extreme-nvme-d13128332.htm\",\"uniqueKey\":\"https://www.alza.cz/adata-microsdxc-1tb-premier-extreme-nvme-d13128332.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:05:40.965Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/adata-microsdxc-1tb-premier-extreme-nvme-d13128332.htm",
-	"url": "https://www.alza.cz/adata-microsdxc-1tb-premier-extreme-nvme-d13128332.htm"
-}

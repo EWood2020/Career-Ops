@@ -1,9 +1,0 @@
-{
-	"id": "PzOUEF6hBNc73fF",
-	"json": "{\"id\":\"PzOUEF6hBNc73fF\",\"url\":\"https://www.alza.cz/EN/hracky/lego-wicked/18912808.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-wicked/18912808.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-wicked/18912808.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:32.101Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-wicked/18912808.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-wicked/18912808.htm"
-}

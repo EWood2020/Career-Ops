@@ -1,9 +1,0 @@
-{
-	"id": "9I7Q1MzBeL4VfWX",
-	"json": "{\"id\":\"9I7Q1MzBeL4VfWX\",\"url\":\"https://www.alza.cz/gaming/playstation-5-slim-1tb-minecraft-d12710567.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5-slim-1tb-minecraft-d12710567.htm\",\"uniqueKey\":\"https://www.alza.cz/gaming/playstation-5-slim-1tb-minecraft-d12710567.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:30:02.804Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/gaming/playstation-5-slim-1tb-minecraft-d12710567.htm",
-	"url": "https://www.alza.cz/gaming/playstation-5-slim-1tb-minecraft-d12710567.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "Rq7niLyJS2xGHAb",
-	"json": "{\"id\":\"Rq7niLyJS2xGHAb\",\"url\":\"https://www.alza.cz/EN/hracky/lego-minecraft/18855259.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-minecraft/18855259.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-minecraft/18855259.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:15.388Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-minecraft/18855259.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-minecraft/18855259.htm"
-}

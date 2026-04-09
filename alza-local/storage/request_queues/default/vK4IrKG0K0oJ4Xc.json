@@ -1,9 +1,0 @@
-{
-	"id": "vK4IrKG0K0oJ4Xc",
-	"json": "{\"id\":\"vK4IrKG0K0oJ4Xc\",\"url\":\"https://www.alza.cz/EN/hracky/lego-zviratka/18874085.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-animals/18874085.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-zviratka/18874085.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:44.560Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-zviratka/18874085.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-zviratka/18874085.htm"
-}

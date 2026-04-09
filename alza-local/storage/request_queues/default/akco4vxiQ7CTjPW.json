@@ -1,9 +1,0 @@
-{
-	"id": "akco4vxiQ7CTjPW",
-	"json": "{\"id\":\"akco4vxiQ7CTjPW\",\"url\":\"https://www.alza.cz/steelseries-arctis-nova-5-d10811846.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/steelseries-arctis-nova-5-d10811846.htm\",\"uniqueKey\":\"https://www.alza.cz/steelseries-arctis-nova-5-d10811846.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:24.055Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/steelseries-arctis-nova-5-d10811846.htm",
-	"url": "https://www.alza.cz/steelseries-arctis-nova-5-d10811846.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "xnyvLlC5KgjkXPG",
-	"json": "{\"id\":\"xnyvLlC5KgjkXPG\",\"url\":\"https://www.alza.cz/27-msi-g274f-d9193909.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/27-msi-g274f-d9193909.htm\",\"uniqueKey\":\"https://www.alza.cz/27-msi-g274f-d9193909.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:40.627Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/27-msi-g274f-d9193909.htm",
-	"url": "https://www.alza.cz/27-msi-g274f-d9193909.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "4LvS5Muxxv7Jn0f",
-	"json": "{\"id\":\"4LvS5Muxxv7Jn0f\",\"url\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-cerna-d12883227.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sony-noise-cancelling-wh-1000xm6-black-d12883227.htm\",\"uniqueKey\":\"https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-cerna-d12883227.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:58:08.809Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-cerna-d12883227.htm",
-	"url": "https://www.alza.cz/sony-noise-cancelling-wh-1000xm6-cerna-d12883227.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "GJ2Fy8nbbx8yw6c",
-	"json": "{\"id\":\"GJ2Fy8nbbx8yw6c\",\"url\":\"https://www.alza.cz/pet/antiparazitika-pro-psy/18869178.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/antiparasitics-for-dogs/18869178.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/antiparazitika-pro-psy/18869178.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:12.816Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/antiparazitika-pro-psy/18869178.htm",
-	"url": "https://www.alza.cz/pet/antiparazitika-pro-psy/18869178.htm"
-}

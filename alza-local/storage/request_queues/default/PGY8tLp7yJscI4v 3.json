@@ -1,9 +1,0 @@
-{
-	"id": "PGY8tLp7yJscI4v",
-	"json": "{\"id\":\"PGY8tLp7yJscI4v\",\"url\":\"https://www.alza.cz/pet/krmivo-pro-psy/18869015.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/dog-food/18869015.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/krmivo-pro-psy/18869015.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:18.477Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/krmivo-pro-psy/18869015.htm",
-	"url": "https://www.alza.cz/pet/krmivo-pro-psy/18869015.htm"
-}

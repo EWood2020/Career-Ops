@@ -1,9 +1,0 @@
-{
-	"id": "ioGdTmJqR79ImOR",
-	"json": "{\"id\":\"ioGdTmJqR79ImOR\",\"url\":\"https://www.alza.cz/EN/full-hd-monitory/18871056.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/full-hd-monitors/18871056.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/full-hd-monitory/18871056.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Navigation timed out after 45 seconds.\\n    at handleRequestTimeout (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/core/crawlers/crawler_utils.js:13:11)\\n    at PlaywrightCrawler._handleNavigationTimeout (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/browser/internals/browser-crawler.js:360:46)\\n    at PlaywrightCrawler._handleNavigation (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/browser/internals/browser-crawler.js:337:24)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/browser/internals/browser-crawler.js:260:13)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@crawlee/playwright/internals/playwright-crawler.js:114:9)\\n    at async wrap (/Users/enriquewoodrivero/Desktop/alza-local/node_modules/@apify/timeout/cjs/index.cjs:54:21)\"],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:22.770Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 1,
-	"uniqueKey": "https://www.alza.cz/EN/full-hd-monitory/18871056.htm",
-	"url": "https://www.alza.cz/EN/full-hd-monitory/18871056.htm"
-}

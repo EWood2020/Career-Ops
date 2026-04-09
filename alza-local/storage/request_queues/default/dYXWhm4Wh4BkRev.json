@@ -1,9 +1,0 @@
-{
-	"id": "dYXWhm4Wh4BkRev",
-	"json": "{\"id\":\"dYXWhm4Wh4BkRev\",\"url\":\"https://www.alza.cz/EN/best-sellers-best-headphones/18843602.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/best-sellers-best-headphones/18843602.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/best-sellers-best-headphones/18843602.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:59:12.228Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/best-sellers-best-headphones/18843602.htm",
-	"url": "https://www.alza.cz/EN/best-sellers-best-headphones/18843602.htm"
-}

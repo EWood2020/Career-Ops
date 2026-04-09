@@ -1,9 +1,0 @@
-{
-	"id": "IfktEH5bd4tOmu2",
-	"json": "{\"id\":\"IfktEH5bd4tOmu2\",\"url\":\"https://www.alza.cz/EN/gaming/playstation-5/18872471.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/playstation-5/18872471.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/gaming/playstation-5/18872471.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:29:39.339Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/gaming/playstation-5/18872471.htm",
-	"url": "https://www.alza.cz/EN/gaming/playstation-5/18872471.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "3l2BcSm08nsRVAt",
-	"json": "{\"id\":\"3l2BcSm08nsRVAt\",\"url\":\"https://www.alza.cz/EN/dell-pro-16-pc16250-magnetite-d12940861.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dell-pro-16-pc16250-magnetite-d12940861.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/dell-pro-16-pc16250-magnetite-d12940861.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:10.392Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/dell-pro-16-pc16250-magnetite-d12940861.htm",
-	"url": "https://www.alza.cz/EN/dell-pro-16-pc16250-magnetite-d12940861.htm"
-}

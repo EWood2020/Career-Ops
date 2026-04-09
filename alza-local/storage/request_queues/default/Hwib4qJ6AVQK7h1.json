@@ -1,9 +1,0 @@
-{
-	"id": "Hwib4qJ6AVQK7h1",
-	"json": "{\"id\":\"Hwib4qJ6AVQK7h1\",\"url\":\"https://www.alza.cz/EN/18849394.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/laptop-batteries/18844765.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/18849394.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:29.630Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/18849394.htm",
-	"url": "https://www.alza.cz/EN/18849394.htm"
-}

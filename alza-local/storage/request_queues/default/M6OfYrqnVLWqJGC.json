@@ -1,9 +1,0 @@
-{
-	"id": "M6OfYrqnVLWqJGC",
-	"json": "{\"id\":\"M6OfYrqnVLWqJGC\",\"url\":\"https://www.alza.cz/nba-2k26-xbox-series-x-d13021851.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/gaming/nba-2k26-xbox-series-x-d13021851.htm\",\"uniqueKey\":\"https://www.alza.cz/nba-2k26-xbox-series-x-d13021851.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:21.592Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/nba-2k26-xbox-series-x-d13021851.htm",
-	"url": "https://www.alza.cz/nba-2k26-xbox-series-x-d13021851.htm"
-}

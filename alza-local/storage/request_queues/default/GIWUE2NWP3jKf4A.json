@@ -1,9 +1,0 @@
-{
-	"id": "GIWUE2NWP3jKf4A",
-	"json": "{\"id\":\"GIWUE2NWP3jKf4A\",\"url\":\"https://www.alza.cz/EN/asus-rog-pelta-d12716972.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-rog-pelta-d12716972.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/asus-rog-pelta-d12716972.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:01:30.247Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/asus-rog-pelta-d12716972.htm",
-	"url": "https://www.alza.cz/EN/asus-rog-pelta-d12716972.htm"
-}

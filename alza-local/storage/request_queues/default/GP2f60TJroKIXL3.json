@@ -1,9 +1,0 @@
-{
-	"id": "GP2f60TJroKIXL3",
-	"json": "{\"id\":\"GP2f60TJroKIXL3\",\"url\":\"https://www.alza.cz/EN/hracky/budovy-lego/18893906.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/buildings-lego/18893906.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/budovy-lego/18893906.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:47.786Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/budovy-lego/18893906.htm",
-	"url": "https://www.alza.cz/EN/hracky/budovy-lego/18893906.htm"
-}

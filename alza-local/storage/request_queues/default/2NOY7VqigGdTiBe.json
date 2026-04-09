@@ -1,9 +1,0 @@
-{
-	"id": "2NOY7VqigGdTiBe",
-	"json": "{\"id\":\"2NOY7VqigGdTiBe\",\"url\":\"https://www.alza.cz/EN/visualisers/18857223.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/visualisers/18857223.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/visualisers/18857223.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:27.171Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/visualisers/18857223.htm",
-	"url": "https://www.alza.cz/EN/visualisers/18857223.htm"
-}

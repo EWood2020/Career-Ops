@@ -1,9 +1,0 @@
-{
-	"id": "LEuE20nNzlWQuKs",
-	"json": "{\"id\":\"LEuE20nNzlWQuKs\",\"url\":\"https://www.alza.cz/jbl-tune-720bt-black-d7683101.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/jbl-tune-720bt-black-d7683101.htm\",\"uniqueKey\":\"https://www.alza.cz/jbl-tune-720bt-black-d7683101.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:00:15.388Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/jbl-tune-720bt-black-d7683101.htm",
-	"url": "https://www.alza.cz/jbl-tune-720bt-black-d7683101.htm"
-}

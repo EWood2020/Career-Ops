@@ -8,3 +8,4 @@ __pycache__/
 .vscode/
 PDF templates/
 **/.DS_Store
+alza-local/

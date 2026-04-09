@@ -1,9 +1,0 @@
-{
-	"id": "I9SYOLXKKMSnzKe",
-	"json": "{\"id\":\"I9SYOLXKKMSnzKe\",\"url\":\"https://www.alza.cz/steelseries-arctis-nova-1-white-d7366331.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/steelseries-arctis-nova-1-white-d7366331.htm\",\"uniqueKey\":\"https://www.alza.cz/steelseries-arctis-nova-1-white-d7366331.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:02:11.584Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/steelseries-arctis-nova-1-white-d7366331.htm",
-	"url": "https://www.alza.cz/steelseries-arctis-nova-1-white-d7366331.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "4t4WaI6pwHdb12p",
-	"json": "{\"id\":\"4t4WaI6pwHdb12p\",\"url\":\"https://www.alza.cz/dangbei-mars-2-lite-d13096736.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/dangbei-mars-2-lite-d13096736.htm\",\"uniqueKey\":\"https://www.alza.cz/dangbei-mars-2-lite-d13096736.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:29.179Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/dangbei-mars-2-lite-d13096736.htm",
-	"url": "https://www.alza.cz/dangbei-mars-2-lite-d13096736.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "40MDZu7acf8a7dL",
-	"json": "{\"id\":\"40MDZu7acf8a7dL\",\"url\":\"https://www.alza.cz/EN/hracky/lego-creator/18893856.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-creator/18893856.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-creator/18893856.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:46:20.564Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-creator/18893856.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-creator/18893856.htm"
-}

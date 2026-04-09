@@ -1,9 +1,0 @@
-{
-	"id": "XtvSGh4LmaI0p8j",
-	"json": "{\"id\":\"XtvSGh4LmaI0p8j\",\"url\":\"https://www.alza.cz/pet/obleceni-a-doplnky-pro-pejskare/18873699.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/pet/clothing-and-accessories-for-dog-owners/18873699.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/obleceni-a-doplnky-pro-pejskare/18873699.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-17T13:37:36.576Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/obleceni-a-doplnky-pro-pejskare/18873699.htm",
-	"url": "https://www.alza.cz/pet/obleceni-a-doplnky-pro-pejskare/18873699.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "wpioILSZoTDfcKW",
-	"json": "{\"id\":\"wpioILSZoTDfcKW\",\"url\":\"https://www.alza.cz/EN/mini-projectors/18860067.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/mini-projectors/18860067.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/mini-projectors/18860067.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:19.001Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/mini-projectors/18860067.htm",
-	"url": "https://www.alza.cz/EN/mini-projectors/18860067.htm"
-}

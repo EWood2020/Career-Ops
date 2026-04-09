@@ -1,9 +1,0 @@
-{
-	"id": "QXsrZhuBwhGl4Ow",
-	"json": "{\"id\":\"QXsrZhuBwhGl4Ow\",\"url\":\"https://www.alza.cz/EN/hracky/lego-z-filmu-a-her/18877781.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/toys/lego-from-games-movies/18877781.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/hracky/lego-z-filmu-a-her/18877781.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:45:38.905Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/hracky/lego-z-filmu-a-her/18877781.htm",
-	"url": "https://www.alza.cz/EN/hracky/lego-z-filmu-a-her/18877781.htm"
-}

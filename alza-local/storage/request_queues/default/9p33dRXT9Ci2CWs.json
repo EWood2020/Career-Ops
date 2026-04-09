@@ -1,9 +1,0 @@
-{
-	"id": "9p33dRXT9Ci2CWs",
-	"json": "{\"id\":\"9p33dRXT9Ci2CWs\",\"url\":\"https://www.alza.cz/EN/home-theaters/dvd-players/dvd-players/18851352.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/home-theaters/dvd-players/dvd-players/18851352.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/home-theaters/dvd-players/dvd-players/18851352.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:55:45.676Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/home-theaters/dvd-players/dvd-players/18851352.htm",
-	"url": "https://www.alza.cz/EN/home-theaters/dvd-players/dvd-players/18851352.htm"
-}

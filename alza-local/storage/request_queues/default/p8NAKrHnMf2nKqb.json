@@ -1,9 +1,0 @@
-{
-	"id": "p8NAKrHnMf2nKqb",
-	"json": "{\"id\":\"p8NAKrHnMf2nKqb\",\"url\":\"https://www.alza.cz/EN/acer-laptops/18865375.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/acer-laptops/18865375.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/acer-laptops/18865375.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:30.826Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/acer-laptops/18865375.htm",
-	"url": "https://www.alza.cz/EN/acer-laptops/18865375.htm"
-}

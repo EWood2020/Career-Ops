@@ -1,9 +1,0 @@
-{
-	"id": "yfvO07Z9GDLaGuH",
-	"json": "{\"id\":\"yfvO07Z9GDLaGuH\",\"url\":\"https://www.alza.cz/asus-tuf-gaming-a16-fa607nug-rl168w-mecha-gray-d13116217.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/asus-tuf-gaming-a16-fa607nug-rl168w-mecha-gray-d13116217.htm\",\"uniqueKey\":\"https://www.alza.cz/asus-tuf-gaming-a16-fa607nug-rl168w-mecha-gray-d13116217.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:48:14.277Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/asus-tuf-gaming-a16-fa607nug-rl168w-mecha-gray-d13116217.htm",
-	"url": "https://www.alza.cz/asus-tuf-gaming-a16-fa607nug-rl168w-mecha-gray-d13116217.htm"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "fxUTeCpn9tcN4fI",
-	"json": "{\"id\":\"fxUTeCpn9tcN4fI\",\"url\":\"https://www.alza.cz/EN/monitors-for-rent/18884259.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/monitors-for-rent/18884259.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/monitors-for-rent/18884259.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:50:50.536Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/monitors-for-rent/18884259.htm",
-	"url": "https://www.alza.cz/EN/monitors-for-rent/18884259.htm"
-}

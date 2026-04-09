@@ -1,9 +1,0 @@
-{
-	"id": "xBfxmadYBykpBRW",
-	"json": "{\"id\":\"xBfxmadYBykpBRW\",\"url\":\"https://www.alza.cz/sencor-srv-9350wh-d7815394.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/sencor-srv-9350wh-d7815394.htm\",\"uniqueKey\":\"https://www.alza.cz/sencor-srv-9350wh-d7815394.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:09:03.430Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/sencor-srv-9350wh-d7815394.htm",
-	"url": "https://www.alza.cz/sencor-srv-9350wh-d7815394.htm"
-}

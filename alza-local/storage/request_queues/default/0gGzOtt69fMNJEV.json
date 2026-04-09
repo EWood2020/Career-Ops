@@ -1,9 +1,0 @@
-{
-	"id": "0gGzOtt69fMNJEV",
-	"json": "{\"id\":\"0gGzOtt69fMNJEV\",\"url\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-sweet-potato-6-400-g-d12697339.htm\",\"loadedUrl\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-sweet-potato-6-400-g-d12697339.htm\",\"uniqueKey\":\"https://www.alza.cz/pet/brit-fresh-chicken-with-sweet-potato-6-400-g-d12697339.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T18:06:55.085Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/pet/brit-fresh-chicken-with-sweet-potato-6-400-g-d12697339.htm",
-	"url": "https://www.alza.cz/pet/brit-fresh-chicken-with-sweet-potato-6-400-g-d12697339.htm"
-}

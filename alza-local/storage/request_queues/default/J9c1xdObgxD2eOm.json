@@ -1,9 +1,0 @@
-{
-	"id": "J9c1xdObgxD2eOm",
-	"json": "{\"id\":\"J9c1xdObgxD2eOm\",\"url\":\"https://www.alza.cz/EN/drzaky-na-projektory/18860073.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/projector-mounts/18860073.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/drzaky-na-projektory/18860073.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:54:16.820Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/drzaky-na-projektory/18860073.htm",
-	"url": "https://www.alza.cz/EN/drzaky-na-projektory/18860073.htm"
-}

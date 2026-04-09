@@ -1,9 +1,0 @@
-{
-	"id": "aSevpMPJlfCEmjs",
-	"json": "{\"id\":\"aSevpMPJlfCEmjs\",\"url\":\"https://www.alza.cz/EN/lenovo-loq-essential-15irx11-luna-grey-d13114461.htm\",\"loadedUrl\":\"https://www.alza.cz/EN/lenovo-loq-essential-15irx11-luna-grey-d13114461.htm\",\"uniqueKey\":\"https://www.alza.cz/EN/lenovo-loq-essential-15irx11-luna-grey-d13114461.htm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-11-19T17:47:43.901Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.alza.cz/EN/lenovo-loq-essential-15irx11-luna-grey-d13114461.htm",
-	"url": "https://www.alza.cz/EN/lenovo-loq-essential-15irx11-luna-grey-d13114461.htm"
-}
