@@ -1042,7 +1042,11 @@ def save_application(
     pdf_filename = f"CV_Enrique_{job_title_clean}_{company_clean}.pdf"
     cv_pdf_file = app_dir / pdf_filename
     # Use the CV PDF template (ReportLab A4) for consistent styling
-    build_cv_pdf(tailored_cv, cv_pdf_file)
+    try:
+        build_cv_pdf(tailored_cv, cv_pdf_file)
+        log.info(f"✓ CV PDF saved: {cv_pdf_file.name}")
+    except Exception as exc:
+        log.error(f"✗ CV PDF failed: {exc}")
 
     # Generate cover letter PDF (template-matched)
     cl_pdf_file = app_dir / f"CoverLetter_Enrique_{job_title_clean}_{company_clean}.pdf"
